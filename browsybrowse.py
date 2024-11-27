@@ -7,6 +7,7 @@ import os
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+import shutil
 
 def capture_chinese_character_section(character):
     # Specify the correct path to your ChromiumDriver
@@ -92,8 +93,8 @@ def capture_chinese_character_section(character):
     if last_content_column > 0:
         cropped_image = cropped_image.crop((0, 0, last_content_column + min(20, cropped_image.width - last_content_column), cropped_image.height))
     
-    # Save the cropped image
-    output_path = f"character_{character}.png"
+    # Save with underscore prefix for Anki
+    output_path = f"_component_{ord(character)}.png"
     cropped_image.save(output_path)
     return output_path
         

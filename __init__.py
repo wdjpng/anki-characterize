@@ -33,17 +33,58 @@ def process_chinese_characters(browser, use_local=False):
                     char_id = f"char_{unicode_value}"
                     html_parts.append(f'<span class="clickable" onclick="showImage(\'{char_id}\')">{char}</span>')
                     
-                    # Create image container for this character
-                    container = (
-                        f'<div id="{char_id}" class="image-container" style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 0x 0;">'
+
+                    # Check if component image exists in Anki's media collection
+                    component_filename = f"_component_{unicode_value}.png"
+                    has_component = os.path.exists(os.path.join(mw.col.media.dir(), component_filename))
+                    
+                    # Create image container with stroke order and optional component
+                    container = [
+                        f'<div id="{char_id}" class="image-container" style="display: flex; justify-content: center; align-items: center; width: 100%; flex-direction: column; margin: 0x 0;">'
                         f'<img src="https://www.strokeorder.com/assets/bishun/guide/{unicode_value}.png"'
-                        f' alt="{char}" style="width: min(75vmin, 500px); display: none; margin: 0 auto;">'
-                        f'</div>'
-                    )
-                    image_containers.append(container)
+                        f' alt="{char}" style="width: min(50vmin, 500px); display: none; margin: 0 auto;">'
+                    ]
+                    
+                    # Add component image if it exists
+                    if has_component:
+                        container.append(
+                            f'<img src="{component_filename}"'
+                            f' style="width: min(120vmin, 500px); display: none; margin: 0 auto;">'
+                        )
+                    else: container.append('EEROORR')
+                    container.append('</div>')
+                    image_containers.append(''.join(container))
+            
+            # Add JavaScript for image toggling
+            script = """
+            <script>
+            function showImage(charId) {
+                var clickedContainer = document.getElementById(charId);
+                var clickedImages = clickedContainer.getElementsByTagName('img');
+                var isCurrentlyShown = clickedImages[0].style.display === 'block';
+                
+                // Hide all images in all containers
+                var allContainers = document.getElementsByClassName('image-container');
+                for (var cont of allContainers) {
+                    var imgs = cont.getElementsByTagName('img');
+                    for (var img of imgs) {
+                        img.style.display = 'none';
+                    }
+                }
+                
+                // If the clicked images weren't showing before, show them now
+                if (!isCurrentlyShown) {
+                    for (var img of clickedImages) {
+                        img.style.display = 'block';
+                    }
+                }
+            }
+            </script>
+            """
             
             # Combine everything
-            final_html = f'{"".join(html_parts)}\n\n{"".join(image_containers)}'
+            final_html = f'{"".join(html_parts)}\n\n{"".join(image_containers)}\n{script}'
+            
             # Set the new field
             if 'Characters with strokes' in note:
                 note['Characters with strokes'] = final_html
