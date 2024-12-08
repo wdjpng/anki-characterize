@@ -1,0 +1,3002 @@
+#separator:tab
+#html:false
+的			1	1	8画	白 + 3	de	dí, dì	possessive, adjectival suffix					
+一			1	2	1画	一 + 0	yī		one; a, an; alone					
+是			1	3	9画	日 + 5	shì		indeed, yes, right; to be; demonstrative pronoun, this, that					
+不			1	4	4画	一 + 3	bù	fǒu, fōu	no, not; un-; negative prefix					
+了	瞭		1	5	2画	亅了 + 1	le	liǎo	to finish; particle of completed action					
+在			1	6	6画	土 + 3	zài		be at, in, on; consist in, rest					
+人			1	7	2画	人亻 + 0	rén		man; people; mankind; someone else					
+有			1	8	6画	月 + 2	yǒu	yòu	have, own, possess; exist					
+我			1	9	7画	戈 + 3	wǒ		our, us, i, me, my, we					
+他			1	10	5画	人亻 + 3	tā		other, another; he, she, it					
+这	這		1	11	8画	辵辶 + 4	zhè	zhèi	this, the, here					
+个	個 箇		1	12	3画	丨 + 2	gè	gě	numerary adjunct, piece; single					
+们	們		1	13	5画	人亻 + 3	men		adjunct pronoun indicate plural					
+中			1	14	4画	丨 + 3	zhōng	zhòng	central; center, middle; in the midst of; hit (target); attain					
+来	來		1	15	7画	木 + 3	lái	lài	come, coming; return, returning					
+上			1	16	3画	一 + 2	shàng		top; superior, highest; go up, send up					
+大			1	17	3画	大 + 0	dà	dài, tài	big, great, vast, large, high					
+为	為		2	18	4画	丶 + 3	wèi	wéi	do, handle, govern, act; be					
+和	龢 和		1	19	8画	口 + 5	hé	huò, huó, hè	harmony, peace; peaceful, calm					
+国	國		1	20	8画	囗 + 5	guó		nation, country, nation-state					
+地			3	21	6画	土 + 3	dì	de	earth; soil, ground; region					
+到			2	22	8画	刀刂 + 6	dào		go to, arrive, been to					
+以			2	23	5画	人亻 + 3	yǐ		by means of; thereby, therefore; consider as; in order to					
+说	説 說		1	24	9画	讠 + 7	shuō	shuì, tuō, yuè	speak, say, talk; scold, upbraid					
+时	時		1	25	7画	日 + 3	shí		time, season; era, age, period					
+要			2	26	9画	襾西覀 + 3	yào	yāo, yǎo	necessary, essential; necessity					
+就			2	27	12画	尢 + 9	jiù		just, simply; to come, go to; to approach, near					
+出	出 齣		1	28	5画	凵 + 3	chū		go out, send out; stand; produce					
+会	會		1	29	6画	人亻 + 4	huì	kuài, guì	assemble, meet together; meeting					
+可			2	30	5画	口 + 2	kě	kè	may, can, -able; possibly					
+也			2	31	3画	乙乚 + 2	yě		also; classical final particle of strong affirmation or identity					
+你	妳		1	32	7画	人亻 + 5	nǐ		you, second person pronoun					
+对	對		1	33	5画	寸 + 2	duì		correct, right; facing, opposed					
+生			1	34	5画	生 + 0	shēng		life, living, lifetime; birth					
+能			1	35	10画	肉月 + 6	néng	nài, tái, tài, nái,xióng	to be able; can, permitted to; ability					
+而			3	36	6画	而 + 0	ér	néng	and; and then; and yet; but					
+子			1	37	3画	子孑 + 0	zǐ	zi	offspring, child; fruit, seed of; 1st terrestrial branch					
+那			1	38	7画	邑阝 + 4	nà	nèi, nā, nǎ, né,něi, nuó, nuò	that, that one, those					
+得			2	39	11画	彳 + 8	dé	de, děi	obtain, get, gain, acquire					
+于	於 于		3	40	3画	二 + 1	yú	xū	in, on, at; go to; surname					
+着	著		2	41	11画	目 + 7 羊 + 5	zháo	zhe, zhāo,zhuó	make move, take action					
+下			1	42	3画	一 + 2	xià		under, underneath, below; down; inferior; bring down					
+自			2	43	6画	自 + 0	zì		self, private, personal; from					
+之			4	44	4画	丿 + 3	zhī		marks preceding phrase as modifier of following phrase; it, him her, them; go to					
+年			1	45	6画	干 + 3	nián		year; new-years; person's age					
+过	過		2	46	7画	辵辶 + 3	guò	guō	pass, pass through, go across					
+发	髮 發		3	47	5画	又 + 3	fā	fà, fǎ, bō	issue, dispatch, send out; hair					
+后	後 后		1	48	6画	口 + 3	hòu		queen, empress, sovereign; (simp. for 後) behind, rear, after					
+作			1	49	7画	人亻 + 5	zuò	zuō, zuó	make; work; compose, write; act, perform					
+里	裡 浬 裏 里		1	50	7画	里 + 0	lǐ		unit of distance; village; lane					
+用			3	51	5画	用 + 0	yòng		use, employ, apply, operate; use					
+道			2	52	13画	辵辶 + 9	dào	dǎo	path, road, street; method, way					
+行			2	53	6画	行 + 0	xíng	háng, xìng,hàng, héng	go; walk; move, travel; circulate					
+所			2	54	8画	戶户 + 4	suǒ		place, location; numerary adjunct					
+然			3	55	12画	火灬 + 8	rán		yes, certainly; pledge, promise					
+家	家 傢		1	56	10画	宀 + 7	jiā	jie, gū	house, home, residence; family					
+种	種		3	57	9画	禾 + 4	zhǒng	chóng, zhòng	seed; race, breed; to plant					
+事			2	58	8画	亅了 + 7	shì		affair, matter, business; to serve; accident, incident					
+成			3	59	7画	戈 + 2	chéng		completed, finished, fixed					
+方			3	60	4画	方 + 0	fāng	fēng, páng,wǎng	a square, rectangle; a region; local					
+多			1	61	6画	夕 + 3	duō		much, many; more than, over					
+经	經		2	62	8画	纟 + 5	jīng	jìng	classic works; pass through					
+么	麼		1	63	3画	丿 + 2	yāo	mo, me, ma,mǒ	interrogative particle; repetition of a tune small; tender					
+去			1	64	5画	厶 + 3	qù		go away, leave, depart					
+法			3	65	8画	水氵氺 + 5	fǎ		law, rule, regulation, statute; France, French					
+学	學		1	66	8画	子孑 + 5	xué		learning, knowledge; school					
+如			3	67	6画	女 + 3	rú		if, supposing; as if; like, as					
+都			1	68	12画	邑阝 + 9	dū	dōu	metropolis, capital; all, the whole; elegant, refined					
+同	同 仝		1	69	6画	口 + 3	tóng	tòng	same, similar; together with					
+现	現		1	70	8画	玉玊王 + 4	xiàn		appear, manifest, become visible					
+当	當 噹		3	71	6画	彐彑 + 3	dāng	dàng	bear, accept, undertake; just					
+没	沒		1	72	7画	水氵氺 + 4	méi	mò, me	not, have not, none; drown, sink					
+动	動		2	73	6画	力 + 4	dòng		move, happen; movement, action					
+面	麵 麪 面		1	74	9画	面 + 0	miàn		face; surface; plane; side, dimension					
+起			1	75	10画	走 + 3	qǐ		rise, stand up; go up; begin					
+看			1	76	9画	目 + 4	kàn	kān	look, see; examine, scrutinize					
+定			3	77	8画	宀 + 5	dìng		decide, settle, fix					
+天			1	78	4画	大 + 1	tiān		sky, heaven; god, celestial					
+分	分 份		1	79	4画	刀刂 + 2	fēn	fèn	divide; small unit of time etc.					
+还	還		2	80	8画	辵辶 + 4	huán	hái, xuán	still, yet, also, besides					
+进	進		2	81	8画	辵辶 + 4	jìn		advance, make progress, enter					
+好			1	82	6画	女 + 3	hǎo	hào	good, excellent, fine; well					
+小			1	83	3画	小 + 0	xiǎo		small, tiny, insignificant					
+部			4	84	11画	邑阝 + 8	bù	pǒu	part, division, section					
+其			3	85	8画	八 + 6	qí	jī	his, her, its, their; that					
+些			1	86	7画	二 + 5	xiē	suò, sā	little, few; rather, somewhat					
+主			3	87	5画	丶 + 4	zhǔ		master, chief owner; host; lord					
+样	樣		1	88	10画	木 + 6	yáng	yàng, xiàng	shape, form, pattern, style					
+理			3	89	11画	玉玊王 + 7	lǐ		reason, logic; manage					
+心			3	90	4画	心忄 + 0	xīn		heart; mind, intelligence; soul					
+她			1	91	6画	女 + 3	tā		she, her					
+本			1	92	5画	木 + 1	běn		root, origin, source; basis					
+前			1	93	9画	刀刂 + 7	qián		in front, forward; preceding					
+开	開		1	94	4画	廾 + 1	kāi		open; initiate, begin, start					
+但			2	95	7画	人亻 + 5	dàn		only; but, however, yet, still					
+因			2	96	6画	囗 + 3	yīn		cause, reason; by; because (of)					
+只	只 隻		3	97	5画	口 + 2	zhǐ	zhī	only, just, simply					
+从	從		2	98	4画	人亻 + 2	cóng	zòng, zōng,cōng	from, by, since, whence, through					
+想			1	99	13画	心忄 + 9	xiǎng		think, speculate, plan, consider					
+实	實		3	100	8画	宀 + 5	shí		real, true; honest, sincere					
+日			1	101	4画	日 + 0	rì	mì	sun; day; daytime					
+军	軍		5	102	6画	冖 + 4	jūn		army, military; soldiers, troops					
+者			3	103	10画	老耂 + 4	zhě	zhū	that which; he who; those who					
+意			2	104	13画	心忄 + 9	yì		thought, idea, opinion; think					
+无	無		4	105	4画	无 + 0	wú	mó	negative, no, not; KangXi radical 71					
+力			3	106	2画	力 + 0	lì		power, capability, influence					
+它	牠		2	107	5画	宀 + 2	tā	tuō	it; other					
+与	與		4	108	4画	一 + 3	yǔ	yù, yú	and; with; to; for; give, grant					
+长	長		2	109	5画	长 + 0	cháng	zhǎng, zhàng	long; length; excel in; leader					
+把			3	110	7画	手扌 + 4	bǎ	bà	hold, take; guard; regard as					
+机	機		1	111	6画	木 + 2	jī		desk; machine; moment					
+十			1	112	2画	十 + 0	shí		ten, tenth; complete; perfect					
+民			4	113	5画	氏 + 1	mín		people, subjects, citizens					
+第			2	114	11画	竹 + 5	dì		sequence, number; grade, degree					
+公			2	115	4画	八 + 2	gōng		fair, equitable; public; duke					
+此			4	116	6画	止 + 2	cǐ		this, these; in this case, then					
+已			2	117	3画	己已巳 + 0	yǐ		already; finished; stop					
+工			1	118	3画	工 + 0	gōng		labor, work; worker, laborer					
+使			3	119	8画	人亻 + 6	shǐ	shì	cause, send on a mission, order; envoy, messenger, ambassador					
+情			2	120	11画	心忄 + 8	qíng		feeling, sentiment, emotion					
+明			1	121	8画	日 + 4	míng		bright, light, brilliant; clear					
+性			4	122	8画	心忄 + 5	xìng		nature, character, sex					
+知			2	123	8画	矢 + 3	zhī	zhì	know, perceive, comprehend					
+全			4	124	6画	入 + 4	quán		maintain, keep whole or intact					
+三			1	125	3画	一 + 2	sān	sàn	three					
+又			3	126	2画	又 + 0	yòu		and, also, again, in addition					
+关	關		1	127	6画	八 + 4	guān	wān	frontier pass; close; relation					
+点	點		1	128	9画	火灬 + 5	diǎn		dot, speck, spot; point, degree					
+正			2	129	5画	止 + 1	zhèng	zhēng	right, proper, correct					
+业	業		3	130	5画	一 + 4	yè		profession, business; GB radical 111					
+外			2	131	5画	夕 + 2	wài		out, outside, external; foreign					
+将	將		4	132	9画	寸 + 6	jiāng	jiàng, qiāng	will, going to, future; general					
+两	両 兩		2	133	7画	一 + 6	liǎng	liàng	two, both, pair, couple; ounce					
+高			1	134	10画	高 + 0	gāo	gào	high, tall; lofty, elevated					
+间	間		2	135	7画	门 + 4	jiān	jiàn	midpoint, space; place, locality					
+由			4	136	5画	田由甲申 + 0	yóu	yāo	cause, reason; from					
+问	問		2	137	6画	门 + 3	wèn		ask about, inquire after					
+很			1	138	9画	彳 + 6	hěn		very, quite, much					
+最			2	139	12画	冂 + 10	zuì		most, extremely, exceedingly					
+重			3	140	9画	里 + 2	zhòng	chóng, tóng	heavy, weighty; double					
+并	并 併 並		4	141	8画	干 + 5	bìng	bīng	combine, annex; also, what's more					
+物			3	142	8画	牛牜 + 4	wù		thing, substance, creature					
+手			2	143	4画	手扌 + 0	shǒu		hand					
+应	應		3	144	7画	广 + 4	yìng	yīng	should, ought to, must					
+战	戰		5	145	9画	戈 + 5	zhàn		war, fighting, battle					
+向	嚮 向		2	146	6画	口 + 3	xiàng		toward, direction, trend					
+头	頭		3	147	5画	大 + 2	tóu	tou	head; top; chief, first; boss					
+文			3	148	4画	文 + 0	wén	wèn	literature, culture, writing					
+体	体 體		2	149	7画	人亻 + 5	tǐ	bèn, tī	body; group, class, body, unit; inferior					
+政			5	150	8画	攴攵 + 4	zhèng	zhēng	government, political affairs					
+美			4	151	9画	羊 + 3	měi		beautiful, pretty; pleasing					
+相			3	152	9画	目 + 4	xiāng	xiàng	mutual, reciprocal, each other					
+见	見		1	153	4画	见 + 0	jiàn	xiàn	see, observe, behold; perceive					
+被			3	154	11画	衣衤 + 5	bèi	pī, bì, pì	passive indicator 'by'; bedding					
+利			4	155	7画	刀刂 + 5	lì		gains, advantage, profit, merit					
+什	甚		1	156	4画	人亻 + 2	shí	shén	file of ten soldiers; mixed, miscellaneous					
+二			1	157	2画	二 + 0	èr		two; twice					
+等			2	158	12画	竹 + 6	děng		rank, grade; wait; equal; 'etc.'					
+产	產		5	159	6画	亠 + 4	chǎn		give birth, bring forth, produce					
+或			3	160	8画	戈 + 4	huò	yù	or, either, else; perhaps, maybe					
+新			2	161	13画	斤 + 9	xīn		new, recent, fresh, modern					
+己			3	162	3画	己已巳 + 0	jǐ		self, oneself; personal, private; 6th heavenly stem					
+制	製 制		4	163	8画	刀刂 + 6	zhì		system; establish; overpower					
+身			2	164	7画	身 + 0	shēn	yuán, juān	body; trunk, hull; rad. no. 158					
+果			1	165	8画	木 + 4	guǒ	kè, luǒ, wǒ	fruit; result					
+加			3	166	5画	力 + 3	jiā		add to, increase, augment					
+西			1	167	6画	襾西覀 + 0	xī		west(ern); westward, occident					
+斯			6	168	12画	斤 + 8	sī		this, thus, such; to lop off; emphatic particle					
+月			1	169	4画	月 + 0	yuè		moon; month; KangXi radical 74					
+话	話		1	170	8画	讠 + 6	huà		speech, talk, language; dialect					
+合	閤		4	171	6画	口 + 3	hé	gě	combine, unite, join; gather					
+回	迴 回		1	172	6画	囗 + 3	huí		return, turn around; a time					
+特			3	173	10画	牛牜 + 6	tè		special, unique, distinguished					
+代			4	174	5画	人亻 + 3	dài		replace, replacement (of person or generation); era, generation					
+内	內		4	175	4画	冂 + 2	nèi		inside					
+信			3	176	9画	人亻 + 7	xìn	shēn	trust, believe; letter					
+表	錶 表		2	177	9画	衣衤 + 3	biǎo		show, express, manifest, display					
+化			3	178	4画	匕 + 2	huà	huā	change, convert, reform; -ize					
+老			1	179	6画	老耂 + 0	lǎo		old, aged; experienced					
+给	給		2	180	9画	纟 + 6	gěi	jǐ	give; by, for					
+世			3	181	5画	一 + 4	shì		generation; world; era					
+位			3	182	7画	人亻 + 5	wèi		throne; position, post; rank, status; seat					
+次			2	183	6画	欠 + 2	cì		order, sequence; next					
+度			4	184	9画	广 + 6	dù	duó	degree, system; manner; to consider					
+门	門		2	185	3画	门 + 0	mén		gate, door, entrance, opening					
+任			4	186	6画	人亻 + 4	rèn	rén	trust to, rely on, appoint; to bear, duty, office; allow					
+常			2	187	11画	巾 + 8	cháng		common, normal, frequent, regular					
+先			1	188	6画	儿 + 4	xiān		first, former, previous					
+海			4	189	10画	水氵氺 + 7	hǎi		sea, ocean; maritime					
+通			3	190	11画	辵辶 + 7	tōng	tòng	pass through, common, communicate					
+教			2	191	11画	攴攵 + 7	jiào	jiāo	teach, class					
+儿	兒		1	192	2画	儿 + 0	ér	er	son, child; KangXi radical 10					
+原			4	193	10画	厂 + 8	yuán	yuàn	source, origin, beginning					
+东	東		1	194	5画	一 + 4	dōng		east, eastern, eastward					
+声	聲		3	195	7画	士 + 4	shēng		sound, voice, noise; tone; music					
+提			3	196	12画	手扌 + 9	tí	dī, dǐ, shí	hold in hand; lift in hand					
+立			5	197	5画	立 + 0	lì	wèi	stand; let stand; establish, set					
+及			4	198	4画	又 + 2	jí		extend; reach; come up to; and					
+比			2	199	4画	比 + 0	bǐ	bì, pí, pǐ	to compare, liken; comparison; than					
+员	員		2	200	7画	口 + 4	yuán	yùn	member; personnel, staff member					
+解			3	201	13画	角 + 6	jiě	jiè, xiè	loosen, unfasten, untie; explain					
+水			1	202	4画	水氵氺 + 0	shuǐ		water, liquid, lotion, juice					
+名			1	203	6画	口 + 3	míng		name, rank, title, position					
+真			2	204	10画	目 + 5	zhēn		real, actual, true, genuine					
+论	論		4	205	6画	讠 + 4	lùn	lún	debate; discuss; discourse					
+处	處		4	206	5画	夂 + 2	chù	chǔ	place, locale; department					
+走			2	207	7画	走 + 0	zǒu		walk, go on foot; run; leave					
+义	義		5	208	3画	丶 + 2	yì		right conduct, righteousness					
+各			4	209	6画	口 + 3	gè		each, individually, every, all					
+入			4	210	2画	入 + 0	rù		enter, come in(to), join					
+几	幾 几		1	211	2画	几 + 0	jī	jǐ	small table					
+口			3	212	3画	口 + 0	kǒu		mouth; open end; entrance, gate					
+认	認		1	213	4画	讠 + 2	rèn		recognize, know, understand					
+条	條		3	214	7画	木 + 3	tiáo		clause, condition; string, stripe					
+平			3	215	5画	干 + 2	píng		flat, level, even; peaceful					
+系	系 繫 係		1	216	7画	糸糹 + 1	xì	jì	system; line, link, connection					
+气	氣		1	217	4画	气 + 0	qì		steam, vapor; KangXi radical 84					
+题	題		2	218	15画	页 + 9	tí	dì	forehead; title, headline; theme					
+活			4	219	9画	水氵氺 + 6	huó	guō	live, exist, survive; lively					
+尔	爾		4	220	5画	小 + 2	ěr		you; that, those; final particle					
+更			3	221	7画	曰 + 3	gèng	gēng	more, still further, much more					
+别	別 彆		2	222	7画	刀刂 + 5	bié	biè	separate, other; do not					
+打			1	223	5画	手扌 + 2	dǎ	dá	strike, hit, beat; fight; attack					
+女			1	224	3画	女 + 0	nǚ	rǔ	woman, girl; feminine; rad. 38					
+变	變		3	225	8画	又 + 6	biàn		change, transform, alter; rebel					
+四			1	226	5画	囗 + 2	sì		four					
+神			4	227	10画	示礻 + 5	shén	shēn	spirit, god, supernatural being					
+总	總		3	228	8画	心忄 + 5	zǒng	zōng	collect; overall, altogether					
+何			4	229	7画	人亻 + 5	hé	hè	what, why, where, which, how					
+电	電		1	230	5画	田由甲申 + 0	diàn		electricity; electric; lightning					
+数	數		3	231	13画	攴攵 + 9	shù	shǔ, cù, shuò	number; several, count; fate					
+安			3	232	6画	宀 + 3	ān		peaceful, tranquil, quiet					
+少			1	233	4画	小 + 1	shǎo	shào	few, less, inadequate					
+报	報		2	234	7画	手扌 + 4	bào		report, tell, announce					
+才			3	235	3画	手扌 + 0	cái		talent, ability; just, only					
+结	結		3	236	9画	纟 + 6	jié	jiē, jì	knot, tie; join, connect					
+反			4	237	4画	又 + 2	fǎn	fān	reverse, opposite, contrary, anti					
+受			4	238	8画	又 + 6	shòu		receive, accept, get; bear, stand					
+目			3	239	5画	目 + 0	mù		eye; look, see; division, topic					
+太			1	240	4画	大 + 1	tài		very, too, much; big; extreme					
+量			4	241	12画	里 + 5	liàng	liáng	measure, quantity, capacity					
+再			1	242	6画	冂 + 4	zài		again, twice, re-					
+感			3	243	13画	心忄 + 9	gǎn		feel, perceive, emotion					
+建			5	244	9画	廴 + 6	jiàn		build, establish, erect, found					
+务	務		2	245	5画	力 + 3	wù		affairs, business; must, should					
+做			1	246	11画	人亻 + 9	zuò		work, make; act					
+接			3	247	11画	手扌 + 8	jiē		receive; continue; catch; connect					
+必			3	248	4画	心忄 + 1	bì		surely, most certainly; must					
+场	場		2	249	6画	土 + 3	cháng	chǎng	open space, field, market					
+件			2	250	6画	人亻 + 4	jiàn		numerary adjunct for article; matter					
+计	計		4	251	4画	讠 + 2	jì		plan, plot; strategem; scheme					
+管			4	252	14画	竹 + 8	guǎn		pipe, tube, duct; woodwind music					
+期			1	253	12画	月 + 8	qī	qí, jī	period of time; date; time limit					
+市			3	254	5画	巾 + 2	shì		market, fair; city, town; trade					
+直			3	255	8画	目 + 3	zhí		straight, erect, vertical					
+德			5	256	15画	彳 + 12	dé		ethics, morality, virtue					
+资	資		4	257	10画	贝 + 6	zī		property; wealth; capital					
+命			4	258	8画	口 + 5	mìng		life; destiny, fate, luck; an order, instruction					
+山			3	259	3画	山 + 0	shān		mountain, hill, peak					
+金			4	260	8画	金釒 + 0	jīn	jìn	gold; metals in general; money					
+指			4	261	9画	手扌 + 6	zhǐ		finger, toe; point, indicate					
+克	克 剋		4	262	7画	儿 + 5	kè		gram; overcome; transliteration					
+许	許		4	263	6画	讠 + 4	xǔ	hǔ	allow, permit; promise; betroth					
+统	統		5	264	9画	纟 + 6	tǒng		govern, command, control; unite					
+区	區		4	265	4画	匸 + 2	qū	ōu	area, district, region, ward					
+保			4	266	9画	人亻 + 7	bǎo		protect, safeguard, defend, care					
+至			4	267	6画	至 + 0	zhì	dié	reach, arrive; extremely, very					
+队	隊		5	268	5画	阜阝 + 2	duì	suì, zhuì	team, group; army unit					
+形			5	269	7画	彡 + 4	xíng		form, shape, appearance					
+社			4	270	8画	示礻 + 3	shè		god of the soil and altars to him; group of families; company, society					
+便			2	271	9画	人亻 + 7	biàn	pián	convenience, ease; expedient					
+空			3	272	8画	穴 + 3	kōng	kòng, kǒng	empty, hollow, bare, deserted					
+决	決		3	273	6画	冫 + 4	jué		decide, determine, judge					
+治			5	274	8画	水氵氺 + 5	zhì	chí, yí	govern, regulate, administer					
+展			4	275	10画	尸 + 7	zhǎn		open, unfold; stretch, extend					
+马	馬		3	276	3画	马 + 0	mǎ		horse; surname; KangXi radical 187					
+科			4	277	9画	禾 + 4	kē	kè	section, department, science					
+司			2	278	5画	口 + 2	sī		take charge of, control, manage; officer					
+五			1	279	4画	二 + 2	wǔ		five; surname					
+基			4	280	11画	土 + 8	jī		foundation, base					
+眼			2	281	11画	目 + 6	yǎn	wěn	eye; eyelet, hole, opening					
+书	書		1	282	4画	乙乚 + 3	shū		book, letter, document; writings					
+非			2	283	8画	非 + 0	fēi	fěi	not, negative, non-; oppose					
+则	則		4	284	6画	刀刂 + 4	zé		rule, law, regulation; grades					
+听	聽		1	285	7画	口 + 4	tīng	tìng, yín	hear; understand; obey, comply					
+白			2	286	5画	白 + 0	bái	bó	white; pure, unblemished; bright					
+却	卻		4	287	7画	卩 + 5	què		still, but; decline; retreat					
+界			3	288	9画	田由甲申 + 4	jiè		boundary, limit; domain; society; the world					
+达	達		4	289	7画	辵辶 + 3	dá	tì, tà	arrive at, reach; intelligent; smooth, slippery					
+光			4	290	6画	儿 + 4	guāng		light, brilliant, shine; only					
+放			3	291	8画	攴攵 + 4	fàng	fǎng	put, release, free, liberate					
+强	強		5	292	12画	弓 + 9	qiáng	qiǎng, jiàng	strong, powerful, energetic					
+即			4	293	7画	卩 + 5	jí		promptly, quickly, immediately					
+像			3	294	14画	人亻 + 12	xiàng		a picture, image, figure; to resemble					
+难	難		3	295	10画	隹 + 2	nán	nàn, nuó	difficult, arduous, hard; unable					
+且			3	296	5画	一 + 4	qiě	jū	moreover, also (post-subject); about to, will soon (pre-verb)					
+权	權		5	297	6画	木 + 2	quán		power, right, authority					
+思			2	298	9画	心忄 + 5	sī	sì, sāi	think, consider, ponder; final particle					
+王			5	299	4画	玉玊王 + 0	wáng	wàng, yù	king, ruler; royal; surname					
+象			4	300	12画	豕 + 5	xiàng		elephant; ivory; figure, image					
+完			2	301	7画	宀 + 4	wán		complete, finish, settle; whole					
+设	設		5	302	6画	讠 + 4	shè		build; establish; display					
+式			4	303	6画	弋 + 3	shì		style, system, formula, rule					
+色			2	304	6画	色 + 0	sè	shǎi	color, tint, hue, shade; form, body; beauty, desire for beauty					
+路			2	305	13画	足 + 6	lù	luò	road, path, street; journey					
+记	記		3	306	5画	讠 + 3	jì		record; keep in mind, remember					
+南			3	307	9画	十 + 7	nán	nā	south; southern part; southward					
+品			4	308	9画	口 + 6	pǐn		article, product, commodity					
+住			1	309	7画	人亻 + 5	zhù		reside, live at, dwell, lodge; stop					
+告			2	310	7画	口 + 4	gào		tell, announce, inform; accuse					
+类	類		5	311	9画	米 + 3	lèi	lì	class, group, kind, category					
+求			3	312	7画	水氵氺 + 2	qiú		seek; demand, request; beseech					
+据	據 据		3	313	11画	手扌 + 8	jù	jū	to occupy, take possession of; a base, position					
+程			4	314	12画	禾 + 7	chéng		journey, trip; schedule, agenda					
+北			1	315	5画	匕 + 3	běi	bèi	north; northern; northward					
+边	邊		2	316	6画	辵辶 + 2	biān	bian	edge, margin, side, border					
+死			4	317	6画	歹 + 2	sǐ		die; dead; death					
+张	張		2	318	7画	弓 + 4	zhāng	zhàng	stretch, extend, expand; sheet					
+该	該		3	319	8画	讠 + 6	gāi		should, ought to, need to					
+交			4	320	6画	亠 + 4	jiāo		mix; intersect; exchange, communicate; deliver					
+规	規		4	321	8画	见 + 4	guī		rules, regulations, customs, law					
+万	萬		3	322	3画	一 + 2	wàn	mò	ten thousand; innumerable					
+取			4	323	8画	又 + 6	qǔ	qū	take, receive, obtain; select					
+拉			4	324	8画	手扌 + 5	lā	lá, lǎ, là	pull, drag; seize, hold; lengthen					
+格			4	325	10画	木 + 6	gé	gē	pattern, standard, form; style					
+望			2	326	11画	月 + 7	wàng		to look at, look forward; to hope, expect					
+觉	覺		1	327	9画	见 + 5	jué	jiào	to wake up from sleep; conscious					
+术	朮 術		4	328	5画	木 + 1	zhú	shù	art, skill, special feat; method, technique					
+领	領		5	329	11画	页 + 5	lǐng		neck; collar; lead, guide					
+共			2	330	6画	八 + 4	gòng	gōng	together with, all, total; to share					
+确	确 確		4	331	12画	石 + 7	què		sure, certain; real, true					
+传	傳		4	332	6画	人亻 + 4	chuán	zhuàn	summon; propagate, transmit					
+师	師		1	333	6画	巾 + 3	shī		teacher, master, specialist					
+观	觀		4	334	6画	见 + 2	guān	guàn	see, observe, view; appearance					
+清			3	335	11画	水氵氺 + 8	qīng	qìng	clear, pure, clean; peaceful					
+今			1	336	4画	人亻 + 2	jīn		now, today, modern era					
+切			4	337	4画	刀刂 + 2	qiē	qiè, qì	cut, mince, slice, carve					
+院			1	338	10画	阜阝 + 7	yuàn		courtyard, yard, court; school					
+让	讓		2	339	5画	讠 + 3	ràng		allow, permit, yield, concede					
+识	識		1	340	7画	讠 + 5	shì	shí, zhì	recognize, understand, know					
+候			1	341	10画	人亻 + 8	hòu		wait; expect; visit; greet					
+带	帶		3	342	9画	巾 + 6	dài		belt, girdle, band, strap, zone					
+导	導		4	343	6画	寸 + 3	dǎo	dào	direct, guide, lead, conduct					
+争	爭		4	344	6画	亅了 + 5	zhēng	zhèng	dispute, fight, contend, strive					
+运	運		2	345	8画	辵辶 + 4	yùn		run; simplified form of 運 luck, fortune; ship, transport					
+笑			2	346	10画	竹 + 4	xiào		smile, laugh, giggle; snicker					
+飞	飛		1	347	3画	飞 + 0	fēi		fly; go quickly; dart; high					
+风	風		3	348	4画	风 + 0	fēng	fěng, fèng	wind; air; manners, atmosphere					
+步			2	349	7画	止 + 3	bù		step, pace; walk, stroll					
+改			4	350	7画	攴攵 + 3	gǎi		change, alter; improve, remodel					
+收			4	351	6画	攴攵 + 2	shōu		gather together, collect; harvest					
+根			3	352	10画	木 + 6	gēn		root, base(d on); foundation					
+干	榦 干 幹 乾		3	353	3画	干 + 0	gān	gàn, hán	oppose, offend; invade; dried					
+造			4	354	11画	辵辶 + 7	zào	cào, cāo	construct, build, make, begin; prepare					
+言			4	355	7画	言訁 + 0	yán	yàn, yín	words, speech; speak, say					
+联	聯		4	356	12画	耳 + 6	lián		connect, join; associate, ally					
+持			4	357	9画	手扌 + 6	chí		sustain, support; hold, grasp					
+组	組		4	358	8画	纟 + 5	zǔ		class; section, department					
+每			2	359	7画	毋母 + 3	měi	mèi	every, each					
+济	濟		4	360	9画	水氵氺 + 6	jì	jǐ	help, aid, relieve; ferry, cross					
+车	車		1	361	4画	车 + 0	chē	jū	cart, vehicle; carry in cart					
+亲	親		4	362	9画	亠 + 7	qīn	xīn, qìng	relatives, parents; intimate the hazel nut or filbert tree a thorny tree					
+极	極		3	363	7画	木 + 3	jí		extreme, utmost, furthest, final					
+林			4	364	8画	木 + 4	lín		forest, grove; surname					
+服			1	365	8画	月 + 4	fú	fù, bì	clothes; wear, dress					
+快			2	366	7画	心忄 + 4	kuài		rapid, quick, speedy, fast; soon					
+办	辦		3	367	4画	力 + 2	bàn		manage, do, handle; deal with					
+议	議		3	368	5画	讠 + 3	yì		consult, talk over, discuss					
+往			4	369	8画	彳 + 5	wǎng	wàng	go, depart; past, formerly					
+元			2	370	4画	儿 + 2	yuán		first; dollar; origin; head					
+英			5	371	11画	艸艹 + 5	yīng	yāng	petal, flower, leaf; brave, a hero; England, English					
+士			4	372	3画	士 + 0	shì		scholar, gentleman; soldier					
+证	證 証		4	373	7画	讠 + 5	zhèng		prove, confirm, verify; proof					
+近			2	374	8画	辵辶 + 4	jìn	jì	near, close; approach; intimate					
+失			4	375	5画	大 + 2	shī		lose; make mistake, neglect					
+转	轉		5	376	8画	车 + 4	zhuǎn	zhuàn	shift, move, turn					
+夫	伕 夫		2	377	4画	大 + 1	fū	fú	man, male adult, husband; those					
+令			5	378	5画	人亻 + 3	lìng	líng, lǐng	command, order; 'commandant', magistrate; allow, cause					
+准	准 準		2	379	10画	冫 + 8	zhǔn		approve, allow, permit; in accord					
+布	佈 布		5	380	5画	巾 + 2	bù		cotton cloth, textiles, linen					
+始			2	381	8画	女 + 5	shǐ		begin, start; then, only then					
+怎			1	382	9画	心忄 + 5	zěn		what? why? how?					
+呢			1	383	8画	口 + 5	ní	ne	interrogative or emphatic final; (Cant.) this					
+存			5	384	6画	子孑 + 3	cún		exist, live, be; survive; remain					
+未			5	385	5画	木 + 1	wèi		not yet; 8th terrestrial branch					
+远	遠		2	386	8画	辵辶 + 4	yuǎn	yuàn	distant, remote, far; profound					
+叫			1	387	5画	口 + 2	jiào		cry, shout; hail, greet, call					
+台	臺 台 檯 颱		4	388	5画	口 + 2	tái	yí, tāi	platform; unit; term of address					
+单	單		3	389	8画	十 + 6	dān	shàn, chán	single, individual, only; lone					
+影			1	390	15画	彡 + 12	yǐng		shadow; image, reflection; photograph					
+具	俱 具		4	391	8画	八 + 6	jù		tool, implement; draw up, write					
+罗			"#N/A"	392	8画	网罒罓 + 3	luō	luó, luo	net for catching birds; gauze					
+字			1	393	6画	子孑 + 3	zì		letter, character, word					
+爱	愛		1	394	10画	爪爫 + 6	ài		love, be fond of, like					
+击	擊		5	395	5画	凵 + 3	jí	jī	strike, hit, beat; attack, fight					
+流			4	396	9画	水氵氺 + 6	liú		flow, circulate, drift; class					
+备	備		2	397	8画	夂 + 5	bèi		prepare, ready, perfect					
+兵			5	398	7画	八 + 5	bīng		soldier, troops					
+连	連		4	399	8画	辵辶 + 4	lián		join, connect; continuous; even					
+调	調		3	400	10画	讠 + 8	diào	tiào, tiáo, zhōu	transfer, move, change; tune					
+深			4	401	11画	水氵氺 + 8	shēn		deep; depth; far; very, extreme					
+商			1	402	11画	口 + 8	shāng		commerce, business, trade					
+算			3	403	14画	竹 + 8	suàn		count, calculate, figure; plan					
+质	質		4	404	8画	贝 + 4	zhí	zhì	matter, material, substance					
+团	團 糰		5	405	6画	囗 + 3	tuán		sphere, ball, circle; mass, lump					
+集			4	406	12画	隹 + 4	jí		assemble, collect together					
+百			2	407	6画	白 + 1	bǎi	bó, mò	one hundred; numerous, many					
+需			3	408	14画	雨 + 6	xū	nuò, ruǎn, rú	need, require, must					
+价	價		4	409	6画	人亻 + 4	jià	jiè, jie	price, value					
+花			3	410	10画	艸艹 + 4	huā		flower; blossoms					
+党	黨		6	411	10画	儿 + 8	dǎng		political party, gang, faction					
+华	華		5	412	6画	十 + 4	huá	huà, huā	flowery; illustrious; Chinese					
+城			3	413	9画	土 + 6	chéng		castle; city, town; municipality					
+石			5	414	5画	石 + 0	shí	dàn	stone, rock, mineral; rad. 112					
+级	級		3	415	6画	纟 + 3	jí		level, rank, class; grade					
+整			4	416	15画	攴攵 + 11	zhěng		orderly, neat, tidy; whole					
+府			5	417	8画	广 + 5	fǔ		prefecture; prefect; government					
+离	離		2	418	11画	禸 + 6	lí	chī, lì	rare beast; strange; elegant					
+况	況		4	419	7画	冫 + 5	kuàng		condition, situation; furthermore					
+亚	亞		4	420	6画	二 + 4	yà	yā	Asia; second					
+请	請		1	421	10画	讠 + 8	qǐng	qìng, qīng, qíng	ask, request; invite; please					
+技			4	422	7画	手扌 + 4	jì		skill, ability, talent, ingenuity					
+际	際		4	423	8画	阜阝 + 5	jì		border, boundary, juncture					
+约	約		4	424	6画	纟 + 3	yuē		treaty, agreement, covenant					
+示			3	425	5画	示礻 + 0	shì	qī, zhì, shí	show, manifest; demonstrate					
+复	複 復		3	426	9画	夊 + 6	fù		return; repeat; repeatedly					
+病			2	427	10画	疒 + 5	bìng		illness, sickness, disease					
+息			2	428	10画	心忄 + 6	xī		rest, put stop to, end, cease					
+究			4	429	7画	穴 + 2	jiū	jiù	examine, investigate					
+线	線		5	430	8画	纟 + 5	xiàn		line, thread, wire; clue					
+似			5	431	7画	人亻 + 5	sì	shì	resemble, similar to; as if, seem					
+官			5	432	8画	宀 + 5	guān		official, public servant					
+火			1	433	4画	火灬 + 0	huǒ	huō	fire, flame; burn; anger, rage					
+断	斷		4	434	11画	斤 + 7	duàn		sever, cut off; interrupt					
+精			4	435	14画	米 + 8	jīng	qíng, jìng	essence; semen; spirit					
+满	滿		3	436	13画	水氵氺 + 10	mǎn	mèn	fill; full, satisfied					
+支			4	437	4画	支 + 0	zhī		disperse, pay; support; branch					
+视	視		1	438	9画	示礻 + 4	shì		look at, inspect, observe, see					
+消			4	439	10画	水氵氺 + 7	xiāo		vanish, die out; melt away					
+越			3	440	12画	走 + 5	yuè	huó	exceed, go beyond; the more ...					
+器			5	441	16画	口 + 13	qì		receptacle, vessel; instrument					
+容			3	442	10画	宀 + 7	róng		looks, appearance; figure, form					
+照			3	443	13画	火灬 + 9	zhào		shine, illumine, reflect					
+须	鬚 須		3	444	9画	页 + 3	xū		must, have to, necessary					
+九			1	445	2画	乙乚 + 1	jiǔ		nine					
+增			4	446	15画	土 + 12	zēng		increase, add to, augment					
+研			4	447	11画	石 + 4	yán	yàn, xíng	grind, rub; study, research					
+写	寫		1	448	5画	冖 + 3	xiě		write; draw, sketch; compose					
+称	稱		5	449	10画	禾 + 5	chēng	chèn, chèng	call; name, brand; address; say					
+企			5	450	6画	人亻 + 4	qǐ		plan a project; stand on tiptoe					
+八			1	451	2画	八 + 0	bā		eight; all around, all sides					
+功			4	452	5画	力 + 3	gōng		achievement, merit, good result					
+吗	嗎		1	453	6画	口 + 3	ma	má, mǎ	final interrogative particle					
+包			3	454	5画	勹 + 3	bāo		wrap, pack, bundle; package					
+片			3	455	4画	片 + 0	piàn	piān, pàn	slice, splinter, strip; rad. 91					
+史			3	456	5画	口 + 2	shǐ		history, chronicle, annals					
+委			5	457	8画	女 + 5	wěi	wēi	appoint, send, commission					
+乎			3	458	5画	丿 + 4	hū	hú	interrogative or exclamatory final particle					
+查			3	459	9画	木 + 5	chá	zhā	investigate, examine, seek into					
+轻	輕		3	460	9画	车 + 5	qīng		light; easy, simple; gentle					
+易			3	461	8画	日 + 4	yì		change; easy					
+早			2	462	6画	日 + 2	zǎo		early; soon; morning					
+曾			5	463	12画	曰 + 8	céng	zēng	already; sign of past					
+除			3	464	10画	阜阝 + 7	chú	zhù, shū	eliminate, remove, except					
+农	農		4	465	6画	冖 + 4	nóng		agriculture, farming; farmer					
+找			2	466	7画	手扌 + 4	zhǎo		search, seek, look for; find					
+装	裝		5	467	12画	衣衤 + 6	zhuāng		dress, clothes, attire; fill					
+广	廣		4	468	3画	广 + 0	yǎn	ān, guǎng	wide, extensive, broad; rad. 53					
+显	顯		5	469	9画	日 + 5	xiǎn		manifest, display; evident, clear					
+吧			2	470	7画	口 + 4	ba	bā	emphatic final particle					
+阿			3	471	8画	阜阝 + 5	ā	à, a, ē, ě, ǎ	prefix for people's names; used in transliteration					
+李			3	472	7画	木 + 3	lǐ		plum; judge; surname					
+标	標		4	473	9画	木 + 5	biāo		mark, symbol, label, sign; stand the bole of a tree					
+谈	談		4	474	10画	讠 + 8	tán		talk; conversation; surname					
+吃	喫 吃		1	475	6画	口 + 3	chī	jī	eat; drink; suffer, endure, bear					
+图	圖		3	476	8画	囗 + 5	tú		diagram; chart, map, picture					
+念	念 唸		5	477	8画	心忄 + 4	niàn		think of, recall, study					
+六			1	478	4画	八 + 2	liù	lù	number six					
+引			4	479	4画	弓 + 1	yǐn		to pull, draw out, attract; to stretch					
+历	曆 歷		3	480	4画	厂 + 2	lì		history; calendar					
+首			4	481	9画	首 + 0	shǒu		head; first; leader, chief; a poem					
+医	醫		1	482	7画	匸 + 5	yì	yī	cure, heal; doctor, medical					
+局	侷 跼 局		5	483	7画	尸 + 4	jú		bureau, office; circumstance					
+突			3	484	9画	穴 + 4	tū	tú	suddenly, abruptly, unexpectedly					
+专	專		4	485	4画	一 + 3	zhuān		monopolize, take sole possession					
+费	費		4	486	9画	贝 + 5	fèi	bì	expenses, expenditures, fee					
+号	號		2	487	5画	口 + 2	hào	háo	mark, sign; symbol; number					
+尽	盡 儘		4	488	6画	尸 + 3	jǐn		exhaust, use up; deplete					
+另			4	489	5画	口 + 2	lìng		another, separate, other					
+周	周 週		3	490	8画	口 + 5	zhōu		Zhou dynasty; circumference					
+较	較		3	491	10画	车 + 6	jiào	jué	compare; comparatively, more					
+注	註 注		3	492	8画	水氵氺 + 5	zhù	zhòu	concentrate, focus, direct					
+语	語		1	493	9画	讠 + 7	yǔ	yù	language, words; saying, expression					
+仅	僅		4	494	4画	人亻 + 2	jǐn	jìn	only, merely, solely, just					
+考			2	495	6画	老耂 + 0	kǎo		examine, test; investigate					
+落			5	496	15画	艸艹 + 9	luò	là, lào, luō	fall, drop; net income, surplus					
+青			5	497	8画	青 + 0	qīng	jīng	blue, green, black; young					
+随	隨		4	498	12画	阜阝 + 9	suí		follow, listen to, submit to					
+选	選		3	499	10画	辵辶 + 6	xuǎn	suàn	choose, select; elect; election					
+列			4	500	6画	刀刂 + 4	liè		a line; to arrange in order, classify					
+武			5	501	8画	止 + 4	wǔ		military; martial, warlike					
+红	紅		2	502	6画	纟 + 3	hóng	hōng, gōng	red, vermillion; blush, flush					
+响	響		3	503	9画	口 + 6	xiǎng		make sound, make noise; sound					
+虽	雖		3	504	9画	虫 + 3	suī		although, even if					
+推			4	505	11画	手扌 + 8	tuī		push, expel; push forward					
+势	勢		5	506	8画	力 + 6	shì		power, force; tendency					
+参	參		3	507	8画	厶 + 6	cān	sān, shēn, dēn,cēn, sǎn	take part in, intervene; ginseng					
+希			2	508	7画	巾 + 4	xī		rare; hope, expect, strive for					
+古			5	509	5画	口 + 2	gǔ		old, classic, ancient					
+众	眾		4	510	6画	人亻 + 4	zhòng		multitude, crowd; masses, public					
+构	搆 構		5	511	8画	木 + 4	gōu	gòu	frame, building, structure					
+房			2	512	8画	戶户 + 4	fáng	páng	house, building; room					
+半			3	513	5画	十 + 3	bàn		half					
+节	節		3	514	8画	艸艹 + 2	jié	jiē	knot, node, joint; section					
+土			5	515	3画	土 + 0	tǔ		soil, earth; items made of earth					
+投			5	516	7画	手扌 + 4	tóu		throw, cast, fling, pitch; jump					
+某			5	517	9画	木 + 5	mǒu		certain thing or person					
+案			4	518	10画	木 + 6	àn		table, bench; legal case					
+黑			2	519	12画	黑 + 0	hēi	hè	black; dark; evil, sinister					
+维	維		5	520	11画	纟 + 8	wéi		maintain, preserve, safeguard					
+革			5	521	9画	革 + 0	gé	jí, jǐ	leather, animal hides; rad. 177					
+划	划 劃 畫		4	522	6画	刀刂 + 4	huá	huà	to row or paddle boat; to scratch					
+敌	敵		5	523	10画	攴攵 + 6	dí		enemy, foe, rival; resist					
+致	致 緻		5	524	9画	至 + 3	zhì	zhuì	send, deliver, present; cause					
+陈	陳		6	525	8画	阜阝 + 5	chén	zhèn	exhibit, display; plead; a surname					
+律			4	526	9画	彳 + 6	lǜ		statute, principle, regulation					
+足			2	527	7画	足 + 0	zú	jù	foot; attain, satisfy, enough					
+态	態		4	528	8画	心忄 + 4	tài		manner, bearing, attitude					
+护	護		3	529	7画	手扌 + 4	hù		protect, guard, defend, shelter					
+七			1	530	2画	一 + 1	qī		seven					
+兴	興		1	531	6画	八 + 4	xīng	xìng	thrive, prosper, flourish					
+派			5	532	9画	水氵氺 + 6	pài	mài, bài, pā	school of thought, sect, branch					
+孩			2	533	9画	子孑 + 6	hái		baby, child; children					
+验	驗		4	534	10画	马 + 7	yàn		test, examine, inspect; verify					
+责	責		4	535	8画	贝 + 4	zé	zhài	one's responsibility, duty					
+营	營		5	536	14画	艸艹 + 8	yíng		encampment, barracks; manage					
+星			1	537	9画	日 + 5	xīng		a star, planet; any point of light					
+够	夠		4	538	11画	夕 + 8	gòu		enough, adequate					
+章			4	539	11画	音 + 2	zhāng	zhàng	composition; chapter, section					
+音			3	540	9画	音 + 0	yīn	yìn	sound, tone, pitch, pronunciation					
+跟			3	541	13画	足 + 6	gēn		heel; to follow, accompany; with					
+志	志 誌		4	542	7画	心忄 + 3	zhì		purpose, will, determination; annals					
+底			4	543	8画	广 + 5	dǐ	de	bottom, underneath, underside					
+站			1	544	10画	立 + 5	zhàn	zhān	stand up; a stand, station					
+严	嚴		4	545	7画	一 + 6	yán		strict, rigorous, rigid; stern					
+巴			5	546	4画	己已巳 + 1	bā		greatly desire, anxiously hope					
+例			4	547	8画	人亻 + 6	lì		precedent, example; regulation					
+防			5	548	7画	阜阝 + 4	fáng		defend; prevent; embankment					
+族			4	549	11画	方 + 7	zú	zòu, còu	a family clan, ethnic group, tribe					
+供			4	550	8画	人亻 + 6	gōng	gòng	supply, provide for; offer in worship					
+效	傚 效 効		4	551	10画	攴攵 + 6	xiào		result, effect; effectiveness					
+续	續		4	552	11画	纟 + 8	xù		continue, carry on; succeed					
+施			5	553	9画	方 + 5	shī	shǐ, yí, yì	grant, bestow; give; act; name					
+留			4	554	10画	田由甲申 + 5	liú	liǔ, liù	stop, halt; stay, detain, keep					
+讲	講		3	555	6画	讠 + 4	jiǎng		explain; discuss; talk					
+型			5	556	9画	土 + 6	xíng		pattern, model, type; law; mold					
+料			4	557	10画	斗 + 6	liào	liáo	consider, conjecture; materials, ingredients					
+终	終		3	558	8画	纟 + 5	zhōng		end; finally, in the end					
+答			2	559	12画	竹 + 6	dá	dā	answer, reply; return; assent to					
+紧	緊		4	560	10画	糸糹 + 4	jǐn		tense, tight, taut; firm, secure					
+黄	黃		3	561	12画	黃 + 0 黄 + 0	huáng		yellow; surname					
+绝	絕		4	562	9画	纟 + 6	jué		to cut, sever, break off, terminate					
+奇			3	563	8画	大 + 5	qí	jī	strange, unusual, uncanny, occult					
+察			4	564	14画	宀 + 11	chá		examine, investigate; notice					
+母			4	565	5画	毋母 + 1	mǔ	mú, wǔ, wú	mother; female elders; female					
+京			1	566	8画	亠 + 6	jīng		capital city					
+段			3	567	9画	殳 + 5	duàn		section, piece, division					
+依			5	568	8画	人亻 + 6	yī	yǐ	rely on, be set in; consent, obey a wish					
+批			4	569	7画	手扌 + 4	pī		comment, criticize; wholesale					
+群	羣 群		4	570	13画	羊 + 7	qún		(same as U+7FA3 羣) group, crowd, multitude, mob					
+项	項		5	571	9画	页 + 3	xiàng		neck, nape of neck; sum; funds					
+故			3	572	9画	攴攵 + 5	gù	gǔ	ancient, old; reason, because					
+按			4	573	9画	手扌 + 6	àn		put hand on, press down with hand					
+河			3	574	8画	水氵氺 + 5	hé		river; stream; yellow river					
+米			1	575	6画	米 + 0	mǐ		hulled or husked uncooked rice					
+围	圍		4	576	7画	囗 + 4	wéi		surround, encircle, corral					
+江			4	577	6画	水氵氺 + 3	jiāng		large river; yangzi; surname					
+织	織		4	578	8画	纟 + 5	zhī	zhì	weave, knit; organize, unite					
+害			3	579	10画	宀 + 7	hài	hé	injure, harm; destroy, kill					
+斗	斗 鬥		5	580	4画	斗 + 0	dǒu	dòu	Chinese peck; liquid measure					
+双	雙		3	581	4画	又 + 2	shuāng		set of two, pair, couple; both					
+境			3	582	14画	土 + 11	jìng		boundary, frontier; area, region					
+客			1	583	9画	宀 + 6	kè		guest, traveller; customer					
+纪	紀		4	584	6画	纟 + 3	jì	jǐ	record, annal, historical account					
+采	採 采		5	585	8画	釆 + 1	cǎi	cài	collect, gather; pick, pluck					
+举	舉		3	586	9画	丶 + 8	jǔ		raise, lift up; recommend					
+杀	殺		5	587	6画	木 + 2	shā	sà, shài, shè	kill, slaughter, murder; hurt					
+攻			6	588	7画	攴攵 + 3	gōng		attack, assault; criticize					
+父			4	589	4画	父 + 0	fù	fǔ	father; KangXi radical 88					
+苏	甦 蘇 囌		6	590	10画	艸艹 + 4	sū		revive, resurrect; a species of thyme; transliteration of 'Soviet'					
+密			4	591	11画	宀 + 8	mì		dense, thick, close; intimate					
+低			3	592	7画	人亻 + 5	dī		low; to lower, hang, bend, bow					
+朝			5	593	12画	月 + 8	zhāo	cháo, zhū	dynasty; morning					
+友			1	594	4画	又 + 2	yǒu		friend, companion; fraternity					
+诉	訴		2	595	7画	讠 + 5	sù		accuse; sue; inform; narrate					
+止			4	596	4画	止 + 0	zhǐ		stop, halt, desist; detain					
+细	細		4	597	8画	纟 + 5	xì		fine, tiny; slender, thin					
+愿	愿 願		3	598	14画	心忄 + 10	yuàn		sincere, honest, virtuous					
+千	韆 千		2	599	3画	十 + 1	qiān		thousand; many, numerous; very; (Cant.) a cheater, swindler					
+值			4	600	10画	人亻 + 8	zhí	zhì	price					
+仍			4	601	4画	人亻 + 2	réng		yet, still, as ever; again; keep -ing, continuing					
+男			2	602	7画	田由甲申 + 2	nán		male, man; son; baron; surname					
+钱	錢		1	603	10画	钅 + 5	qián	jiǎn	money, currency, coins					
+破			4	604	10画	石 + 5	pò		break, ruin, destroy; rout					
+网	網		3	605	6画	网罒罓 + 0	wǎng		net; network; KangXi radical 122					
+热	熱		1	606	10画	火灬 + 6	rè		hot; heat; fever; restless; zeal					
+助			2	607	7画	力 + 5	zhù		help, aid, assist					
+倒			5	608	10画	人亻 + 8	dǎo	dào	fall over; lie down; take turns					
+育			3	609	8画	肉月 + 4	yù	yō	produce, give birth to; educate					
+属	屬		5	610	12画	尸 + 9	shǔ	zhǔ	class, category, type; belong to					
+坐			1	611	7画	土 + 4	zuò		sit; seat; ride, travel by					
+帝			5	612	9画	巾 + 6	dì		supreme ruler, emperor; god					
+限			4	613	9画	阜阝 + 6	xiàn	wěn	boundary, limit, line					
+船			2	614	11画	舟 + 5	chuán		ship, boat, vessel					
+脸	臉		3	615	11画	肉月 + 7	liǎn		face; cheek; reputation					
+职	職		4	616	11画	耳 + 5	zhí	zhì	duty, profession; office, post					
+速			4	617	11画	辵辶 + 7	sù		quick, prompt, speedy					
+刻			3	618	8画	刀刂 + 6	kè		carve, engrave; quarter hour					
+乐	樂		2	619	5画	丿 + 4	lè	yuè, yào, luò, liáo	happy, glad; enjoyable; music					
+否			4	620	7画	口 + 4	fǒu	pǐ	not, no, negative; final particle					
+刚	剛		3	621	6画	刀刂 + 4	gāng		hard, tough, rigid, strong					
+威			5	622	9画	女 + 6	wēi		pomp, power; powerful; dominate					
+毛			4	623	4画	毛 + 0	máo	mào	hair, fur, feathers; coarse					
+状	狀		5	624	6画	犬犭 + 3	zhuàng		form; appearance; shape; official					
+率			5	625	11画	玄 + 6	lǜ	shuài, lüè	to lead; ratio; rate; limit					
+甚			4	626	9画	甘 + 4	shén	shí, shèn	great extent; considerably					
+独	獨		5	627	9画	犬犭 + 6	dú		alone, single, solitary, only					
+球			2	628	11画	玉玊王 + 7	qiú		ball, sphere, globe; round					
+般			3	629	10画	舟 + 4	bān	bō, pán, bǎn	sort, manner, kind, category					
+普			3	630	12画	日 + 8	pǔ		universal, general, widespread					
+怕			3	631	8画	心忄 + 5	pà		to fear, be afraid of; apprehensive					
+弹	彈		4	632	11画	弓 + 8	dàn	tán	pellet, bullet, shot, shell					
+校			1	633	10画	木 + 6	xiào	jiǎo, jiào, xiáo	school; military field officer					
+苦			4	634	11画	艸艹 + 5	kǔ	gǔ	bitter; hardship, suffering					
+创	創		5	635	6画	刀刂 + 4	chuàng	chuāng	establish, create; knife cut					
+假			4	636	11画	人亻 + 9	jiǎ	jià, xiá	falsehood, deception; vacation					
+久			3	637	3画	丿 + 2	jiǔ		long time (ago); time passage, grow late					
+错	錯		2	638	13画	钅 + 8	cuò	cù	error, blunder, mistake; wrong					
+承			5	639	8画	手扌 + 4	chéng	zhěng	inherit, receive; succeed					
+印			4	640	6画	卩 + 4	yìn		print, seal, stamp, chop, mark					
+晚			2	641	11画	日 + 7	wǎn		night, evening; late					
+兰			"#N/A"	642	5画	八 + 3	lán		orchid; elegant, graceful					
+试	試		2	643	8画	讠 + 6	shì		test, try, experiment					
+股			5	644	8画	肉月 + 4	gǔ		thighs, haunches, rump; share					
+拿			3	645	10画	手扌 + 6	ná		take, hold, grasp; bring; with					
+脑	腦		1	646	10画	肉月 + 6	nǎo		brain					
+预	預		4	647	10画	页 + 4	yù		prepare, arrange; in advance					
+谁	誰		1	648	10画	讠 + 8	shuí	shéi	who? whom? whose? anyone?					
+益			5	649	10画	皿 + 5	yì		profit, benefit; advantage					
+阳	陽		3	650	7画	阜阝 + 4	yáng		male' principle; light; sun					
+若			6	651	11画	艸艹 + 5	ruò	rě, ré, rè	if, supposing, assuming; similar					
+哪			1	652	10画	口 + 7	nǎ	něi, na, né	which? where? how?					
+微			4	653	13画	彳 + 10	wēi	wéi	small, prefix micro-, trifling					
+尼			"#N/A"	654	5画	尸 + 2	ní		Buddhist nun; transliteration					
+继	繼		4	655	10画	纟 + 7	jì		continue, maintain, carry on					
+送			2	656	10画	辵辶 + 6	sòng		see off, send off; dispatch, give					
+急			3	657	9画	心忄 + 5	jí		quick, quickly; urgent, pressing					
+血			4	658	6画	血 + 0	xiě	xuè	blood; radical number 143					
+惊	驚		4	659	11画	心忄 + 8	liáng	jīng	frighten, surprise, startle					
+伤	傷		4	660	6画	人亻 + 4	shāng		wound, injury; fall ill from					
+素			5	661	10画	糸糹 + 4	sù		white (silk); plain; vegetarian; formerly; normally					
+药	藥 葯		2	662	12画	艸艹 + 6	yào	yuè	leaf of Dahurian angelica plant; medicine					
+适	適		4	663	10画	辵辶 + 6	shì	guā, kuò	go, reach; appropriate, suitable					
+波			6	664	8画	水氵氺 + 5	bō	bēi, bì	waves, breakers; undulations					
+夜			5	665	8画	夕 + 5	yè		night, dark; in night; by night					
+省			4	666	9画	目 + 4	shěng	xiǎn, xǐng	province; save, economize					
+初			5	667	7画	刀刂 + 5 衣衤 + 2	chū		beginning, initial, primary					
+喜			1	668	12画	口 + 9	xǐ		like, love, enjoy; joyful thing					
+卫	衞 衛		5	669	3画	卩 + 1	wèi		guard, protect, defend					
+源			5	670	13画	水氵氺 + 10	yuán		spring; source, head; surname					
+食			4	671	9画	食飠 + 0	shí	sì, yì	eat; meal; food; KangXi radical number 184					
+险	險		4	672	10画	阜阝 + 7	xiǎn	yán	narrow pass, strategic point					
+待			5	673	9画	彳 + 6	dài	dāi	treat, entertain, receive; wait					
+述			5	674	9画	辵辶 + 5	shù		narrate, state, express					
+陆	陸		5	675	8画	阜阝 + 5	lù	liù	land, continental; army					
+习	習		1	676	3画	乙乚 + 2	xí		practice; flapping wings					
+置			5	677	13画	网罒罓 + 8	zhì		place, lay out; set aside					
+居			3	678	8画	尸 + 5	jū	jī	live, dwell, reside, sit					
+劳	勞		5	679	7画	力 + 5	láo	lào	labor, toil, do manual work					
+财	財		5	680	7画	贝 + 3	cái		wealth, valuables, riches					
+环	環		3	681	8画	玉玊王 + 4	huán		jade ring or bracelet; ring					
+排			4	682	11画	手扌 + 8	pái	pǎi, bèi	row, rank, line					
+福			4	683	14画	示礻 + 9	fú	fù	happiness, good fortune, blessing					
+纳	納		6	684	7画	纟 + 4	nà		admit, take, receive, accept					
+欢	歡		1	685	6画	欠 + 2	huān		happy, pleased, glad; joy; enjoy					
+雷			5	686	13画	雨 + 5	léi	lèi	thunder					
+警			4	687	20画	言訁 + 13	jǐng		guard, watch; alert, alarm					
+获	穫 獲		4	688	13画	艸艹 + 7	huò		obtain, get, receive; seize					
+模	糢 模		5	689	15画	木 + 11	mó	mú	model, standard, pattern; copy					
+充			5	690	5画	儿 + 4	chōng		fill, be full, supply					
+负	負		4	691	6画	贝 + 2	fù		load, burden; carry, bear					
+云	雲 云		3	692	4画	二 + 2	yún		say, speak; clouds					
+停			4	693	11画	人亻 + 9	tíng		stop, suspend, delay; suitable					
+木			5	694	4画	木 + 0	mù		tree; wood, lumber; wooden					
+游	遊 游		2	695	12画	水氵氺 + 9	yóu	liú	to swim; float, drift; wander, roam					
+龙	龍		5	696	5画	龙 + 0	lóng	lǒng, máng	dragon; symbolic of emperor					
+树	樹		3	697	9画	木 + 5	shù		tree; plant; set up, establish					
+疑			4	698	14画	疋 + 9	yí	nǐ, níng	doubt, question, suspect					
+层	層		3	699	7画	尸 + 4	céng		storey, layer, floor, stratum					
+冷			1	700	7画	冫 + 5	lěng		cold, cool; lonely					
+洲			4	701	9画	水氵氺 + 6	zhōu		continent; island; islet					
+冲	衝 沖		5	702	6画	冫 + 4	chōng		soar; pour boiling water over					
+射			5	703	10画	寸 + 7	shè	yì, yè	shoot, eject, issue forth, emit					
+略			5	704	11画	田由甲申 + 6	lüè		approximately, roughly; outline					
+范	范 範		4	705	11画	艸艹 + 5	fàn		surname; bee-like insect					
+竟			4	706	11画	音 + 2	jìng		finally, after all, at last					
+句			3	707	5画	口 + 2	jù	gōu	sentence					
+室			2	708	9画	宀 + 6	shì		room, home, house, chamber					
+异	異		6	709	6画	廾 + 3	yì		different, unusual, strange					
+激			4	710	16画	水氵氺 + 13	jī	jiào, jiāo	arouse, excite, incite; quickly					
+汉	漢		1	711	5画	水氵氺 + 2	yì	hàn	Chinese people; Chinese language					
+村	邨 村		4	712	7画	木 + 3	cūn		village, hamlet; uncouth, vulgar					
+哈			5	713	9画	口 + 6	hā	hǎ, hà	sound of laughter					
+策			5	714	12画	竹 + 6	cè		scheme, plan; to whip; urge					
+演	縯		3	715	14画	水氵氺 + 11	yǎn	yàn	perform, put on; exercise					
+简	簡		3	716	13画	竹 + 7	jiǎn		simple, terse, succinct, a letter					
+卡			4	717	5画	卜 + 3	qiǎ	kǎ	card, punch card; calorie					
+罪			5	718	13画	网罒罓 + 8	zuì		crime, sin, vice; evil; hardship					
+判			4	719	7画	刀刂 + 5	pàn		judge; discriminate; conclude					
+担	擔		3	720	8画	手扌 + 5	dàn	dān, dǎn, qiè	carry, bear, undertake					
+州			6	721	6画	巛川 + 3	zhōu		administrative division, state					
+静	靜		3	722	14画	青 + 6	jìng		quiet, still, motionless; gentle					
+退			5	723	10画	辵辶 + 6	tuì		step back, retreat, withdraw					
+既			4	724	9画	无 + 5	jì	xì	already; de facto; since; then					
+衣			1	725	6画	衣衤 + 0	yī	yì	clothes, clothing; cover, skin					
+您			2	726	11画	心忄 + 7	nín		honorific for 'you'					
+宗			5	727	8画	宀 + 5	zōng		lineage, ancestry; ancestor, clan					
+积	積		4	728	10画	禾 + 5	jī		accumulate, store up, amass					
+余	余 餘		5	729	7画	人亻 + 5	yú	xú	I, my, me; surname; surplus					
+痛			5	730	12画	疒 + 7	tòng		pain, ache; sorry, sad; bitter					
+检	檢		3	731	11画	木 + 7	jiǎn		check; examine					
+差			3	732	10画	工 + 7	chà	chāi	to differ; different, wrong; nearly, almost; an officer					
+富			4	733	12画	宀 + 9	fù		abundant, ample; rich, wealthy					
+灵	靈		5	734	7画	火灬 + 3	líng	lìng	spirit, soul; spiritual world					
+协	協		5	735	6画	十 + 4	xié		be united; cooperate					
+角			3	736	7画	角 + 0	jiǎo	jué, gǔ, lù	horn; angle, corner; point					
+占	佔 占		5	737	5画	卜 + 3	zhān	zhàn	divine; observe; versify					
+配			5	738	10画	酉 + 3	pèi		match, pair; equal; blend					
+征	征 徵		5	739	8画	彳 + 5	zhēng		invade, attack, conquer					
+修	修 脩		4	740	10画	人亻 + 8	xiū		study; repair; cultivate					
+皮			4	741	5画	皮 + 0	pí		skin, hide, fur, feather; outer					
+挥	揮		5	742	9画	手扌 + 6	huī		direct; wipe away; squander					
+胜	勝 胜		5	743	9画	肉月 + 5	shèng	shēng	victory; excel, be better than					
+降			4	744	9画	阜阝 + 6	jiàng	xiáng, xiàng	descend, fall, drop; lower, down					
+阶	階		5	745	7画	阜阝 + 4	jiē		stairs, steps; rank, degree					
+审	審		6	746	8画	宀 + 5	shěn		examine, investigate; judge					
+沉	沉 沈		5	747	7画	水氵氺 + 4	chén		sink, submerge; addicted to					
+坚	堅		4	748	7画	土 + 4	jiān		hard, strong, firm; resolute					
+善			5	749	12画	口 + 9	shàn		good, virtuous, charitable, kind					
+妈	媽		1	750	6画	女 + 3	mā		mother, mama					
+刘			"#N/A"	751	6画	刀刂 + 4	liú		surname; kill, destroy					
+读	讀		1	752	10画	讠 + 8	dú	dòu	read, study; pronounce					
+啊			3	753	11画	口 + 8	a		exclamatory particle					
+超			3	754	12画	走 + 5	chāo	chǎo, chào,tiào	jump over, leap over; surpass					
+免			4	755	8画	儿 + 5	miǎn		spare; excuse from; evade					
+压	壓		4	756	6画	厂 + 4	yā	yà	press; oppress; crush; pressure					
+银	銀		3	757	11画	钅 + 6	yín		silver; cash, money, wealth					
+买	買		1	758	6画	乙乚 + 5	mǎi		buy, purchase; bribe, persuade					
+皇			5	759	9画	白 + 4	huáng	wǎng	royal, imperial; ruler, superior					
+养	養		4	760	9画	八 + 7	yǎng	yàng	raise, rear, bring up; support					
+伊			"#N/A"	761	6画	人亻 + 4	yī		third person pronoun; he, she, this, that					
+怀	懷		4	762	7画	心忄 + 4	huái		bosom, breast; carry in bosom					
+执	執		5	763	6画	手扌 + 3	zhí		hold in hand; keep; carry out					
+副			6	764	11画	刀刂 + 9	fù		assist; supplement; assistant					
+乱	亂		4	765	7画	乙乚 + 6	luàn		confusion, state of chaos, revolt					
+抗			5	766	7画	手扌 + 4	kàng	káng	resist, oppose, defy, reject					
+犯			5	767	5画	犬犭 + 2	fàn		commit crime, violate; criminal					
+追			5	768	10画	辵辶 + 6	zhuī	duī, tuī	pursue, chase after; expel					
+帮	幫		2	769	10画	巾 + 7	bāng		help, assist; defend; shoe upper					
+宣			5	770	9画	宀 + 6	xuān		declare, announce, proclaim					
+佛	彿		5	771	7画	人亻 + 5	fó	fú	Buddha; of Buddhism; merciful person; Buddhist image; the dead (Jap.)					
+岁	歲		1	772	6画	山 + 3	suì		year; age; harvest					
+航			4	773	10画	舟 + 4	háng		sail; navigate; ship, boat					
+优	優		4	774	6画	人亻 + 4	yōu		superior, excellent; actor					
+怪			3	775	8画	心忄 + 5	guài		strange, unusual, peculiar					
+香			3	776	9画	香 + 0	xiāng		fragrant, sweet smelling, incense					
+著			4	777	14画	艸艹 + 8	zhù	zhuó, chú,zhāo, zháo, zhe	manifest; (Cant.) to wear					
+田			5	778	5画	田由甲申 + 0	tián		field, arable land, cultivated					
+铁	鐵		3	779	10画	钅 + 5	tiě		iron; strong, solid, firm					
+控			5	780	11画	手扌 + 8	kòng	qiāng	accuse, charge; control					
+税	稅 税		5	781	12画	禾 + 7	shuì	tuàn, tuì, tuō	taxes					
+左			2	782	5画	工 + 2	zuǒ		left; east; unorthodox, improper					
+右			2	783	5画	口 + 2	yòu		right; west; right-wing					
+份			4	784	6画	人亻 + 4	fèn	bīn	portion, part; duty					
+穿			2	785	9画	穴 + 4	chuān		penetrate, pierce, drill; wear					
+艺	藝		4	786	7画	艸艹 + 1	yì		art; talent, ability; craft					
+背	揹 背		5	787	9画	肉月 + 5	bèi	bēi	back; back side; behind; betray					
+阵	陣		5	788	7画	阜阝 + 4	zhèn		column, row or file of troops					
+草			3	789	12画	艸艹 + 6	cǎo	zào	grass, straw, thatch, herbs					
+脚	腳		3	790	11画	肉月 + 7	jiǎo	jué	leg, foot; base, leg, foundation					
+概			4	791	13画	木 + 9	gài	guì, jié	generally, approximately					
+恶	噁 惡		5	792	10画	心忄 + 6	è	wù, wū	evil, wicked, bad, foul					
+块	塊		1	793	7画	土 + 4	kuài		piece, lump; dollar					
+顿	頓		4	794	10画	页 + 4	dùn	dú, zhūn	pause, stop; bow, kowtow; arrange					
+敢			3	795	12画	攴攵 + 8	gǎn		to dare, venture; bold, brave					
+守			5	796	6画	宀 + 3	shǒu	shòu	defend, protect, guard, conserve					
+酒			3	797	10画	酉 + 3	jiǔ		wine, spirits, liquor, alcoholic beverage					
+岛	島		5	798	7画	山 + 4	dǎo		island					
+托	托 託		5	799	6画	手扌 + 3	tuō		to hold up with palm; to support, rely on					
+央			6	800	5画	大 + 2	yāng		center, conclude, run out; beg					
+户	戶 户		4	801	4画	戶户 + 0	hù		door; family					
+烈			5	802	10画	火灬 + 6	liè		fiery, violent, vehement, ardent					
+洋			4	803	9画	水氵氺 + 6	yáng	xiáng, yǎng	ocean, sea; foreign; western					
+哥			2	804	10画	口 + 7	gē		elder brother					
+索			6	805	10画	糸糹 + 4	suǒ		large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated					
+胡	鬍 胡		5	806	9画	肉月 + 5	hú		recklessly, foolishly; wildly					
+款			5	807	12画	欠 + 8	kuǎn	xīn	item, article; clause; fund					
+靠			5	808	15画	非 + 7	kào		lean on, trust, depend on; near					
+评	評		4	809	7画	讠 + 5	píng		appraise, criticize, evaluate					
+版			5	810	8画	片 + 4	bǎn		printing blocks; edition					
+宝	寶		5	811	8画	宀 + 5	bǎo		treasure, jewel; precious, rare					
+座			4	812	10画	广 + 7	zuò		seat; stand, base					
+释	釋		4	813	12画	釆 + 5	shì	yì	interprete, elucidate; release					
+景			4	814	12画	日 + 8	jǐng	yǐng	scenery, view; conditions					
+顾	顧		3	815	10画	页 + 4	gù		look back; look at; look after					
+弟			2	816	7画	弓 + 4	dì	tì	young brother; junior; i, me					
+登			5	817	12画	癶 + 7	dēng	dé	rise, mount, board, climb					
+货	貨		4	818	8画	贝 + 4	huò		goods, commodities, products					
+互			4	819	4画	二 + 2	hù		mutually, reciprocally					
+付			5	820	5画	人亻 + 3	fù		give, deliver, pay, hand over; entrust					
+伯			6	821	7画	人亻 + 5	bó	bǎi, bà	older brother; father's elder brother; senior male 'sire'; feudal rank 'count'					
+慢			2	822	14画	心忄 + 11	màn		slow(ly), leisurely, sluggish					
+欧	歐		6	823	8画	欠 + 4	ōu	ǒu	translit.: Europe; ohm; surname					
+换	換		3	824	10画	手扌 + 7	huàn		change					
+闻	聞		3	825	9画	门 + 6	wén	wèn	hear; smell; make known; news					
+危			4	826	6画	卩 + 4	wēi	wéi	dangerous, precarious; high					
+忙			2	827	7画	心忄 + 3	máng		busy, pressed for time; hustling					
+核			5	828	10画	木 + 6	hé	hú	seed, kernel, core, nut; atom					
+暗	闇 暗		4	829	13画	日 + 9	àn		dark; obscure; in secret, covert					
+姐			1	830	8画	女 + 5	jiě		elder sister, young lady					
+介			2	831	4画	人亻 + 2	jiè		forerunner, herald, harbinger; to lie between; sea shell; to wear armor					
+坏	壞 坏		3	832	7画	土 + 4	huài	pī, péi	rotten, spoilt, bad, broken down					
+讨	討		4	833	5画	讠 + 3	tǎo		to discuss; ask for, beg; demand; dun; marry					
+丽	麗		4	834	7画	一 + 6	lì	lí	beautiful, magnificent, elegant					
+良			5	835	7画	艮 + 1	liáng	liǎng	good, virtuous, respectable					
+序			4	836	7画	广 + 4	xù		series, serial order, sequence					
+升	升 昇 陞		5	837	4画	十 + 2	shēng		arise, go up; hoist; advance					
+监	監		6	838	10画	皿 + 5	jiān	jiàn	supervise, control, direct					
+临	臨		5	839	9画	丨 + 8	lín	lìn	draw near, approach; descend					
+亮			1	840	9画	亠 + 7	liàng		bright, brilliant, radiant, light					
+露			5	841	20画	雨 + 12	lù	lòu	dew; bare, open, exposed					
+永			4	842	5画	水氵氺 + 1	yǒng		long, perpetual, eternal, forever					
+呼			5	843	8画	口 + 5	hū	xū	breathe sigh, exhale; call, shout					
+味			4	844	8画	口 + 5	wèi		taste, smell, odor; delicacy					
+野			5	845	11画	里 + 4	yě		open country, field; wilderness					
+架			5	846	9画	木 + 5	jià		rack, stand, prop; prop up					
+域			5	847	11画	土 + 8	yù		district, region, boundary; land					
+沙			4	848	7画	水氵氺 + 4	shā	shà, suō	sand, gravel, pebbles; granulated					
+掉			4	849	11画	手扌 + 8	diào		turn, move; shake, wag; drop down					
+括			4	850	9画	手扌 + 6	kuò	guā	include, embrace, enclose					
+舰	艦		6	851	10画	舟 + 4	jiàn		warship					
+鱼	魚		2	852	8画	鱼 + 0	yú		fish; surname; KangXi radical 195					
+杂	雜		4	853	6画	木 + 2	zá		mixed, blended; mix, mingle					
+误	誤		4	854	9画	讠 + 7	wù		err, make mistake; interfere					
+湾	灣		6	855	12画	水氵氺 + 9	wān		bay, cove, inlet, bend of stream					
+吉			6	856	6画	口 + 3	jí		lucky, propitious, good					
+减	減		4	857	11画	冫 + 9	jiǎn		decrease, subtract, diminish					
+编	編		5	858	12画	纟 + 9	biān	biàn	knit, weave; arrange; compile					
+楚			3	859	13画	木 + 9	chǔ		name of feudal state; clear					
+肯			4	860	8画	肉月 + 4	kěn		willing; consent to, permit					
+测	測		5	861	9画	水氵氺 + 6	cè		measure, estimate, conjecture					
+败	敗		4	862	8画	贝 + 4	bài		be defeated, decline, fail					
+屋			5	863	9画	尸 + 6	wū		house; room; building, shelter					
+跑			2	864	12画	足 + 5	pǎo	páo, bó	run, flee, leave in hurry					
+梦	夢		4	865	11画	木 + 7	mèng	méng	dream; visionary; wishful					
+散			4	866	12画	攴攵 + 8	sàn	sǎn	scatter, disperse, break up					
+温	温 溫		4	867	12画	水氵氺 + 9	wēn	yùn	lukewarm					
+困	困 睏		4	868	7画	囗 + 4	kùn		to surround, beseige; to be surrounded; difficult					
+剑			"#N/A"	869	9画	刀刂 + 7	jiàn		sword, dagger, saber					
+渐	漸		4	870	11画	水氵氺 + 8	jiàn	jiān, chán, qián	gradually					
+封			5	871	9画	寸 + 6	fēng		letter, envelope; feudal					
+救			5	872	11画	攴攵 + 7	jiù		save, rescue, relieve; help, aid					
+贵	貴		2	873	9画	贝 + 5	guì		expensive, costly, valuable					
+枪	鎗 槍		5	874	8画	木 + 4	qiāng	chēng	spear, lance; gun, rifle					
+缺			4	875	10画	缶 + 4	quē		be short of, lack; gap, deficit					
+楼	樓		3	876	13画	木 + 9	lóu		building of two or more stories					
+县	縣		5	877	7画	厶 + 5	xiàn	xuán	county, district, subdivision					
+尚			5	878	8画	小 + 5	shàng	cháng	still, yet; even; fairly, rather					
+毫			5	879	11画	毛 + 7	háo		fine hair; measure of length					
+移			5	880	11画	禾 + 6	yí	chǐ, yì	change place, shift; move about					
+娘	孃 娘		5	881	10画	女 + 7	niáng		mother; young girl; woman; wife					
+朋			1	882	8画	月 + 4	péng		friend, pal, acquaintance					
+画	畫		3	883	8画	田由甲申 + 3	huà		a painting, picture, drawing; to draw					
+班			2	884	10画	玉玊王 + 6	bān		class, group, grade; squad; job					
+智			5	885	12画	日 + 8	zhì	zhī	wisdom, knowledge, intelligence					
+亦			6	886	6画	亠 + 4	yì		also, too; likewise					
+耳			3	887	6画	耳 + 0	ěr	réng	ear; merely, only; handle					
+恩			6	888	10画	心忄 + 6	ēn		kindness, mercy, charity					
+短			3	889	12画	矢 + 7	duǎn		short; brief; deficient, lacking					
+掌			4	890	12画	手扌 + 8	zhǎng		palm of hand, sole of foot, paw					
+恐			4	891	10画	心忄 + 6	kǒng		fear; fearful, apprehensive					
+遗	遺		5	892	13画	辵辶 + 9	yí	wèi	lose; articles lost; omit					
+固			5	893	8画	囗 + 5	gù		to become solid, solidify; strength					
+席	席 蓆		5	894	10画	巾 + 7	xí		seat; mat; take seat; banquet					
+松	松 鬆		4	895	8画	木 + 4	sōng		pine tree; fir tree					
+秘	秘 祕		5	896	10画	禾 + 5	mì	bì, bié	secret, mysterious, abstruse					
+谢	謝		1	897	12画	讠 + 10	xiè		thank; decline					
+鲁	魯		6	898	12画	鱼 + 4	lǔ		foolish, stupid, rash; vulgar					
+遇			3	899	13画	辵辶 + 9	yù		meet, come across, encounter					
+康			3	900	11画	广 + 8	kāng		peaceful, quiet; happy, healthy					
+虑	慮		4	901	10画	虍 + 4	lǜ		be concerned, worry about					
+幸	倖 幸		4	902	8画	干 + 5	xìng		luck(ily), favor, fortunately					
+均			5	903	7画	土 + 4	jūn	yùn	equal, even, fair; all, also					
+销	銷		5	904	12画	钅 + 7	xiāo		melt, fuse; market, sell					
+钟	鍾 鐘		1	905	9画	钅 + 4	zhōng		clock; bell					
+诗	詩		5	906	8画	讠 + 6	shī		poetry; poem, verse, ode					
+藏			5	907	20画	艸艹 + 14	cáng	zàng, zāng	hide, conceal; hoard, store up					
+赶	趕		5	908	10画	走 + 3	gǎn	qián	pursue, follow; expel, drive away					
+剧	劇		4	909	10画	刀刂 + 8	jù		theatrical plays, opera, drama					
+票			2	910	11画	示礻 + 6	piào	piāo	slip of paper or bamboo; ticket					
+损	損		5	911	10画	手扌 + 7	sǔn		diminish; impair; injure					
+忽			4	912	8画	心忄 + 4	hū		suddenly, abruptly; neglect					
+巨	鉅 巨		5	913	5画	工 + 2	jù		large, great, enormous; chief					
+炮	砲 炮		5	914	9画	火灬 + 5	pào	bāo, páo	large gun, cannon; artillery					
+旧	舊		3	915	5画	日 + 1	jiù		old, ancient; former, past					
+端			6	916	14画	立 + 9	duān		end, extreme; head; beginning					
+探			6	917	11画	手扌 + 8	tàn	tān	find, locate; search, grope for					
+湖			6	918	12画	水氵氺 + 9	hú		a lake; Hubei, Hunan; bluish-green					
+录	錄		5	919	8画	彐彑 + 5	lù	lǜ	copy, write down, record					
+叶	葉		4	920	5画	口 + 2	xié	yè, shè	to harmonize, to rhyme; to unite; (borrowed for) leaf					
+春			3	921	9画	日 + 5	chūn	chǔn	spring; wanton					
+乡	鄉		5	922	3画	幺乡 + 0	xiāng	xiǎng, xiàng	country; rural; village					
+附			3	923	8画	阜阝 + 5	fù	pǒu, bù, fū	adhere to, append; rely on near to					
+吸			4	924	7画	口 + 4	xī		inhale, suck in; absorb; attract					
+予			6	925	4画	亅了 + 3	yú	yǔ	I, me; to give					
+礼	禮		3	926	6画	示礻 + 1	lǐ		social custom; manners; courtesy					
+港			6	927	12画	水氵氺 + 9	gǎng	hòng	port, harbor; small stream; bay					
+雨			1	928	8画	雨 + 0	yǔ	yù	rain; rainy; KangXi radical 173					
+呀			4	929	7画	口 + 4	yā	ya	particle used to express surprise or mild emphasis; (Cant.) slurred form of the number ten					
+板	板 闆		3	930	8画	木 + 4	bǎn		plank, board; iron or tin plate					
+庭			5	931	10画	广 + 7	tíng	tìng	courtyard; spacious hall or yard					
+妇	婦		5	932	6画	女 + 3	fù		married women; woman; wife					
+归	歸		6	933	5画	彐彑 + 2	guī	kuì	return; return to, revert to					
+睛			2	934	13画	目 + 8	jīng	jǐng	eyeball; pupil of eye					
+饭	飯		1	935	7画	饣 + 4	fàn		cooked rice; food, meal					
+额	額		6	936	15画	页 + 9	é		forehead; tablet, plaque; fixed					
+含			5	937	7画	口 + 4	hán		hold in mouth; cherish; contain					
+顺	順		4	938	9画	页 + 3	shùn		obey, submit to, go along with					
+输	輸		4	939	13画	车 + 9	shū		transport, carry, haul					
+摇	搖		5	940	13画	手扌 + 10	yáo		wag, swing, wave; shake; scull					
+招			4	941	8画	手扌 + 5	zhāo	qiáo, sháo	beckon, summon; recruit, levy					
+婚			3	942	11画	女 + 8	hūn		get married; marriage, wedding					
+脱	脱 脫		4	943	11画	肉月 + 7	tuō		take off					
+补	補		5	944	8画	衣衤 + 2	bǔ		mend, patch, fix, repair, restore					
+谓	謂		5	945	11画	讠 + 9	wèi		say, tell; call, name; be called					
+督			6	946	13画	目 + 8	dū		supervise, oversee, direct					
+毒			5	947	8画	毋母 + 4	dú	dài	poison, venom; poisonous					
+油			4	948	8画	水氵氺 + 5	yóu	yòu	oil, fat, grease, lard; paints					
+疗	療		5	949	7画	疒 + 2	liáo		be healed, cured, recover					
+旅			2	950	10画	方 + 6	lǚ		trip, journey; travel; traveler					
+泽	澤		6	951	8画	水氵氺 + 5	zé	duó, shì, yì	marsh, swamp; grace, brilliance					
+材			4	952	7画	木 + 3	cái		material, stuff; timber; talent					
+灭	滅		5	953	5画	火灬 + 1	miè		extinguish; wipe out, exterminate					
+逐			4	954	11画	辵辶 + 7	zhú	dí, zhòu, tún	chase, expel; one by one					
+莫			6	955	13画	艸艹 + 7	mò	mù	do not, is not, can not; negative					
+笔	筆		3	956	10画	竹 + 4	bǐ		writing brush; write; stroke					
+亡			6	957	3画	亠 + 1	wáng	wú	death, destroyed; lose, perish					
+鲜	鮮		3	958	14画	鱼 + 6	xiān	xiǎn, xiàn	fresh; delicious; attractive					
+词	詞		3	959	7画	讠 + 5	cí		words; phrase, expression					
+圣	聖		6	960	5画	土 + 2	shèng	kū	holy, sacred					
+择	擇		3	961	8画	手扌 + 5	zé	zhái	select, choose, pick out					
+寻	尋		5	962	6画	寸 + 3	xún	xín	seek, search, look for; ancient					
+厂	廠		5	963	2画	厂 + 0	chǎng	hàn, ān	factory, workshop; radical 27					
+睡			1	964	13画	目 + 9	shuì		sleep, doze					
+博			4	965	12画	十 + 10	bó		gamble, play games; wide, broad					
+勒			"#N/A"	966	11画	力 + 9	lè	lēi	strangle, tighten					
+烟	煙 菸		4	967	10画	火灬 + 6	yān	yīn	smoke, soot; opium; tobacco, cigarettes					
+授			4	968	11画	手扌 + 8	shòu		give to, transmit; confer					
+诺	諾		6	969	10画	讠 + 8	nuò		promise; assent, approve					
+伦	倫		6	970	6画	人亻 + 4	lún		normal human relationships					
+岸			5	971	8画	山 + 5	àn		bank, shore; beach, coast					
+奥	奧		6	972	12画	大 + 9	ào		mysterious, obscure, profound					
+唐			6	973	10画	口 + 7	táng		Tang dynasty; Chinese					
+卖	賣		2	974	8画	十 + 6	mài		sell; betray; show off					
+俄			"#N/A"	975	9画	人亻 + 7	é		sudden(ly), soon; Russian					
+炸			5	976	9画	火灬 + 5	zhà	zhá	to fry in oil; to scald; to explode					
+载	載		5	977	10画	车 + 6	zài	zǎi	load; carry; transport, convey					
+洛			"#N/A"	978	9画	水氵氺 + 6	luò		river in Shanxi province; city					
+健			3	979	11画	人亻 + 9	jiàn		strong, robust, healthy; strength					
+堂			6	980	11画	土 + 8	táng		hall; government office					
+旁			2	981	10画	方 + 6	páng	bàng	side; by side, close by, near					
+宫	宮		6	982	9画	宀 + 6	gōng		palace					
+喝			1	983	12画	口 + 9	hē	hè	drink; shout, call out					
+借	借 藉		3	984	10画	人亻 + 8	jiè		borrow; lend; make pretext of					
+君			"#N/A"	985	7画	口 + 4	jūn		sovereign, monarch, ruler, chief, prince					
+禁			4	986	13画	示礻 + 8	jìn	jīn	restrict, prohibit, forbid					
+阴	陰		2	987	7画	阜阝 + 4	yīn	yìn, ān	female' principle; dark; secret					
+园	園		3	988	7画	囗 + 4	yuán		garden; park, orchard					
+谋	謀		6	989	11画	讠 + 9	móu		plan, scheme; strategem					
+宋			"#N/A"	990	7画	宀 + 4	sòng		Song dynasty; surname					
+避			5	991	17画	辵辶 + 13	bì		avoid; turn aside; escape; hide					
+抓			5	992	7画	手扌 + 4	zhuā	zhāo	scratch; clutch, seize, grab					
+荣	榮		5	993	12画	艸艹 + 6	róng		glory, honor; flourish, prosper					
+姑			5	994	8画	女 + 5	gū		father's sister; husband's mother					
+孙	孫		4	995	6画	子孑 + 3	sūn	xùn	grandchild, descendent; surname					
+逃			5	996	10画	辵辶 + 6	táo		escape, flee; abscond, dodge					
+牙			3	997	4画	牙 + 0	yá	yà	tooth, molars, teeth; serrated					
+束			3	998	7画	木 + 3	shù		bind, control, restrain; bale					
+跳			2	999	13画	足 + 6	tiào	tiáo, táo, diào	jump, leap, vault, bounce; dance					
+顶	頂		5	1000	8画	页 + 2	dǐng		top, summit, peak; to carry on the head					
+玉			5	1001	5画	玉玊王 + 0	yù		jade, precious stone, gem					
+镇	鎮		6	1002	15画	钅 + 10	zhèn		town, market place; suppress					
+雪			2	1003	11画	雨 + 3	xuě		snow; wipe away shame, avenge					
+午			1	1004	4画	十 + 2	wǔ		noon; 7th terrestrial branch					
+练	練		3	1005	8画	纟 + 5	liàn		to practice, drill, exercise, train					
+迫			5	1006	9画	辵辶 + 5	pò	pǎi	coerce, force, compel; urgent					
+爷	爺		3	1007	6画	父 + 2	yé		father, grandfather					
+篇			4	1008	15画	竹 + 9	piān		chapter, section, essay, article					
+肉			2	1009	6画	肉月 + 0	ròu	rù	flesh; meat; KangXi radical 130					
+嘴			4	1010	15画	口 + 12	zuǐ		mouth, lips					
+馆	館		1	1011	11画	饣 + 8	guǎn		public building					
+遍			4	1012	13画	辵辶 + 9	biàn		everywhere, all over, throughout					
+凡			5	1013	3画	几 + 1	fán		all, any, every; ordinary, common					
+础	礎		4	1014	10画	石 + 5	chǔ		foundation stone, plinth					
+洞			5	1015	9画	水氵氺 + 6	dòng	tóng	cave, grotto; ravine; hole					
+卷	捲 卷		5	1016	8画	卩 + 6	juàn	quán	scroll; curl; make a comeback					
+坦			5	1017	8画	土 + 5	tǎn		flat, smooth; self-possessed					
+牛			2	1018	4画	牛牜 + 0	niú		cow, ox, bull; KangXi radical93					
+宁	寧 甯		5	1019	5画	宀 + 2	níng	zhù, nìng	calm, peaceful, serene; healthy					
+纸	紙		2	1020	7画	纟 + 4	zhǐ		paper					
+诸	諸		6	1021	10画	讠 + 8	zhū		various, all, these; surname					
+训	訓		5	1022	5画	讠 + 3	xùn		teach, instruct; exegesis					
+私			5	1023	7画	禾 + 2	sī		private, personal; secret					
+庄	莊 庄		6	1024	6画	广 + 3	zhuāng		village, hamlet; villa, manor					
+祖			5	1025	10画	示礻 + 5	zǔ	jiē	ancestor, forefather; grandfather					
+丝	糸		5	1026	5画	一 + 4	sī		silk; fine thread; wire; strings					
+翻			4	1027	18画	羽 + 12	fān		flip over, upset, capsize					
+暴			6	1028	15画	日 + 11	bào	pù, bó	violent, brutal, tyrannical					
+森			4	1029	12画	木 + 8	sēn		forest; luxuriant vegetation					
+塔			5	1030	13画	土 + 10	tǎ		tower, spire, tall building					
+默			4	1031	16画	黑 + 4	mò		silent; quiet, still; dark					
+握			4	1032	12画	手扌 + 9	wò		grasp, hold fast, take by hand					
+戏	戲		3	1033	6画	戈 + 2	xì	xī, hū, huī	theatrical play, show					
+隐	隱		6	1034	12画	阜阝 + 9	yǐn	yìn	hide, conceal; hidden, secret					
+熟			4	1035	15画	火灬 + 11	shú	shóu	well-cooked; ripe; familiar with					
+骨			5	1036	10画	骨 + 0	gǔ	gū, gú	bone; skeleton; frame, framework					
+访	訪		4	1037	6画	讠 + 4	fǎng		visit; ask, inquire					
+弱			5	1038	10画	弓 + 7	ruò		weak; fragile, delicate					
+蒙	蒙 矇 濛		6	1039	16画	艸艹 + 10	méng	mēng, měng,máng	cover; ignorant; suffer; mongolia					
+歌			2	1040	14画	欠 + 10	gē		song, lyrics; sing, chant; praise					
+店			1	1041	8画	广 + 5	diàn		shop, store; inn, hotel					
+鬼			5	1042	10画	鬼 + 0	guǐ		ghost; spirit of dead; devil					
+软	軟		4	1043	8画	车 + 4	ruǎn		soft, flexible, pliable; weak					
+典			3	1044	8画	八 + 6	diǎn		law, canon; documentation; classic, scripture					
+欲	慾 欲		6	1045	11画	欠 + 7	yù		desire, want, long for; intend					
+萨			"#N/A"	1046	14画	艸艹 + 8	sà		Buddhist gods or immortals					
+伙	夥 伙		5	1047	6画	人亻 + 4	huǒ	huo	companion, colleague; utensils					
+遭			6	1048	15画	辵辶 + 11	zāo		come across, meet with, encounter					
+盘	槃 盤		3	1049	11画	皿 + 6	pán		tray, plate, dish; examine					
+爸			1	1050	8画	父 + 4	bà		father, papa					
+扩	擴		4	1051	6画	手扌 + 3	kuò		expand, enlarge, stretch					
+盖	蓋		5	1052	11画	皿 + 6	gài	gě, hé	cover, hide, protect					
+弄			4	1053	7画	廾 + 4	nòng	lòng	do, play or fiddle with; alley					
+雄			5	1054	12画	隹 + 4	xióng		male of species; hero; manly					
+稳	穩		5	1055	14画	禾 + 9	wěn		stable, firm, solid, steady					
+忘			3	1056	6画	心忄 + 3	wàng	wáng	forget; neglect; miss, omit					
+亿	億		4	1057	3画	人亻 + 1	yì		hundred million; many					
+刺			5	1058	8画	刀刂 + 6	cì	qì	stab; prick, irritate; prod					
+拥	擁		5	1059	8画	手扌 + 5	yǒng	yōng	embrace, hug, squeeze; crowd					
+徒			6	1060	10画	彳 + 7	tú		disciple, follower; go on foot					
+姆			6	1061	8画	女 + 5	mǔ		child's governess; matron					
+杨			"#N/A"	1062	7画	木 + 3	yáng		willow, poplar, aspen; surname					
+齐	齊		4	1063	6画	文 + 2 齐 + 0	qí	jī, jì, jiǎn, zhāi, zī	6576656E2C20756E69666F726D2C206F6620657175616C206C656E677468					
+赛	賽		3	1064	14画	贝 + 10	sài		compete, contend; contest, race					
+趣			3	1065	15画	走 + 8	qù	cù, qū, cǒu, zōu	what attracts one's attention					
+曲	曲 麴		6	1066	6画	曰 + 2	qū	qǔ	crooked, bent; wrong, false					
+刀			4	1067	2画	刀刂 + 0	dāo		knife; old coin; measure					
+床	牀 床		2	1068	7画	广 + 4	chuáng		bed, couch; framework, chassis					
+迎			2	1069	8画	辵辶 + 4	yíng	yìng	receive, welcome, greet					
+冰			3	1070	6画	冫 + 4	bīng	níng	ice; ice-cold					
+虚	虛		5	1071	11画	虍 + 5	xū	qū	FALSE					
+玩			2	1072	8画	玉玊王 + 4	wán	wàn	play with, joke, enjoy					
+析			5	1073	8画	木 + 4	xī		split wood; break apart; divide					
+窗			4	1074	12画	穴 + 7	chuāng	cōng	window					
+醒			4	1075	16画	酉 + 9	xǐng	xīng, chéng,jīng	wake up; sober up; startle					
+妻			2	1076	8画	女 + 5	qī	qì	wife					
+透			5	1077	11画	辵辶 + 7	tòu	shū	penetrate, pass through					
+购	購		4	1078	8画	贝 + 4	gòu		buy, purchase; hire					
+替			4	1079	12画	曰 + 8	tì		change, replace, substitute for					
+塞			6	1080	13画	土 + 10	sāi	sè, sài	stop up, block, seal, cork; pass, frontier; fortress					
+努			3	1081	7画	力 + 5	nǔ		to exert, strive, make an effort; to pout					
+休			2	1082	6画	人亻 + 4	xiū		rest, stop; retire; do not!					
+虎			4	1083	8画	虍 + 2	hǔ	hù	tiger; brave, fierce; surname					
+扬	颺 揚		4	1084	6画	手扌 + 3	yáng		scatter, spread; praise					
+途			5	1085	11画	辵辶 + 7	tú		way, road, path, journey; course					
+侵			5	1086	9画	人亻 + 7	qīn		invade, encroach upon, raid					
+刑			6	1087	6画	刀刂 + 4	xíng		punishment, penalty; law					
+绿	綠		3	1088	11画	纟 + 8	lǜ	lù	green; chlorine					
+兄			5	1089	5画	儿 + 3	xiōng		elder brother					
+迅			5	1090	7画	辵辶 + 3	xùn		quick, hasty, rapid, sudden					
+套			5	1091	10画	大 + 7	tào		case, cover, wrapper, envelope					
+贸	貿		5	1092	9画	贝 + 5	mào		trade, barter; mixed; rashly					
+毕	畢		4	1093	6画	比 + 2	bì		end, finish, conclude; completed					
+唯			5	1094	11画	口 + 8	wéi	wěi	only; yes					
+谷	谷 穀		6	1095	7画	谷 + 0	gǔ	yù, lù	valley, gorge, ravine					
+轮	輪		5	1096	8画	车 + 4	lún		wheel; revolve, turn; recur					
+库	庫		5	1097	7画	广 + 4	kù		armory, treasury, storehouse					
+迹	蹟 跡		5	1098	10画	辵辶 + 6	jī	jì	traces, impressions, footprints					
+尤			4	1099	4画	尢 + 1	yóu		especially, particularly					
+竞	競		4	1100	10画	立 + 5	jìng		contend, vie, compete					
+街			3	1101	12画	行 + 6	jiē		street, road, thoroughfare					
+促			5	1102	9画	人亻 + 7	cù		urge, press, hurry; close					
+延			5	1103	7画	廴 + 4	yán		delay, postpone, defer					
+震			5	1104	15画	雨 + 7	zhèn	shēn	shake, quake, tremor; excite					
+弃	棄		4	1105	7画	廾 + 4	qì		reject, abandon, discard					
+甲			5	1106	5画	田由甲申 + 0	jiǎ		armor, shell; fingernails; 1st heavenly stem					
+伟	偉		5	1107	6画	人亻 + 4	wěi		great, robust; extraordinary					
+麻	痳		4	1108	11画	麻 + 0	má	mā	hemp, jute, flax; sesame					
+川			6	1109	3画	巛川 + 0	chuān		stream, river; flow; boil					
+申			4	1110	5画	田由甲申 + 0	shēn		to state to a superior, report; extend; 9th terrestrial branch					
+缓	緩		5	1111	12画	纟 + 9	huǎn		slow, leisurely; to postpone, delay					
+潜	潛		6	1112	15画	水氵氺 + 12	qián		hide; hidden, secret, latent					
+闪	閃		5	1113	5画	门 + 2	shǎn		flash; avoid, dodge, evade					
+售			4	1114	11画	口 + 8	shòu		sell					
+灯	燈		3	1115	6画	火灬 + 2	dēng		lantern, lamp					
+针	針		4	1116	7画	钅 + 2	zhēn		needle; pin; tack; acupuncture					
+哲			5	1117	10画	口 + 7	zhé		wise, sagacious; wise man, sage					
+络	絡		6	1118	9画	纟 + 6	luò	lào	enmesh, wrap around; web, net					
+抵	牴 抵		6	1119	8画	手扌 + 5	dǐ		resist, oppose; deny; off-set					
+朱			"#N/A"	1120	6画	木 + 2	zhū	shú	cinnabar, vermilion; surname					
+埃			"#N/A"	1121	10画	土 + 7	āi		fine dust, dirt					
+抱			4	1122	8画	手扌 + 5	bào		embrace, hold in arms, enfold					
+鼓			4	1123	13画	鼓 + 0	gǔ		drum; beat, top, strike					
+植			4	1124	12画	木 + 8	zhí		plant, trees, plants; grow					
+纯	純		5	1125	7画	纟 + 4	chún	quán, tún,zhūn, zhǔn	pure, clean, simple					
+夏			3	1126	10画	夊 + 7	xià	jiǎ	summer; great, grand, big					
+忍			5	1127	7画	心忄 + 3	rěn		endure, bear, suffer; forbear					
+页	頁		4	1128	6画	页 + 0	yè		page, sheet, leaf; rad. no. 181					
+杰	杰 傑		6	1129	8画	木 + 4	jié		hero; heroic, outstanding					
+筑	築 筑		5	1130	12画	竹 + 6	zhú	zhù	ancient lute; build					
+折	折 摺		4	1131	7画	手扌 + 4	zhé	shé, zhē	break off, snap; bend					
+郑	鄭		6	1132	9画	邑阝 + 6	zhèng		state in today's Henan; surname					
+贝	貝		5	1133	4画	贝 + 0	bèi		sea shell; money, currency					
+尊			4	1134	12画	寸 + 9	zūn		respect, revere, venerate; honor					
+吴			"#N/A"	1135	7画	口 + 4	wú		name of warring state; surname					
+秀			4	1136	7画	禾 + 2	xiù		ear of grain; flowering, luxuriant; refined, elegant, graceful					
+混			6	1137	11画	水氵氺 + 8	hùn	hǔn, hún, gǔn,kūn	to mix, blend, mingle; to bumble along					
+臣			6	1138	6画	臣 + 0	chén		minister, statesman, official					
+雅			6	1139	12画	隹 + 4	yǎ	yā, yá	elegant, graceful, refined					
+振			5	1140	10画	手扌 + 7	zhèn	zhēn, zhěn	raise, excite, arouse action					
+染			4	1141	9画	木 + 5	rǎn		dye; be contagious; infect					
+盛			6	1142	12画	皿 + 6	shèng	chéng	abundant, flourishing; contain; fill					
+怒			5	1143	9画	心忄 + 5	nù		anger, rage, passion; angry					
+舞			2	1144	14画	舛 + 8	wǔ		dance, posture, prance; brandish					
+圆	圓		4	1145	10画	囗 + 7	yuán		circle; round, circular; complete					
+搞			5	1146	13画	手扌 + 10	gǎo		to clear, clarify					
+狂			5	1147	7画	犬犭 + 4	kuáng	jué	insane, mad; violent; wild					
+措			5	1148	11画	手扌 + 8	cuò	zé	place; collect, arrange; employ					
+姓			2	1149	8画	女 + 5	xìng		one's family name; clan, people					
+残	殘		5	1150	10画	歹 + 6	cán		injure, spoil; oppress; broken					
+秋	秋 鞦		3	1151	9画	禾 + 4	qiū		autumn, fall; year					
+培			5	1152	11画	土 + 8	péi	pǒu	bank up with dirt; cultivate					
+迷			5	1153	10画	辵辶 + 6	mí	mèi, mì	bewitch, charm, infatuate					
+诚	誠		4	1154	8画	讠 + 6	chéng		sincere, honest; true, real					
+宽	寬		4	1155	10画	宀 + 7	kuān		broad, wide; spacious, vast					
+宇			5	1156	6画	宀 + 3	yǔ		house; building, structure; eaves					
+猛			6	1157	11画	犬犭 + 8	měng		violent, savage, cruel; bold					
+摆	擺		5	1158	13画	手扌 + 10	bǎi		put, place; display; swing, sway					
+梅			"#N/A"	1159	11画	木 + 7	méi		plums; prunes; surname					
+毁	毀 譭 燬		6	1160	13画	殳 + 9	huǐ		destroy					
+伸			5	1161	7画	人亻 + 5	shēn		extend, stretch out, open up; trust					
+摩			5	1162	15画	手扌 + 11	mó	mā	rub, scour, grind; friction					
+盟			6	1163	13画	皿 + 8	méng	míng, mèng	swear; oath, covenant, alliance					
+末			3	1164	5画	木 + 1	mò		final, last, end; insignificant					
+乃			"#N/A"	1165	2画	丿 + 1	nǎi		then; really, indeed; as it turned out, after all; namely					
+悲			5	1166	12画	心忄 + 8	bēi		sorrow, grief; sorry, sad					
+拍			5	1167	8画	手扌 + 5	pāi	bó, pò	clap, tap, beat; beat or rhythm					
+丁			5	1168	2画	一 + 1	dīng	zhēng	male adult; robust, vigorous; 4th heavenly stem					
+赵			"#N/A"	1169	9画	走 + 2	zhào	tiǎo	surname; ancient state					
+硬			4	1170	12画	石 + 7	yìng	gěng	hard, firm, strong; obstinate					
+麦	麥		5	1171	11画	麦 + 0	mài		wheat, barley, oats; simplified form of KangXi radical number 199					
+蒋			"#N/A"	1172	15画	艸艹 + 9	jiǎng	jiāng	surname; hydropyrum latifalium					
+操			5	1173	16画	手扌 + 13	cāo	cào	conduct, run, control, manage					
+耶			"#N/A"	1174	9画	耳 + 3	yé	yē, xié	used in transliteration					
+阻			5	1175	8画	阜阝 + 5	zǔ	zhù	impede, hinder, obstruct; oppose					
+订	訂		5	1176	4画	讠 + 2	dìng		draw up agreement; arrange					
+彩	綵 彩		4	1177	11画	彡 + 8	cǎi		hue, color; variegated colors					
+抽			4	1178	8画	手扌 + 5	chōu		draw out, pull out; sprout					
+赞	贊 讚		5	1179	16画	贝 + 12	zàn		help, support, assist, aid					
+魔			6	1180	21画	鬼 + 11	mó		demon, evil spirits; magic power					
+纷	紛		5	1181	7画	纟 + 4	fēn		in disorder, scattered, tangled					
+沿			6	1182	8画	水氵氺 + 5	yán	yàn	follow a course, go along					
+喊			5	1183	12画	口 + 9	hǎn		shout, call out, yell; howl; cry					
+违	違		5	1184	8画	辵辶 + 4	wéi		disobey, violate, defy; be apart from					
+妹			2	1185	8画	女 + 5	mèi		younger sister					
+浪			4	1186	10画	水氵氺 + 7	làng	láng	wave; wasteful, reckless					
+汇	彙 匯		5	1187	5画	水氵氺 + 2	huì		concourse; flow together, gather					
+币	幣		4	1188	4画	巾 + 1	bì		currency, coins, legal tender					
+丰	丰 豐		4	1189	4画	丨 + 3	fēng		abundant, lush, bountiful, plenty					
+蓝	藍		3	1190	16画	艸艹 + 10	lán	la	blue; indigo plant; surname					
+殊			5	1191	10画	歹 + 6	shū		different, special, unusual					
+献	獻		5	1192	12画	犬犭 + 9	xiàn		offer, present; show, display					
+桌			1	1193	10画	木 + 6	zhuō		table, desk, stand					
+啦			6	1194	11画	口 + 8	la	lā	final particle of assertion					
+瓦			6	1195	5画	瓦 + 0	wǎ	wà	tile; earthenware pottery; girl					
+莱			"#N/A"	1196	13画	艸艹 + 7	lái		goosefoot, weed; fallow field					
+援			6	1197	12画	手扌 + 9	yuán		aid, assist; lead; cite					
+译	譯		4	1198	7画	讠 + 5	yì		translate; decode; encode					
+夺	奪		6	1199	6画	大 + 3	duó		take by force, rob, snatch					
+汽			2	1200	7画	水氵氺 + 4	qì	gāi, yǐ	steam, vapor, gas					
+烧	燒		3	1201	10画	火灬 + 6	shāo		burn; bake; heat; roast					
+距			4	1202	12画	足 + 5	jù		distance; bird's spur					
+裁			5	1203	12画	衣衤 + 6	cái		cut out; decrease					
+偏			6	1204	11画	人亻 + 9	piān		inclined one side; slanting					
+符			4	1205	11画	竹 + 5	fú		i.d. tag, tally, symbol, charm					
+勇			4	1206	9画	力 + 7	yǒng		brave, courageous, fierce					
+触	觸		5	1207	13画	角 + 6	chù		butt, ram, gore; touch					
+课	課		2	1208	10画	讠 + 8	kè		lesson; course; classwork					
+敬			5	1209	13画	攴攵 + 9	jìng		respect, honor; respectfully					
+哭			3	1210	10画	口 + 7	kū		weep, cry, wail		suisui			
+懂			2	1211	16画	心忄 + 13	dǒng		understand, comprehend					
+墙	牆		4	1212	14画	土 + 11	qiáng		wall					
+袭	襲		6	1213	11画	衣衤 + 5	xí		raid, attack; inherit					
+召			5	1214	5画	口 + 2	zhào	shào	imperial decree; summon					
+罚	罰		5	1215	9画	网罒罓 + 4	fá		penalty, fine; punish, penalize					
+侠	俠		6	1216	8画	人亻 + 6	xiá		chivalrous person; knight-errant					
+厅	廳		5	1217	4画	厂 + 2	tīng		hall, central room					
+拜			5	1218	9画	手扌 + 5	bài		do obeisance, bow, kowtow					
+巧			4	1219	5画	工 + 2	qiǎo		skillful, ingenious, clever					
+侧	側		6	1220	8画	人亻 + 6	cè	zè	side; incline, slant, lean					
+韩			"#N/A"	1221	12画	韦 + 8	hán		fence; surname; Korea					
+冒			3	1222	9画	冂 + 7	mào	mòu, mò	risk, brave, dare					
+债	債		6	1223	10画	人亻 + 8	zhài		debt, loan, liabilities					
+曼			"#N/A"	1224	11画	曰 + 7	màn	mán	long, extended, vast; beautiful					
+融			5	1225	16画	虫 + 10	róng		melt, fuse; blend, harmonize					
+惯	慣		3	1226	11画	心忄 + 8	guàn		habit, custom; habitually, usual					
+享			5	1227	8画	亠 + 6	xiǎng		enjoy					
+戴			4	1228	18画	戈 + 13	dài		wear on top; support					
+童			4	1229	12画	立 + 7	tóng	zhōng	child, boy, servant boy; virgin					
+犹	猶		5	1230	7画	犬犭 + 4	yóu		like, similar to, just like, as					
+乘			4	1231	10画	丿 + 9	chéng	shèng	ride, ascend; avail oneself of; numerary adjunct for vehicles					
+挂	挂 掛		4	1232	9画	手扌 + 6	guà		hang, suspend; suspense					
+奖	獎		4	1233	9画	大 + 6	jiǎng		prize, reward; give award to					
+绍	紹		2	1234	8画	纟 + 5	shào		continue, carry on; join					
+厚			4	1235	9画	厂 + 7	hòu		thick; substantial; greatly					
+纵	縱		6	1236	7画	纟 + 4	zòng	zǒng, sǒng	indulge in, give free reign to					
+障			6	1237	14画	阜阝 + 11	zhàng	zhāng	separate; shield; barricade					
+讯	訊		5	1238	5画	讠 + 3	xùn		inquire; ask; examine; reproach					
+涉			6	1239	10画	水氵氺 + 7	shè	dié	ford stream, wade across					
+彻	徹		5	1240	7画	彳 + 4	chè		penetrate, pervade; penetrating					
+刊			6	1241	5画	刀刂 + 3	kān		publication, periodical; publish					
+丈			2	1242	3画	一 + 2	zhàng		unit of length equal 3.3 meters; gentleman, man, husband					
+爆			6	1243	19画	火灬 + 15	bào	bó	crackle, pop, burst, explode					
+乌	烏		6	1244	4画	丿 + 3	wū	wù	crow, rook, raven; black, dark					
+役			6	1245	7画	彳 + 4	yì		service; a servant, laborer; to serve					
+描			5	1246	12画	手扌 + 9	miáo		copy, trace, sketch; depict					
+洗			2	1247	9画	水氵氺 + 6	xǐ	xiǎn	wash, rinse; clean, purify					
+玛			"#N/A"	1248	7画	玉玊王 + 3	mǎ		agate; cornelian					
+患			6	1249	11画	心忄 + 7	huàn		suffer, worry about; suffering					
+妙			5	1250	7画	女 + 4	miào		mysterious, subtle; exquisite					
+镜	鏡		3	1251	16画	钅 + 11	jìng		mirror; lens; glass; glasses					
+唱			2	1252	11画	口 + 8	chàng		sing, chant, call; ditty, song					
+烦	煩		4	1253	10画	火灬 + 6	fán		bother, vex, trouble; troublesome					
+签	籤 簽		4	1254	13画	竹 + 7	qiān		sign, endorse; slip of paper					
+仙			6	1255	5画	人亻 + 3	xiān		Taoist super-being, transcendent, immortal					
+彼			5	1256	8画	彳 + 5	bǐ		that, there, those					
+弗			"#N/A"	1257	5画	弓 + 2	fú		not, negative					
+症	症 癥		6	1258	10画	疒 + 5	zhèng	zhēng	disease, illness, ailment					
+仿	仿 倣		5	1259	6画	人亻 + 4	fǎng	páng	imitate, copy; as if					
+倾	傾		6	1260	10画	人亻 + 8	qīng		upset, pour out, overflow					
+牌			5	1261	12画	片 + 8	pái		signboard, placard					
+陷			6	1262	11画	阜阝 + 8	xiàn		submerge, sink, plunge; trap					
+鸟	鳥		3	1263	5画	鸟 + 0	niǎo	diǎo	bird; KangXi radical 196					
+轰	轟		6	1264	8画	车 + 4	hōng		rumble, explosion, blast					
+咱	偺		4	1265	9画	口 + 6	zán	zá	we, us					
+菜			1	1266	14画	艸艹 + 8	cài		vegetables; dish, order; food					
+闭	閉		5	1267	6画	门 + 3	bì		shut, close; obstruct, block up					
+奋	奮		4	1268	8画	大 + 5	fèn		strive, exert effort; arouse					
+庆	慶		5	1269	6画	广 + 3	qìng		congratulate, celebrate					
+撤			6	1270	15画	手扌 + 12	chè		omit; remove; withdraw					
+泪	淚		4	1271	8画	水氵氺 + 5	lèi		tears; weep, cry					
+茶			1	1272	12画	艸艹 + 6	chá		tea					
+疾			5	1273	10画	疒 + 5	jí		illness, disease, sickness; to hate					
+缘	緣		5	1274	12画	纟 + 9	yuán	yuàn	hem, margin; reason, cause; fate					
+播			4	1275	15画	手扌 + 12	bō	bò, bǒ	sow, spread; broadcast; case away, reject					
+朗			6	1276	11画	月 + 7	lǎng		clear, bright; distinct					
+杜			6	1277	7画	木 + 3	dù		stop, prevent; restrict; surname					
+奶			2	1278	5画	女 + 2	nǎi		milk; woman's breasts; nurse					
+季			3	1279	8画	子孑 + 5	jì		quarter of year; season; surname					
+丹			"#N/A"	1280	4画	丶 + 3	dān		cinnabar (native HgS); vermilion (artificial HgS used as pigment)					
+狗			1	1281	8画	犬犭 + 5	gǒu		dog, canis familiaris					
+尾			5	1282	7画	尸 + 4	wěi	yǐ	tail, extremity; end, stern					
+仪	儀		6	1283	5画	人亻 + 3	yí		ceremony, rites gifts; admire					
+偷			5	1284	11画	人亻 + 9	tōu		to steal, burglar, thief					
+奔			6	1285	9画	大 + 6	bēn	bèn	run fast, flee; rush about; run					
+珠			6	1286	10画	玉玊王 + 6	zhū		precious stone, gem, jewel, pearl					
+虫	蟲 虫		6	1287	6画	虫 + 0	chóng	huǐ	insects, worms; KangXi radical 142					
+驻	駐		6	1288	8画	马 + 5	zhù		to be stationed at, reside at; to stop					
+孔			6	1289	4画	子孑 + 1	kǒng		opening, hole, orifice; great					
+宜			2	1290	8画	宀 + 5	yí		suitable, right, fitting, proper					
+艾			"#N/A"	1291	8画	艸艹 + 2	ài	yì	artemisia, mugwort; translit.					
+桥	橋		4	1292	10画	木 + 6	qiáo		bridge; beam, crosspiece					
+淡			5	1293	11画	水氵氺 + 8	dàn	tán, yǎn, yàn	weak, watery; insipid, tasteless					
+翼			6	1294	18画	羽 + 11	yì		wings; fins on fish; shelter					
+恨			5	1295	9画	心忄 + 6	hèn		hatred, dislike; resent, hate					
+繁			5	1296	17画	糸糹 + 11	fán	pó, pán	complicated, complex, difficult					
+寒			4	1297	12画	宀 + 9	hán		cold, wintry, chilly					
+伴			5	1298	7画	人亻 + 5	bàn	pàn	companion, comrade, partner; accompany					
+叹	歎 嘆		6	1299	5画	口 + 2	tàn		sigh, admire					
+旦			5	1300	5画	日 + 1	dàn		dawn; morning; day					
+愈	瘉 愈 癒		6	1301	13画	心忄 + 9	yù		more and more, even more					
+潮			6	1302	15画	水氵氺 + 12	cháo		tide; moist, wet, damp; flow					
+粮	糧		5	1303	13画	米 + 7	liáng		food, grain, provisions					
+缩	縮		5	1304	14画	纟 + 11	suō	sù	contract, draw in, reduce					
+罢	罷		6	1305	10画	网罒罓 + 5	bà	ba, bǎi, pí	cease, finish, stop; give up					
+聚			5	1306	14画	耳 + 8	jù		assemble, meet together, collect					
+径	逕 徑		6	1307	8画	彳 + 5	jìng		narrow path; diameter; direct					
+恰			6	1308	9画	心忄 + 6	qià		just, exactly, precisely; proper					
+挑			5	1309	9画	手扌 + 6	tiāo	tiǎo, tāo	a load carried on the shoulders; to carry					
+袋			4	1310	11画	衣衤 + 5	dài		pocket, bag, sack, pouch					
+灰			5	1311	6画	火灬 + 2	huī		ashes; dust; lime, mortar					
+捕			6	1312	10画	手扌 + 7	bǔ		arrest, catch, seize					
+徐			"#N/A"	1313	10画	彳 + 7	xú		slowly, quietly, calmly; composed, dignified					
+珍			5	1314	9画	玉玊王 + 5	zhēn		precious, valuable, rare					
+幕			5	1315	14画	巾 + 11	mù		curtain, screen, tent					
+映			4	1316	9画	日 + 5	yìng		project; reflect light					
+裂			6	1317	12画	衣衤 + 6	liè	liě	split, crack, break open; rend					
+泰			6	1318	10画	水氵氺 + 5	tài		great, exalted, superior; big					
+隔			5	1319	13画	阜阝 + 10	gé	rǒng, jī	separate, partition					
+启	啟		5	1320	7画	口 + 4	qǐ		open; begin, commence; explain					
+尖			5	1321	6画	小 + 3	jiān		sharp, pointed, acute, keen					
+忠			6	1322	7画	心忄 + 4	zhōng		loyalty, devotion, fidelity					
+累			2	1323	11画	糸糹 + 5	lèi	lěi, léi, lǜ, liè	tired; implicate, involve; bother					
+炎			6	1324	8画	火灬 + 4	yán	yàn, tán	flame, blaze; hot					
+暂	暫		4	1325	12画	日 + 8	zàn		temporary					
+估			4	1326	7画	人亻 + 5	gū	gǔ, gù	merchant; estimate, guess, presume					
+泛	泛 汎 氾		5	1327	8画	水氵氺 + 5	fàn	fán, fěng, fá	to drift, float; careless, reckless					
+荒			6	1328	12画	艸艹 + 6	huāng	huǎng, kāng	wasteland, desert; uncultivated					
+偿	償		5	1329	11画	人亻 + 9	cháng		repay, recompense; restitution					
+横	橫		5	1330	15画	木 + 11	héng	hèng, guāng,huáng, huàng	across					
+拒			4	1331	8画	手扌 + 5	jù	jǔ	ward off with hand, defend					
+瑞			"#N/A"	1332	13画	玉玊王 + 9	ruì		felicitous omen; auspicious					
+忆	憶		4	1333	4画	心忄 + 1	yì		remember, reflect upon; memory					
+孤			4	1334	8画	子孑 + 5	gū		orphan, fatherless; solitary					
+鼻			3	1335	14画	鼻 + 0	bí		nose; first; KangXi radical 209					
+闹	鬧		4	1336	8画	门 + 5	nào		quarrel; dispute hotly					
+羊			2	1337	6画	羊 + 0	yáng		sheep, goat; KangXi radical 123					
+呆	騃		5	1338	7画	口 + 4	dāi	ái	dull; dull-minded, simple, stupid					
+厉	厲		4	1339	5画	厂 + 3	lì		whetstone; grind, sharpen; whet					
+衡			5	1340	16画	行 + 10	héng		measure, weigh, judge, consider					
+胞			6	1341	9画	肉月 + 5	bāo	páo, pào	womb, placenta, fetal membrane					
+零			1	1342	13画	雨 + 5	líng	lián	zero; fragment, fraction					
+穷	窮		4	1343	7画	穴 + 2	qióng		poor, destitute, impoverished					
+舍	舍 捨		5	1344	8画	舌 + 2	shè	shě, shì	house, dwelling; dwell, reside					
+码	碼		4	1345	8画	石 + 3	mǎ		number, numerals; yard; symbol					
+赫			"#N/A"	1346	14画	赤 + 7	hè	xì, shì	bright, radiant, glowing					
+婆			6	1347	11画	女 + 8	pó		old woman; grandmother					
+魂			6	1348	14画	鬼 + 4	hún		soul, spirit					
+灾	災		5	1349	7画	火灬 + 3	zāi		calamity, disaster, catastrophe					
+洪			6	1350	9画	水氵氺 + 6	hóng		vast, immense; flood, deluge					
+腿			3	1351	14画	肉月 + 10	tuǐ		legs, thighs					
+胆	膽		5	1352	9画	肉月 + 5	dǎn	tán, tǎn, dá	gall bladder; bravery, courage					
+津			6	1353	9画	水氵氺 + 6	jīn		ferry; saliva; ford					
+俗			5	1354	9画	人亻 + 7	sú		social customs; vulgar, unrefined					
+辩	辯		5	1355	16画	辛 + 9	biàn	pián	dispute, argue, debate, discuss					
+胸			5	1356	10画	肉月 + 6	xiōng		breast, bosom, chest; thorax					
+晓	曉		6	1357	10画	日 + 6	xiǎo		dawn, daybreak; clear, explicit					
+劲	勁		5	1358	7画	力 + 5	jìng	jìn	strong, unyielding, tough, power					
+贫	貧		6	1359	8画	贝 + 4	pín		poor, impoverished, needy					
+仁			6	1360	4画	人亻 + 2	rén		humaneness, benevolence, kindness					
+偶			4	1361	11画	人亻 + 9	ǒu		accidentally, coincidently; an idol					
+辑	輯		5	1362	13画	车 + 9	jí		gather up, collect; edit, compile					
+邦			"#N/A"	1363	7画	邑阝 + 4	bāng		nation, country, state					
+恢			5	1364	9画	心忄 + 6	huī		restore; big, great, immense, vast					
+赖	賴		6	1365	13画	贝 + 9	lài		rely, depend on; accuse falsely					
+圈			5	1366	11画	囗 + 8	quān	juàn	to circle; a circle; corral					
+摸			5	1367	14画	手扌 + 11	mō	mó	gently touch with hand; caress					
+仰			6	1368	6画	人亻 + 4	yǎng	yàng, áng	raise the head to look; look up to, rely on, admire					
+润	潤		4	1369	10画	水氵氺 + 7	rùn		soft, moist; sleek; freshen					
+堆			5	1370	11画	土 + 8	duī		heap, pile, crowd; pile up					
+碰	踫 碰		5	1371	14画	石 + 8	pèng		collide, bump into					
+艇			6	1372	13画	舟 + 7	tǐng		small boat, dugout, punt					
+稍			4	1373	12画	禾 + 7	shāo	shào	little, slightly; rather					
+迟	遲		3	1374	8画	辵辶 + 4	chí	zhí	late, tardy; slow; delay					
+辆	輛		3	1375	11画	车 + 7	liàng		numerary adjunct for vehicles					
+废	廢		5	1376	8画	广 + 5	fèi		abrogate, terminate, discard					
+净	淨		3	1377	8画	冫 + 6	jìng		clean, pure; cleanse					
+凶	兇 凶		6	1378	4画	凵 + 2	xiōng		culprit; murder; bad, sad					
+署			6	1379	13画	网罒罓 + 8	shǔ		public office					
+壁			5	1380	16画	土 + 13	bì		partition wall; walls of a house					
+御	御 禦		6	1381	11画	彳 + 8	yù	yà	drive, ride; chariot; manage					
+奉			6	1382	8画	大 + 5	fèng		offer; receive; serve; respect					
+旋			6	1383	11画	方 + 7	xuán	xuàn	revolve, move in orbit; return					
+冬	冬 鼕		3	1384	5画	冫 + 3	dōng		winter, 11th lunar month					
+矿	礦		5	1385	8画	石 + 3	kuàng		mine; mineral, ore					
+抬			4	1386	8画	手扌 + 5	tái		lift, carry					
+蛋			2	1387	11画	虫 + 5	dàn		eggs; term of abuse					
+晨			6	1388	11画	日 + 7	chén		early morning, daybreak					
+伏			6	1389	6画	人亻 + 4	fú		crouch, crawl, lie hidden, conceal					
+吹			5	1390	7画	口 + 4	chuī	chuì	blow; puff; brag, boast					
+鸡	雞		2	1391	7画	鸟 + 2	jī		chicken					
+倍			4	1392	10画	人亻 + 8	bèi		times, fold, multiple times					
+糊	糊 餬		5	1393	15画	米 + 9	hú	hū, hù	paste, stick on with paste					
+秦			"#N/A"	1394	10画	禾 + 5	qín		feudal state of Qin; the Qin dynasty (from which the name 'China' comes)					
+盾			5	1395	9画	目 + 4	dùn	shǔn, yǔn	shield; dutch guilder; Indonesia					
+杯	杯 盃		1	1396	8画	木 + 4	bēi		cup, glass					
+租			1	1397	10画	禾 + 5	zū	jū	rent, lease; rental; tax					
+骑	騎		3	1398	11画	马 + 8	qí	jì	ride horseback; mount; cavalry					
+乏			5	1399	5画	丿 + 4	fá		lack; poor					
+隆			6	1400	12画	阜阝 + 9	lóng	lōng	prosperous, plentiful, abundant					
+诊	診		5	1401	7画	讠 + 5	zhěn		examine patient, diagnose					
+奴			6	1402	5画	女 + 2	nú		slave, servant					
+摄	攝		5	1403	13画	手扌 + 10	shè	niè	take in, absorb; act as deputy					
+丧	喪		6	1404	8画	一 + 7	sāng	sàng	mourning; mourn; funeral					
+污	污 汙		4	1405	6画	水氵氺 + 3	wū	wù, wā, yū	filthy, dirty, impure, polluted					
+渡			6	1406	12画	水氵氺 + 9	dù		cross, ferry over; ferry					
+旗	旂 旗		6	1407	14画	方 + 10	qí		banner, flag, streamer					
+甘			6	1408	5画	甘 + 0	gān		sweetness; sweet, tasty					
+耐			4	1409	9画	而 + 3	nài	néng	endure, bear; resist; patient					
+凭	憑		5	1410	8画	几 + 6	píng		lean on, depend on, rely on					
+扎	紮		6	1411	4画	手扌 + 1	zhā	zhá, zā, zhǎ	pull up; pierce; struggle free					
+抢	搶		5	1412	7画	手扌 + 4	qiǎng	qiāng, chēng	plunder, rob, take by force					
+绪	緖 緒		5	1413	11画	纟 + 8	xù		end of thread; thread, clue					
+粗	麤 粗		4	1414	11画	米 + 5	cū		rough, thick, course; rude					
+肩			5	1415	8画	肉月 + 4	jiān	xián	shoulders; to shoulder; bear					
+梁	梁 樑		6	1416	11画	木 + 7	liáng		bridge; beam; rafters; surname					
+幻			5	1417	4画	幺乡 + 1	huàn		illusion, fantasy, mirage					
+菲			"#N/A"	1418	14画	艸艹 + 8	fēi	fěi, fèi	fragrant, luxuriant; the Philippines					
+皆			6	1419	9画	白 + 4	jiē		all, every, everybody					
+碎			5	1420	13画	石 + 8	suì		break, smash; broken, busted					
+宙			5	1421	8画	宀 + 5	zhòu		time as concept; infinite time					
+叔			3	1422	8画	又 + 6	shū		father's younger brother					
+岩	巖 嵒 岩		6	1423	8画	山 + 5	yán		cliff; rocks; mountain					
+荡	盪 蕩		6	1424	12画	艸艹 + 6	dàng		pond, pool; wash away, cleanse					
+综	綜		5	1425	11画	纟 + 8	zòng	zōng, zèng	arrange threads for weaving					
+爬			3	1426	8画	爪爫 + 4	pá		crawl, creep; climb; scramble					
+荷			"#N/A"	1427	13画	艸艹 + 7	hé	hè, kē, hē	lotus, water lily, holland					
+悉			4	1428	11画	心忄 + 7	xī		know, learn about, comprehend					
+蒂			6	1429	15画	艸艹 + 9	dì		peduncle or stem of plants					
+返			5	1430	8画	辵辶 + 4	fǎn		return, revert to, restore					
+井			6	1431	4画	二 + 2	jǐng		well, mine shaft, pit					
+壮	壯		6	1432	6画	士 + 3	zhuàng		big, large; robust; name of tribe					
+薄			5	1433	19画	艸艹 + 13	bó	báo, bò, bù	thin, slight, weak; poor, stingy					
+悄			5	1434	10画	心忄 + 7	qiǎo		silent, quiet, still; anxious					
+扫	掃		3	1435	6画	手扌 + 3	sǎo	sào	sweep, clear away; exterminate					
+敏			5	1436	11画	攴攵 + 7	mǐn		fast, quick, clever, smart					
+碍	礙		5	1437	13画	石 + 8	ài		obstruct, hinder, block, deter					
+殖			6	1438	12画	歹 + 8	zhí	shì	breed, spawn; increase; prosper					
+详	詳		4	1439	8画	讠 + 6	xiáng	yáng	detailed, complete, thorough					
+迪			"#N/A"	1440	9画	辵辶 + 5	dí		enlighten, advance; progress					
+矛			5	1441	5画	矛 + 0	máo		spear, lance; KangXi radical 110					
+霍			6	1442	16画	雨 + 8	huò	hè, suǒ	quickly, suddenly; surname					
+允			4	1443	4画	儿 + 2	yǔn		to grant, to allow, to consent					
+幅			5	1444	12画	巾 + 9	fú		piece, strip, breadth of, hem					
+撒			6	1445	15画	手扌 + 12	sā	sǎ	release, cast away, let go; disperse; relax					
+剩	賸 剩		4	1446	12画	刀刂 + 10	shèng		leftovers, residue, remains					
+凯			"#N/A"	1447	8画	几 + 6	kǎi		triumphant; triumph, victory					
+颗	顆		5	1448	14画	页 + 8	kē	kě, kuǎn	grain, kernel					
+骂	罵		5	1449	9画	马 + 6	mà		accuse, blame, curse, scold					
+赏	賞		5	1450	12画	贝 + 8	shǎng		reward, grant, bestow; appreciate					
+液			5	1451	11画	水氵氺 + 8	yè	yì, shì	sap, juice, liquid, fluid					
+番			6	1452	12画	田由甲申 + 7	fān	pān, bō, pó, fán,pán, pí	to take turns; a turn, a time; to repeat					
+箱			3	1453	15画	竹 + 9	xiāng		case, box, chest, trunk					
+贴	貼		5	1454	9画	贝 + 5	tiē		paste to, stick on; attached to					
+漫			4	1455	14画	水氵氺 + 11	màn	mán	overflow of water; spreading					
+酸	痠 酸		4	1456	14画	酉 + 7	suān		tart, sour; acid; stiff; spoiled					
+郎			6	1457	9画	邑阝 + 6	láng	làng	gentleman, young man; husband					
+腰			5	1458	13画	肉月 + 9	yāo		waist; kidney					
+舒			3	1459	12画	舌 + 6	shū	yù	open up, unfold, stretch out; comfortable, easy					
+眉			5	1460	9画	目 + 4	méi		eyebrows; upper margin of book					
+忧	憂		6	1461	7画	心忄 + 4	yōu		sad, grieved; grief, melancholy					
+浮			6	1462	10画	水氵氺 + 7	fú		to float, drift, waft; to exceed; superfluous					
+辛			4	1463	7画	辛 + 0	xīn		bitter; toilsome, laborious; 8th heavenly stem					
+恋	戀		5	1464	10画	心忄 + 6	liàn		love; long for, yearn for; love					
+餐			5	1465	16画	食飠 + 7	cān	sùn	eat, dine; meal; food					
+吓	嚇		5	1466	6画	口 + 3	xià	hè	scare, frighten; intimidate					
+挺			4	1467	10画	手扌 + 7	tǐng		to stand upright, straighten; rigid					
+励	勵		4	1468	7画	力 + 5	lì		strive; encourage					
+辞	辭		5	1469	13画	辛 + 6	cí		words, speech, expression, phrase					
+艘			6	1470	16画	舟 + 10	sāo	sōu	counter for ships, vessels					
+键	鍵		4	1471	13画	钅 + 8	jiàn		door bolt, lock bolt; key					
+伍			6	1472	6画	人亻 + 4	wǔ		five, company of five; troops					
+峰	峰 峯		6	1473	10画	山 + 7	fēng		peak, summit; hump of camel					
+尺	呎 尺		5	1474	4画	尸 + 1	chǐ	chě	Chinese measure approx. 'foot'					
+昨			1	1475	9画	日 + 5	zuó		yesterday; in former times, past					
+黎			6	1476	15画	黍 + 3	lí		surname; numerous, many; black					
+辈	輩		5	1477	12画	车 + 8	bèi		generation, lifetime; class					
+贯	貫		6	1478	8画	贝 + 4	guàn	wān	a string of 1000 coins; to go through					
+侦	偵		6	1479	8画	人亻 + 6	zhēn	zhēng	spy, reconnoiter; detective					
+滑			5	1480	13画	水氵氺 + 10	huá	gǔ	slip, slide; slippery, polished					
+券			6	1481	8画	刀刂 + 6	quàn		certificate, ticket; title deeds					
+崇			6	1482	11画	山 + 8	chóng		esteem, honor, revere, venerate					
+扰	擾		4	1483	7画	手扌 + 4	rǎo	róu	disturb, annoy, agitate					
+宪	憲		6	1484	9画	宀 + 6	xiàn		constitution, statute, law					
+绕	遶 繞		5	1485	9画	纟 + 6	rào	rǎo	entwine; wind around; surround					
+趋	趨		5	1486	12画	走 + 5	qū	cù	hasten, hurry; be attracted to					
+慈			6	1487	14画	心忄 + 10	cí		kind, charitable, benevolent					
+乔			"#N/A"	1488	6画	丿 + 5	qiáo		tall, lofty; proud, stately					
+阅	閱 閲		4	1489	10画	门 + 7	yuè		examine, inspect, review, read					
+汗			4	1490	6画	水氵氺 + 3	hàn	hán, gān	perspiration, sweat					
+枝			6	1491	8画	木 + 4	zhī	qí	branches, limbs; branch off					
+拖			6	1492	8画	手扌 + 5	tuō		drag, tow, haul; delay, prolong					
+墨			6	1493	15画	黑 + 3	mò		ink; writing					
+胁	脅		5	1494	8画	肉月 + 4	xié		ribs, armpits; flank; threaten					
+插			5	1495	12画	手扌 + 9	chā		insert, stick into; plant					
+箭			6	1496	15画	竹 + 9	jiàn		arrow; type of bamboo					
+腊			"#N/A"	1497	12画	肉月 + 8	là	xī	year end sacrifice; dried meat					
+粉			6	1498	10画	米 + 4	fěn		powder, face powder; plaster					
+泥			6	1499	8画	水氵氺 + 5	ní	nì, nǐ, niè, nìng	mud, mire; earth, clay; plaster					
+氏			6	1500	4画	氏 + 0	shì	zhī, jīng	clan, family; mister					
+彭			"#N/A"	1501	12画	彡 + 9	péng		name of ancient country; surname					
+拔			6	1502	8画	手扌 + 5	bá	bèi	uproot, pull out					
+骗	騙		4	1503	12画	马 + 9	piàn		swindle, cheat out of, defraud					
+凤			"#N/A"	1504	4画	几 + 2	fèng		male phoenix; symbol of joy					
+慧			5	1505	15画	心忄 + 11	huì		bright, intelligent; intelligence					
+媒			6	1506	12画	女 + 9	méi		go-between, matchmaker; medium					
+佩	珮 佩		5	1507	8画	人亻 + 6	pèi		belt ornament, pendant; wear at waist, tie to the belt; respect					
+愤	憤		5	1508	12画	心忄 + 9	fèn		resent, hate; indignant					
+扑	撲		6	1509	5画	手扌 + 2	pū	bū	pound, beat, strike; attack					
+龄	齡		4	1510	13画	齿 + 5	líng		age; years					
+驱	驅		6	1511	7画	马 + 4	qū		spur a horse on; expel, drive away					
+惜			4	1512	11画	心忄 + 8	xī		pity, regret, rue, begrudge					
+豪			5	1513	14画	豕 + 7	háo		brave, heroic, chivalrous					
+掩			6	1514	11画	手扌 + 8	yǎn		to cover (with the hand); shut, conceal; ambush					
+兼			6	1515	10画	八 + 8	jiān		unite, combine; connect; and					
+跃	躍		5	1516	11画	足 + 4	yuè		skip, jump, frolic					
+尸	屍 尸		6	1517	3画	尸 + 0	shī		corpse; to impersonate the dead; to preside; KangXi radical 44					
+肃	肅		5	1518	10画	聿 + 4	sù		pay respects; reverently					
+帕			"#N/A"	1519	8画	巾 + 5	pà	mò	turban, kerchief, veil; wrap					
+驶	駛		5	1520	8画	马 + 5	shǐ		sail, drive, pilot; fast, quick					
+堡			6	1521	12画	土 + 9	bǎo	bǔ, pù	fort, fortress; town, village					
+届	屆		5	1522	8画	尸 + 5	jiè		numerary adjunct for time, term					
+欣			5	1523	8画	欠 + 4	xīn		happy, joyous, delighted					
+惠			5	1524	12画	心忄 + 8	huì		favor, benefit, confer kindness					
+册	冊		5	1525	5画	冂 + 3	cè		book, volume, register, list					
+储	儲		6	1526	12画	人亻 + 10	chǔ	chú	save money, store, reserve; heir					
+飘	飄		5	1527	15画	风 + 11	piāo		whirlwind, cyclone; floating					
+桑			6	1528	10画	木 + 6	sāng		mulberry tree; surname					
+闲	閒 閑		5	1529	7画	门 + 4	xián		fence, guard; defend; idle time					
+惨	慘		6	1530	11画	心忄 + 8	cǎn		sad, pitiful, wretched; cruel					
+洁	潔		6	1531	9画	水氵氺 + 6	jí	jié	clean, purify, pure					
+踪	蹤		6	1532	15画	足 + 8	zōng		footprints, traces, tracks					
+勃			6	1533	9画	力 + 7	bó		suddenly, sudden, quick					
+宾	賓		3	1534	10画	宀 + 7	bīn	bìn	guest, visitor; surname; submit					
+频	頻		5	1535	13画	页 + 7	pín	bīn	frequently, again and again					
+仇			6	1536	4画	人亻 + 2	chóu	qiú	enemy, hate, hatred, enmity					
+磨			6	1537	16画	石 + 11	mó	mò	grind; polish; rub; wear out; a millstone					
+递	遞		5	1538	11画	辵辶 + 7	dì	dài	hand over, deliver; substitute					
+邪			"#N/A"	1539	7画	邑阝 + 4	xié	xú, yá, yé, yú,shé	wrong, evil, depraved, vicious, perverse, heterodox					
+撞			4	1540	15画	手扌 + 12	zhuàng	chuáng	knock against, bump into, collide					
+拟	擬		6	1541	8画	手扌 + 5	nǐ		draft; intend, plan, propose					
+滚	滾		5	1542	14画	水氵氺 + 11	gǔn		turn					
+奏			6	1543	9画	大 + 6	zòu		memorialize emperor; report					
+巡			6	1544	7画	辵辶 + 3	xún		patrol, go on circuit, cruise					
+颜	顏		2	1545	15画	页 + 9	yán		face, facial appearance					
+剂	劑		6	1546	8画	刀刂 + 6	jì		medicinal preparation					
+绩	績		3	1547	11画	纟 + 8	jī		spin; achievements					
+贡	貢		5	1548	7画	贝 + 3	gòng		offer tribute; tribute, gifts					
+疯	瘋		5	1549	9画	疒 + 4	fēng		crazy, insane, mentally ill					
+坡			6	1550	8画	土 + 5	pō		slope, bank, hillside					
+瞧			5	1551	17画	目 + 12	qiáo		glance at, look at, see					
+截			6	1552	14画	戈 + 10	jié		cut off, stop, obstruct, intersect					
+燃			5	1553	16画	火灬 + 12	rán		burn; light fire, ignite					
+焦			6	1554	12画	火灬 + 8	jiāo	qiáo	burned, scorched; anxious, vexed					
+殿			6	1555	13画	殳 + 9	diàn		hall; palace; temple					
+伪	偽		6	1556	6画	人亻 + 4	wěi	wèi	false, counterfeit, bogus					
+柳			"#N/A"	1557	9画	木 + 5	liǔ		willow tree; pleasure					
+锁	鎖		5	1558	12画	钅 + 7	suǒ		lock, padlock; shackles, chains					
+逼			6	1559	13画	辵辶 + 9	bī		compel, pressure, force; bother					
+颇	頗		6	1560	11画	页 + 5	pǒ	pō	lean one side; very, rather					
+昏			6	1561	8画	日 + 4	hūn	mǐn	dusk, nightfall, twilight, dark					
+劝	勸		5	1562	4画	力 + 2	quàn		recommend, advise, urge					
+呈			6	1563	7画	口 + 4	chéng		submit, show; appear; petition					
+搜	蒐 搜		6	1564	13画	手扌 + 10	sōu		search, seek; investigate					
+勤	懃 勤		5	1565	13画	力 + 11	qín		industrious, diligent, attentive					
+戒			5	1566	7画	戈 + 3	jiè		warn, caution, admonish					
+驾	駕		5	1567	8画	马 + 5	jià		to drive, sail, fly; a cart, carriage					
+漂			1	1568	14画	水氵氺 + 11	piāo	piǎo, piào, biāo	float, drift; tossed about					
+饮	飲		4	1569	7画	饣 + 4	yǐn	yìn	drink; swallow; kind of drink					
+曹			"#N/A"	1570	11画	曰 + 7	cáo		ministry officials; surname					
+朵			3	1571	6画	木 + 2	duǒ		cluster of flowers; earlobe					
+仔			4	1572	5画	人亻 + 3	zǐ	zǎi	small thing, child; young animal					
+柔			5	1573	9画	木 + 5	róu		soft; gentle, pliant					
+俩	倆		4	1574	9画	人亻 + 7	liǎ	liǎng	two, pair					
+孟			"#N/A"	1575	8画	子孑 + 5	mèng		first in series; great, eminent					
+腐			5	1576	14画	肉月 + 8	fǔ		rot, decay, spoil; rotten					
+幼			5	1577	5画	幺乡 + 2	yòu	yào	infant, young child; immature					
+践	踐		5	1578	12画	足 + 5	jiàn		trample, tread upon, walk on					
+籍			5	1579	20画	竹 + 14	jí	jiè	record, register, list; census					
+牧			6	1580	8画	牛牜 + 4	mù		tend cattle, shepherd					
+凉	涼		4	1581	10画	冫 + 8	liáng	liàng	cool, cold; disheartened					
+牲			6	1582	9画	牛牜 + 5	shēng		sacrificial animal; animal					
+佳			6	1583	8画	人亻 + 6	jiā	jia	good, auspicious; beautiful; delightful					
+娜			"#N/A"	1584	10画	女 + 7	nuó	nà	elegant, graceful, delicate					
+浓	濃		5	1585	9画	水氵氺 + 6	nóng		thick, strong, concentrated					
+芳			"#N/A"	1586	10画	艸艹 + 4	fāng		fragrant; virtuous; beautiful					
+稿			6	1587	15画	禾 + 10	gǎo		draft, manuscript, rough copy					
+竹			5	1588	6画	竹 + 0	zhú		bamboo; flute; KangXi radical 118					
+腹			6	1589	13画	肉月 + 9	fù		stomach, belly, abdomen; inside					
+跌			6	1590	12画	足 + 5	diē	dié, tú	stumble, slip, fall down; stamp					
+逻	邏		5	1591	12画	辵辶 + 8	luó	luò	patrol; inspect; watch; patrol					
+垂			6	1592	8画	土 + 5 士 + 5	chuí		let down; suspend, hand; down					
+遵			5	1593	16画	辵辶 + 12	zūn		obey, comply with, follow; honor					
+脉	脈		6	1594	9画	肉月 + 5	mài	mò	blood vessels, veins, arteries					
+貌			4	1595	14画	豸 + 7	mào		countenance, appearance					
+柏			"#N/A"	1596	9画	木 + 5	bǎi	bó, bò	cypress, cedar					
+狱	獄		6	1597	9画	犬犭 + 6	yù		prison, jail; case; lawsuit					
+猜			4	1598	11画	犬犭 + 8	cāi		guess, conjecture, suppose; feel					
+怜	憐		4	1599	8画	心忄 + 5	lián		pity, sympathize					
+惑			6	1600	12画	心忄 + 8	huò		confuse, mislead, baffle; doubt					
+陶			6	1601	11画	阜阝 + 8	táo	dào, yáo	pottery, ceramics					
+兽	獸		6	1602	11画	八 + 9	shòu		beast, animal; bestial					
+帐	帳		6	1603	7画	巾 + 4	zhàng		tent; screen, mosquito net					
+饰	飾		5	1604	8画	饣 + 5	shì		decorate, ornament, adorn					
+贷	貸		5	1605	9画	贝 + 5	dài	tè	lend; borrow; pardon					
+昌			6	1606	8画	日 + 4	chāng		light of sun; good, proper					
+叙	敘 敍		5	1607	9画	又 + 7	xù		express, state, relate, narrate					
+躺			4	1608	15画	身 + 8	tǎng		lie down, recline					
+钢	鋼		4	1609	9画	钅 + 4	gāng	gàng	steel; hard, strong, tough					
+沟	溝		5	1610	7画	水氵氺 + 4	gōu		ditch, drain, narrow waterway					
+寄			4	1611	11画	宀 + 8	jì		send, transmit, mail; rely on					
+扶			5	1612	7画	手扌 + 4	fú	pú	support, help; protect; hold on					
+铺	舖 鋪		6	1613	12画	钅 + 7	pū	pù	shop, store; place sleep, bed					
+邓			"#N/A"	1614	5画	邑阝 + 2	dèng		surname					
+寿	壽		5	1615	7画	寸 + 4	shòu		old age, long life; lifespan					
+惧	懼		6	1616	11画	心忄 + 8	jù		fear, be afraid of, dread					
+询	詢		5	1617	8画	讠 + 6	xún		inquire into, ask about; consult					
+汤	湯		4	1618	6画	水氵氺 + 3	tāng	tàng, shāng,yáng	hot water; soup, gravy, broth					
+盗	盜		6	1619	11画	皿 + 6	dào		rob, steal; thief, bandit					
+肥			4	1620	8画	肉月 + 4	féi	bǐ	fat, plump, obese; fertile					
+尝	嘗 嚐		4	1621	9画	小 + 6	cháng		taste; experience, experiment					
+匆			5	1622	5画	勹 + 3	cōng		hastily, in haste, hurriedly					
+辉	煇 輝		6	1623	15画	车 + 8	huī		brightness, luster, brilliance					
+奈			5	1624	8画	大 + 5	nài		but, how; bear, stand, endure					
+扣	扣 釦		6	1625	6画	手扌 + 3	kòu		knock, strike, rap, tap; button					
+廷			"#N/A"	1626	7画	廴 + 4	tíng		court					
+澳			"#N/A"	1627	16画	水氵氺 + 13	ào	yù	inlet, bay; dock, bank					
+嘛			6	1628	14画	口 + 11	ma		final exclamatory particle					
+董			6	1629	13画	艸艹 + 9	dǒng	zhǒng	direct, supervise; surname					
+迁	遷		6	1630	7画	辵辶 + 3	qiān	gān	move, shift, change; transfer; relocate a capital city					
+凝			6	1631	16画	冫 + 14	níng		coagulate; congeal; freeze					
+慰			5	1632	15画	心忄 + 11	wèi		comfort, console, calm					
+厌	厭		4	1633	6画	厂 + 4	yàn	yā, yān	dislike, detest, reject; satiate					
+脏	臟 髒		4	1634	10画	肉月 + 6	zāng	zàng, zǎng	internal organs, viscera; dirty					
+腾	騰		6	1635	13画	肉月 + 9	téng		fly; gallop; run; prance; rise					
+幽			4	1636	9画	幺乡 + 6	yōu		quiet, secluded, tranquil; dark					
+怨			6	1637	9画	心忄 + 5	yuàn		hatred, enmity, resentment					
+鞋			3	1638	15画	革 + 6	xié	wā	shoes, footwear in general					
+丢	丟		4	1639	6画	一 + 5	diū		discard					
+埋			6	1640	10画	土 + 7	mái	mán	bury, secrete, conceal					
+泉			5	1641	9画	水氵氺 + 5	quán		spring, fountain; wealth, money					
+涌	湧 涌		6	1642	10画	水氵氺 + 7	yǒng	chōng	surge up, bubble up, gush forth					
+辖	轄		6	1643	14画	车 + 10	xiá		linchpin of wheel; control					
+躲			5	1644	13画	身 + 6	duǒ		hide, secrete; avoid, escape					
+晋	晉		6	1645	10画	日 + 6	jìn		advance, increase; promote					
+紫			5	1646	12画	糸糹 + 5	zǐ		purple, violet; amethyst; surname					
+艰	艱		5	1647	8画	艮 + 2	jiān		difficult, hard; distressing					
+魏			"#N/A"	1648	18画	鬼 + 8	wèi	wéi, wēi	kingdom of Wei; surname					
+吾			"#N/A"	1649	7画	口 + 4	wú		i, my, our; resist, impede					
+慌			5	1650	13画	心忄 + 10	huāng	huǎng	nervous, panicky, frantic					
+祝			3	1651	10画	示礻 + 5	zhù	zhòu, chù	pray for happiness or blessings					
+邮	郵		3	1652	8画	邑阝 + 5	yóu		postal, mail; post office					
+吐			5	1653	6画	口 + 3	tǔ	tù	vomit, spew out, cough up					
+狠			6	1654	9画	犬犭 + 6	hěn	yín, yán, kěn,hǎng	vicious, cruel; severely, extreme					
+鉴	鑒 鑑		6	1655	13画	金釒 + 5	jiàn		mirror, looking glass; reflect					
+曰			"#N/A"	1656	4画	曰 + 0	yuē		say; KangXi radical 73					
+械			6	1657	11画	木 + 7	xiè	jiè	weapons; implements, instruments					
+咬			5	1658	9画	口 + 6	yǎo	jiāo	bite, gnaw					
+邻	鄰		3	1659	8画	邑阝 + 5	lín		neighbor; neighborhood					
+赤			6	1660	7画	赤 + 0	chì		red; communist, 'red'; bare					
+挤	擠		5	1661	9画	手扌 + 6	jǐ		crowd, squeeze, push against					
+弯	彎		5	1662	9画	弓 + 6	wān		bend, curve					
+椅			1	1663	12画	木 + 8	yǐ	yī	chair, seat					
+陪			4	1664	11画	阜阝 + 8	péi		accompany, be with, keep company					
+割			6	1665	12画	刀刂 + 10	gē		cut, divide, partition; cede					
+揭			6	1666	12画	手扌 + 9	jiē		raise, lift up; surname					
+韦			"#N/A"	1667	4画	韦 + 0	wéi		tanned leather; surname; simplified form of KangXi radical number 178					
+悟			6	1668	10画	心忄 + 7	wù		to apprehend, realize, become aware					
+聪	聰		3	1669	15画	耳 + 9	cōng		intelligent, clever, bright					
+雾	霧		5	1670	13画	雨 + 5	wù		fog, mist, vapor, fine spray					
+锋	鋒		6	1671	12画	钅 + 7	fēng		point of spear, sharp point					
+梯			3	1672	11画	木 + 7	tī	tí	ladder, steps, stairs; lean					
+猫	貓		1	1673	12画	犬犭 + 8	māo	máo, miáo	cat					
+祥			6	1674	11画	示礻 + 6	xiáng		good luck, good omen; happiness					
+阔	闊		6	1675	12画	门 + 9	kuò		broad, ample, wide; be apart					
+誉	譽		5	1676	13画	言訁 + 6	yù		fame, reputation; praise					
+筹	籌		6	1677	13画	竹 + 7	chóu		chip, tally, token; raise money					
+丛	叢		6	1678	5画	一 + 4	cóng		bush, shrub; thicket; collection					
+牵	牽		5	1679	9画	牛牜 + 5	qiān	qiàn	drag, pull, lead by hand					
+鸣	鳴		6	1680	8画	鸟 + 3	míng		cry of bird or animal; make sound					
+沈			"#N/A"	1681	7画	水氵氺 + 4	chén	shěn, tán	sink, submerge; addicted to; surname					
+阁			"#N/A"	1682	9画	门 + 6	gé		chamber, pavilion; cabinet					
+穆			"#N/A"	1683	16画	禾 + 11	mù		majestic, solemn, reverent; calm					
+屈			5	1684	8画	尸 + 5	qū		bend, flex; bent, crooked; crouch					
+旨			6	1685	6画	日 + 2	zhǐ		purpose, aim; excellent					
+袖			6	1686	11画	衣衤 + 5	xiù		sleeve; put something in sleeve					
+猎	獵		6	1687	11画	犬犭 + 8	xí	liè, què	hunt; field sports					
+臂			6	1688	17画	肉月 + 13	bì	bei, bèi	arm					
+蛇			5	1689	11画	虫 + 5	shé	yí, tuó, chí	snake					
+贺	賀		4	1690	9画	贝 + 5	hè		congratulate; send present					
+柱			6	1691	9画	木 + 5	zhù	zhǔ	pillar, post; support; lean on					
+抛	拋		6	1692	7画	手扌 + 4	pāo		throw (away)					
+鼠			5	1693	13画	鼠 + 0	shǔ		rat, mouse; KangXi radical 208					
+瑟			"#N/A"	1694	13画	玉玊王 + 9	sè		large stringed musical instrument; dignified, massive; sound of wind					
+戈			"#N/A"	1695	4画	戈 + 0	gē		halberd, spear, lance; rad. 62					
+牢			6	1696	7画	宀 + 4 牛牜 + 3	láo	lào, lóu	prison; stable, pen; secure					
+逊	遜		6	1697	10画	辵辶 + 6	xùn		humble, modest; yield					
+迈	邁		6	1698	7画	辵辶 + 3	mài		take a big stride; pass by					
+欺			6	1699	12画	欠 + 8	qī		cheat, double-cross, deceive					
+吨	噸		5	1700	7画	口 + 4	dūn		metric ton; (Cant.) to babble, gibberish					
+琴			4	1701	12画	玉玊王 + 8	qín		Chinese lute or guitar					
+衰			6	1702	10画	衣衤 + 4	shuāi	cuī, suō	decline, falter, decrease; weaken					
+瓶			4	1703	11画	瓦 + 6	píng		jug, pitcher, vase, jar, bottle					
+恼	惱		4	1704	9画	心忄 + 6	nǎo		angered, filled with hate					
+燕			"#N/A"	1705	16画	火灬 + 12	yàn	yān	swallow (bird); comfort, enjoy					
+仲			"#N/A"	1706	6画	人亻 + 4	zhòng		middle brother; go between, mediator; surname					
+诱	誘		6	1707	9画	讠 + 7	yòu		persuade, entice, induce; guide					
+狼			5	1708	10画	犬犭 + 7	láng	làng, lǎng, hǎng	wolf					
+池			5	1709	6画	水氵氺 + 3	chí	tuó, chè	pool, pond; moat; cistern					
+疼			3	1710	10画	疒 + 5	téng		aches, pains; be fond of; love					
+卢			"#N/A"	1711	5画	卜 + 3	lú		cottage, hut; surname; black					
+仗			6	1712	5画	人亻 + 3	zhàng		rely upon; protector; fight; war, weaponry					
+冠			5	1713	9画	冖 + 7	guān	guàn	cap, crown, headgear					
+粒			5	1714	11画	米 + 5	lì		grain; small particle					
+遥	遙		6	1715	14画	辵辶 + 10	yáo		far away, distant, remote					
+吕			"#N/A"	1716	6画	口 + 3	lǚ		surname; a musical note					
+玄			"#N/A"	1717	5画	玄 + 0	xuán	xuàn	deep, profound, abstruse; KangXi radical 95					
+尘	塵		5	1718	6画	小 + 3	chén		dust, dirt, ashes, cinders					
+冯			"#N/A"	1719	5画	冫 + 3	féng	píng	surname; gallop; by dint of					
+抚	撫		6	1720	7画	手扌 + 4	fǔ	hū	pat, console, comfort; pacify					
+浅	淺		5	1721	9画	水氵氺 + 6	qiǎn		shallow, not deep; superficial					
+敦			"#N/A"	1722	12画	攴攵 + 8	dūn	duì, diāo, duī,tuán, tún	esteem; honest, candid, sincere					
+纠	糾		6	1723	5画	纟 + 2	jiū	jiǔ, jiǎo	investigate, inspect					
+钻	鑽		6	1724	10画	钅 + 5	zuàn	zuān	drill, bore; pierce; diamond					
+晶			6	1725	12画	日 + 8	jīng		crystal; clear, bright; radiant					
+岂	豈		6	1726	6画	山 + 3	qǐ	kǎi	how? what?					
+峡	峽		6	1727	9画	山 + 6	xiá		gorge, strait, ravine; isthmus					
+苍	蒼		6	1728	10画	艸艹 + 4	cāng	cǎng	blue; green					
+喷	噴		5	1729	12画	口 + 9	pēn	pèn	spurt, blow out, puff out					
+耗			6	1730	10画	耒 + 4	hào	máo, mào	consume, use up; waste, squander					
+凌			6	1731	10画	冫 + 8	líng		pure; virtuous; insult; maltreat					
+敲			4	1732	14画	攴攵 + 10	qiāo		strike, beat, pound, hammer; rap					
+菌			6	1733	14画	艸艹 + 8	jūn	jùn	mushroom; germ, microbe					
+赔	賠		5	1734	12画	贝 + 8	péi		indemnify, suffer loss					
+涂	涂 凃 塗		5	1735	10画	水氵氺 + 7	tú		surname; name of certain rivers					
+粹			6	1736	14画	米 + 8	cuì	suì	pure; unadulterated; select					
+扁			6	1737	9画	戶户 + 5	biǎn	piān, biàn	flat; tablet, signboard					
+亏	虧		5	1738	3画	二 + 1	yú	kuī	lose, fail; damage; deficient					
+寂			5	1739	11画	宀 + 8	jì		still, silent, quiet, desolate					
+煤			5	1740	13画	火灬 + 9	méi		coal, coke, charcoal, carbon					
+熊			3	1741	14画	火灬 + 10	xióng		a bear; brilliant; bright; surname					
+恭			6	1742	10画	心忄 + 6	gōng		respectful, polite, reverent					
+湿	溼 濕		4	1743	12画	水氵氺 + 9	shī	qì	wet, moist, humid, damp; illness					
+循			6	1744	12画	彳 + 9	xún		obey, comply with, follow					
+暖	煖 暖		4	1745	13画	日 + 9	nuǎn	xuān	warm, genial					
+糖	糖 醣		3	1746	16画	米 + 10	táng		sugar; candy; sweets					
+赋	賦		6	1747	12画	贝 + 8	fù		tax; give; endow; army; diffuse					
+抑			6	1748	7画	手扌 + 4	yì		press down, repress; curb, hinder					
+秩			5	1749	10画	禾 + 5	zhì		order; orderly; salary; decade					
+帽			3	1750	12画	巾 + 9	mào		hat, cap; cap-like tops					
+哀			6	1751	9画	口 + 6	āi		sad, mournful, pitiful; pity					
+宿			5	1752	11画	宀 + 8	sù	xiǔ, xiù	stop, rest, lodge, stay overnight; constellation					
+踏			6	1753	15画	足 + 8	tà	tā	step on, trample, tread on, walk					
+烂	爛		5	1754	9画	火灬 + 5	làn		rotten, spoiled, decayed					
+袁			"#N/A"	1755	10画	衣衤 + 4	yuán		robe; surname					
+侯			"#N/A"	1756	9画	人亻 + 7	hóu	hòu	marquis, lord; target in archery					
+抖			5	1757	7画	手扌 + 4	dǒu		tremble, shake, rouse; give shake					
+夹	夾		5	1758	6画	大 + 3	jiā	jiá	be wedged or inserted between					
+昆	崑 昆		6	1759	8画	日 + 4	kūn	hùn	elder brother; descendants					
+肝			"#N/A"	1760	7画	肉月 + 3	gān		liver					
+擦			4	1761	17画	手扌 + 14	cā		wipe, scrub, rub, scour; brush					
+猪	豬		4	1762	11画	犬犭 + 8	zhū		pig, hog, wild boar					
+炼	煉 鍊		3	1763	9画	火灬 + 5	liàn		smelt, refine; distill, condense					
+恒	恆 恒		6	1764	9画	心忄 + 6	héng		constant, regular, persistent					
+慎			5	1765	13画	心忄 + 10	shèn		act with care, be cautious					
+搬			3	1766	13画	手扌 + 10	bān		transfer, move, remove, shift					
+纽	紐		6	1767	7画	纟 + 4	niǔ		knot; button; handle, knob; tie					
+纹	紋		6	1768	7画	纟 + 4	wén		line, streak, stripe; wrinkle					
+玻			5	1769	9画	玉玊王 + 5	bō		glass					
+渔	漁		6	1770	11画	水氵氺 + 8	yú		to fish; seize; pursue; surname					
+磁			5	1771	14画	石 + 9	cí		magnetic; magnetism; porcelain					
+铜	銅		5	1772	11画	钅 + 6	tóng		copper, brass, bronze					
+齿	齒		6	1773	8画	齿 + 0	chǐ		teeth; gears, cogs; age; simplified form of the KangXi radical number 211					
+跨			6	1774	13画	足 + 6	kuà	kù, kuā, kuǎ	straddle, bestride, ride; carry					
+押			6	1775	8画	手扌 + 5	yā	xiá	mortgage, pledge; deposit; to pawn; to arrest, detain, guard					
+怖			5	1776	8画	心忄 + 5	bù		terror, fear; frighten; terrified					
+漠			5	1777	14画	水氵氺 + 11	mò		desert; aloof, indifferent, cool					
+疲			5	1778	10画	疒 + 5	pí		feel tired, be exhausted; weak					
+叛			6	1779	9画	又 + 7	pàn		rebel; rebellion; rebellious					
+遣			6	1780	14画	辵辶 + 10	qiǎn	qiàn	send, dispatch; send off, exile					
+兹			"#N/A"	1781	9画	八 + 7	zī	cí	now, here; this; time, year					
+祭			"#N/A"	1782	11画	示礻 + 6	jì	zhài	sacrifice to, worship					
+醉			5	1783	15画	酉 + 8	zuì		intoxicated, drunk; addicted to					
+拳			5	1784	10画	手扌 + 6	quán		fist; various forms of boxing					
+弥	瀰 彌		6	1785	8画	弓 + 5	mí		extensive, full; fill; complete					
+斜			5	1786	11画	斗 + 7	xié	xiá, yé	slanting, sloping, inclined					
+档	檔		5	1787	10画	木 + 6	dǎng	dàng	shelf; frame, crosspiece					
+稀			6	1788	12画	禾 + 7	xī		rare, unusual, scarce; sparse					
+捷			6	1789	11画	手扌 + 8	jié	qiè	win, victory, triumph					
+肤	膚		4	1790	8画	肉月 + 4	fū		skin; superficial, shallow					
+疫			6	1791	9画	疒 + 4	yì		epidemic, plague, pestilence					
+肿	腫		6	1792	8画	肉月 + 4	zhǒng		swell; swollen; swelling					
+豆	荳 豆		5	1793	7画	豆 + 0	dòu		beans, peas; bean-shaped					
+削			6	1794	9画	刀刂 + 7	xuē	xiāo	scrape off, pare, trim					
+岗	崗		6	1795	7画	山 + 4	gǎng	gāng	post; position					
+晃			6	1796	10画	日 + 6	huǎng	huàng	bright, dazzling; to sway, shake					
+吞			6	1797	7画	口 + 4	tūn		swallow; absorb, annex, engulf					
+宏			6	1798	7画	宀 + 4	hóng		wide, spacious, great, vast					
+癌			6	1799	17画	疒 + 12	ái	yán	cancer; marmoset					
+肚			4	1800	7画	肉月 + 3	dù	dǔ	belly; abdomen; bowels					
+隶	隸		6	1801	8画	隶 + 0	lì	dài, yì, dì	subservient; servant; KangXi radical 171					
+履			6	1802	15画	尸 + 12	lǚ		footwear, shoes; walk on, tread					
+涨	漲		5	1803	10画	水氵氺 + 7	zhǎng	zhàng	rise in price					
+耀			6	1804	20画	羽 + 14	yào		shine, sparkle, dazzle; glory					
+扭			6	1805	7画	手扌 + 4	niǔ		turn, twist, wrench; seize, grasp					
+坛	罈 壇		6	1806	7画	土 + 4	tán		altar; arena, examination hall					
+拨	撥		6	1807	8画	手扌 + 5	bō	fá	move; dispel; distribute					
+沃			6	1808	7画	水氵氺 + 4	wò		water, irrigate; fertile, rich					
+绘	繪		6	1809	9画	纟 + 6	huì		draw, sketch, paint					
+伐			6	1810	6画	人亻 + 4	fá		cut down, subjugate, attack					
+堪			6	1811	12画	土 + 9	kān		adequately capable of, worthy of					
+仆			"#N/A"	1812	4画	人亻 + 2	pū	fù, pú	fall forward; lie prostrate, prone; servant					
+郭			"#N/A"	1813	11画	邑阝 + 8	guō	guó	outer part (of a city); surname					
+牺	犧		6	1814	10画	牛牜 + 6	xī	suō	sacrifice, give up; sacrificial					
+歼			"#N/A"	1815	7画	歹 + 3	jiān		annihilate, wipe out, kill off					
+墓			6	1816	14画	土 + 11	mù		grave, tomb					
+雇	雇 僱		5	1817	12画	隹 + 4	gù		employ, to hire					
+廉			6	1818	13画	广 + 10	lián		upright, honorable, honest					
+契			"#N/A"	1819	9画	大 + 6	qì	qiè, xiè	deed, contract, bond; engrave					
+拼			6	1820	9画	手扌 + 6	pīn		join together, link, incorporate					
+惩	懲		6	1821	12画	心忄 + 8	chéng		punish, reprimand; warn					
+捉			6	1822	10画	手扌 + 7	zhuō		grasp, clutch; catch, seize					
+覆			6	1823	18画	襾西覀 + 12	fù		cover; tip over; return; reply					
+刷			3	1824	8画	刀刂 + 6	shuā	shuà	brush; clean with brush, scrub					
+劫			6	1825	7画	力 + 5	jié		take by force, coerce; disaster					
+嫌			6	1826	13画	女 + 10	xián		hate, detest; suspect; criticize					
+瓜			2	1827	5画	瓜 + 0	guā		melon, gourd, cucumber; rad. 97					
+歇			5	1828	13画	欠 + 9	xiē	yà	rest, stop, lodge					
+雕	鵰 彫 雕		6	1829	16画	隹 + 8	diāo		engrave, inlay, carve; exhaust; used for U+9D70 鵰 an eagle, vulture					
+闷	悶		6	1830	7画	门 + 4	mèn	mēn	gloomy, depressed, melancholy					
+乳			6	1831	8画	乙乚 + 7	rǔ		breast, nipples; milk, suckle					
+串			6	1832	7画	丨 + 6	chuàn	guàn	string; relatives; conspire					
+娃			6	1833	9画	女 + 6	wá		baby; doll; pretty girl					
+缴	繳		6	1834	16画	纟 + 13	jiǎo	zhuó	deliver, submit; hand over					
+唤			"#N/A"	1835	10画	口 + 7	huàn		call					
+赢	贏		4	1836	17画	贝 + 13	yíng		win; surplus, gain, profit					
+莲			"#N/A"	1837	13画	艸艹 + 7	lián		lotus, water lily; paradise					
+霸			6	1838	21画	雨 + 13	bà	pò	rule by might rather than right					
+桃			5	1839	10画	木 + 6	táo		peach; marriage; surname					
+妥			6	1840	7画	女 + 4	tuǒ		satisfactory, appropriate					
+瘦			3	1841	15画	疒 + 10	shòu		thin, emaciated, lean; meager					
+搭			6	1842	13画	手扌 + 10	dā	tà	join together, attach to; add to					
+赴			6	1843	9画	走 + 2	fù		go to; attend, be present					
+岳	嶽 岳		6	1844	8画	山 + 5	yuè		mountain peak; surname					
+嘉			5	1845	14画	口 + 11	jiā		excellent; joyful; auspicious					
+舱	艙		6	1846	10画	舟 + 4	cāng		hold of ship; cabin					
+俊			5	1847	9画	人亻 + 7	jùn		talented, capable; handsome					
+址			4	1848	7画	土 + 4	zhǐ		site, location, land for house					
+庞	龐		6	1849	8画	广 + 5	páng		disorderly, messy; huge, big					
+耕			6	1850	10画	耒 + 4	gēng		plow, cultivate					
+锐	銳 鋭		5	1851	12画	钅 + 7	ruì	duì, yuè	sharp, keen, acute, pointed					
+缝	縫		6	1852	13画	纟 + 10	féng	fèng	sew, mend					
+悔			4	1853	10画	心忄 + 7	huǐ		repent, show remorse, regret					
+邀			4	1854	17画	辵辶 + 13	yāo		invite, welcome; meet, intercept					
+玲			"#N/A"	1855	9画	玉玊王 + 5	líng		tinkling of jade					
+惟			"#N/A"	1856	11画	心忄 + 8	wéi		but, however, nevertheless; only					
+斥			6	1857	5画	斤 + 1	chì		to scold, upbraid, accuse, reproach					
+宅			6	1858	6画	宀 + 3	zhái		residence, dwelling, home; grave					
+添			6	1859	11画	水氵氺 + 8	tiān	tiàn	append, add to; increase					
+挖			6	1860	9画	手扌 + 6	wā		dig, dig out, gouge out, scoop					
+呵			6	1861	8画	口 + 5	hē		scold; laughing sound; yawn					
+讼	訟		6	1862	6画	讠 + 4	sòng	róng	accuse; argue, dispute; litigate					
+氧			6	1863	10画	气 + 6	yǎng		oxygen					
+浩			"#N/A"	1864	10画	水氵氺 + 7	hào	gé, gǎo	great, numerous, vast, abundant					
+羽			4	1865	6画	羽 + 0	yǔ	hù	feather, plume; wings; rad. 124					
+斤			2	1866	4画	斤 + 0	jīn		a catty (approximately 500 g); an axe; keen, shrewd; KangXi radical number 69					
+酷			6	1867	14画	酉 + 7	kù		strong, stimulating; very					
+掠			6	1868	11画	手扌 + 8	lüè	lüě	rob, ransack, plunder; pass by					
+妖			"#N/A"	1869	7画	女 + 4	yāo		strange, weird, supernatural					
+祸	禍		6	1870	12画	示礻 + 7	huò		misfortune, calamity, disaster					
+侍			"#N/A"	1871	8画	人亻 + 6	shì		serve, attend upon; attendant, servant; samurai					
+乙			5	1872	1画	乙乚 + 0	yǐ		second; 2nd heavenly stem					
+妨			5	1873	7画	女 + 4	fáng	fāng	interfere with, impede, obstruct					
+贪	貪		6	1874	8画	贝 + 4	tān		be greedy, covet; covetous					
+挣	掙		5	1875	9画	手扌 + 6	zhēng	zhèng	strive, endeavor, struggle					
+汪			"#N/A"	1876	7画	水氵氺 + 4	wāng	wǎng, hóng	vast, extensive, deep; surname					
+尿			"#N/A"	1877	7画	尸 + 4	niào	suī	urine; urinate					
+莉			"#N/A"	1878	13画	艸艹 + 7	lì	lí, chí	white jasmine					
+悬	懸		6	1879	11画	心忄 + 7	xuán		hang, suspend, hoist; be hung					
+唇	脣 唇		6	1880	10画	口 + 7	chún		lips					
+翰			"#N/A"	1881	16画	羽 + 10	hàn		writing brush, pen, pencil					
+仓	倉		6	1882	4画	人亻 + 2	cāng		granary; berth; sea					
+轨	軌		6	1883	6画	车 + 2	guǐ		track, rut, path					
+枚			6	1884	8画	木 + 4	méi		stalk of shrub, trunk of tree					
+盐	鹽		4	1885	10画	皿 + 5	yán	yàn	salt					
+览	覽		5	1886	9画	见 + 5	lǎn		look at, inspect; perceive					
+傅			4	1887	12画	人亻 + 10	fù	fū	tutor, teacher; assist; surname					
+帅	帥		4	1888	5画	巾 + 2	shuài	shuò	commander, commander-in-chief					
+庙	廟		5	1889	8画	广 + 5	miào		temple, shrine; imperial court					
+芬			"#N/A"	1890	10画	艸艹 + 4	fēn	fén	fragrance, aroma; perfume					
+屏			6	1891	9画	尸 + 6	píng	bǐng, bìng	folding screen, shield					
+寺			5	1892	6画	寸 + 3	sì		court, office; temple, monastery					
+胖			3	1893	9画	肉月 + 5	pàng	pán, pàn	fat, obese; fatty					
+璃	璃 琍		5	1894	15画	玉玊王 + 11	lí	li	glass					
+愚			6	1895	13画	心忄 + 9	yú		stupid, doltish, foolish					
+滴			5	1896	14画	水氵氺 + 11	dī		drip; drop of water					
+疏			6	1897	12画	疋 + 7	shū	shù	neglect; careless, lax					
+萧			"#N/A"	1898	14画	艸艹 + 8	xiāo		common artemisia; dejected					
+姿			5	1899	9画	女 + 6	zī		one's manner, carriage, bearing					
+颤	顫		6	1900	19画	页 + 13	zhàn	chàn, shān	shiver, tremble; trembling					
+丑	醜 丑		5	1901	4画	一 + 3	chǒu		clown, comedian; 2nd terrestrial branch					
+劣			5	1902	6画	力 + 4	liè		bad, inferior; slightly					
+柯			"#N/A"	1903	9画	木 + 5	kē		axe-handle; stalk, bough; surname					
+寸	吋 寸		6	1904	3画	寸 + 0	cùn		inch; small, tiny; KangXi radical 41					
+扔			4	1905	5画	手扌 + 2	rēng	rèng	throw, hurl; throw away, cast					
+盯			6	1906	7画	目 + 2	dīng	chéng	rivet gaze upon, keep eyes on					
+辱			6	1907	10画	辰 + 3	rǔ	rù	humiliate, insult, abuse					
+匹	匹 疋		5	1908	4画	匸 + 2	pǐ		bolt of cloth; counter for horses					
+俱			5	1909	10画	人亻 + 8	jù		all, together; accompany					
+辨			6	1910	16画	辛 + 9	biàn	bān, bàn, biǎn,piàn	distinguish, discriminate					
+饿	餓		3	1911	10画	饣 + 7	è		hungry; greedy for; hunger					
+蜂			5	1912	13画	虫 + 7	fēng		bee, wasp, hornet					
+哦			6	1913	10画	口 + 7	é	ó, ò	oh? really? is that so?					
+腔			6	1914	12画	肉月 + 8	qiāng	kòng	chest cavity; hollow in body					
+郁	郁 鬱		6	1915	9画	邑阝 + 6	yù		sweet smelling, rich in aroma; (Cant.) to move, hit					
+溃	潰		6	1916	12画	水氵氺 + 9	kuì		flooding river; militarily defeat					
+谨	謹		5	1917	13画	讠 + 11	jǐn		prudent, cautious; attentive					
+糟	蹧 糟		5	1918	17画	米 + 11	zāo		sediment, dregs; pickle					
+葛			"#N/A"	1919	15画	艸艹 + 9	gé	gě	edible bean; surname					
+苗			5	1920	11画	艸艹 + 5	miáo		sprouts; Miao nationality					
+肠			"#N/A"	1921	7画	肉月 + 3	cháng		intestines; emotions; sausage					
+忌			6	1922	7画	心忄 + 3	jì		jealous, envious; fear					
+溜			6	1923	13画	水氵氺 + 10	liū	liù, liú	slide, glide, slip; slippery					
+鸿			"#N/A"	1924	11画	鸟 + 6	hóng		species of wild swan; vast					
+爵			"#N/A"	1925	18画	爪爫 + 14	jué		feudal title or rank					
+鹏			"#N/A"	1926	13画	鸟 + 8	péng		fabulous bird of enormous size					
+鹰			"#N/A"	1927	18画	鸟 + 13	yīng		falcon; Accipiter species (various)					
+笼	籠		6	1928	11画	竹 + 5	lóng	lǒng	cage; cage-like basket					
+丘	坵 丘		6	1929	5画	一 + 4	qiū		hill; elder; empty; a name					
+桂			"#N/A"	1930	10画	木 + 6	guì		cassia or cinnamon					
+滋			6	1931	12画	水氵氺 + 9	zī	cí	grow, multiply, increase; thrive					
+聊			4	1932	11画	耳 + 5	liáo	liú	somewhat, slightly, at least					
+挡	攩 擋		5	1933	9画	手扌 + 6	dǎng	dàng, tǎng	obstruct, impede; stop; resist					
+纲	綱		5	1934	7画	纟 + 4	gāng		heavy rope, hawser; main points					
+肌			5	1935	6画	肉月 + 2	jī	jì	muscle tissue; meat on bones					
+茨			"#N/A"	1936	12画	艸艹 + 6	cí		thatching; caltrop, Tribulus terrestris					
+壳	殼		6	1937	7画	士 + 4	ké	qiào	casing, shell, husk					
+痕			6	1938	11画	疒 + 6	hén	gèn	scar; mark; trace					
+碗			3	1939	13画	石 + 8	wǎn		bowl, small dish					
+穴			6	1940	5画	穴 + 0	xué	jué, xuè	cave, den, hole; KangXi radical 116					
+膀			5	1941	14画	肉月 + 10	bǎng	bàng, pāng,páng, pǎng	upper arm; shoulder; wing					
+卓			6	1942	8画	十 + 6	zhuō		profound, brilliant, lofty					
+贤	賢		6	1943	8画	贝 + 4	xián		virtuous, worthy, good; able					
+卧	臥 卧		5	1944	8画	卜 + 6	wò		lie down; crouch					
+膜			6	1945	15画	肉月 + 11	mò	mó	membrane; to kneel and worship					
+毅			6	1946	15画	殳 + 11	yì		resolute, decisive, firm, persist					
+锦	錦		6	1947	13画	钅 + 8	jǐn		brocade, tapestry; embroidered					
+欠			5	1948	4画	欠 + 0	qiàn	quē	owe, lack, be deficient; KangXi radical number 76					
+哩			"#N/A"	1949	10画	口 + 7	lī	li, lǐ	mile					
+函			"#N/A"	1950	8画	凵 + 6	hán		correspondence; a case; a box					
+茫			6	1951	12画	艸艹 + 6	máng	huǎng	vast, boundless, widespread					
+昂			6	1952	8画	日 + 4	áng		rise, raise; proud, bold; upright					
+薛			"#N/A"	1953	19画	艸艹 + 13	xuē	xiē	kind of marsh grass; feudal state					
+皱	皺		6	1954	10画	皮 + 5	zhòu		wrinkles, creases, folds					
+夸	誇 夸		5	1955	6画	大 + 3	kuā		extravagant, luxurious; handsome					
+豫			5	1956	16画	豕 + 9	yù	xù	relaxed, comfortable, at ease					
+胃			5	1957	9画	肉月 + 5	wèi		stomach; gizzard of fowl					
+舌			5	1958	6画	舌 + 0	shé	guā	tongue; clapper of bell; KangXi radical 135					
+剥	剝		6	1959	10画	刀刂 + 8	bō	bāo, pū	peel					
+傲			4	1960	13画	人亻 + 11	ào		proud, haughty, overbearing					
+拾			4	1961	9画	手扌 + 6	shí	jiè, shè	pick up, collect, tidy up; accounting form of the numeral ten					
+窝	窩		6	1962	12画	穴 + 7	wō		nest; cave, den; hiding place					
+睁	睜		5	1963	11画	目 + 6	zhēng		open eyes; stare					
+携	攜		6	1964	13画	手扌 + 10	xī	xí, xié	lead by hand, take with; carry					
+陵			6	1965	11画	阜阝 + 8	líng		hill, mound; mausoleum					
+哼			6	1966	10画	口 + 7	hēng		hum; sing softly; groan, moan; (Cant.) an interjecting indicating disapproval					
+棉			5	1967	12画	木 + 8	mián		cotton; cotton padded					
+晴			2	1968	12画	日 + 8	qíng		clear weather, fine weather					
+铃	鈴		5	1969	10画	钅 + 5	líng		bell					
+填			4	1970	13画	土 + 10	tián		fill in, fill up; make good					
+饲	飼		6	1971	8画	饣 + 5	sì		raise animals; feed; nourish					
+渴			3	1972	12画	水氵氺 + 9	kě	hé, jié, kài	thirsty, parched; yearn, pine					
+吻			5	1973	7画	口 + 4	wěn		kiss; the lips; coinciding					
+扮			4	1974	7画	手扌 + 4	bàn		dress up; dress up as					
+逆			"#N/A"	1975	10画	辵辶 + 6	nì		disobey, rebel; rebel, traitor					
+脆			5	1976	10画	肉月 + 6	cuì		crisp; fragile, frail; brittle					
+喘			6	1977	12画	口 + 9	chuǎn		pant, gasp, breathe heavily					
+罩			6	1978	13画	网罒罓 + 8	zhào		basket for catching fish; cover					
+卜			"#N/A"	1979	2画	卜 + 0	bǔ		fortune telling; prophesy					
+炉	爐		6	1980	8画	火灬 + 4	lú		fireplace, stove, oven, furnace					
+柴			5	1981	9画	木 + 5	chái	zhài, zì	firewood, faggots, fuel					
+愉			4	1982	12画	心忄 + 9	yú	tōu	pleasant, delightful; please					
+绳	繩		5	1983	11画	纟 + 8	shéng	mǐn, yìng	rope, string, cord; control					
+胎			6	1984	9画	肉月 + 5	tāi		unborn child, embryo, fetus					
+蓄			6	1985	16画	艸艹 + 10	xù		store, save, hoard, gather					
+眠			5	1986	10画	目 + 5	mián	miǎn, mǐn	close eyes, sleep; hibernate					
+竭			6	1987	14画	立 + 9	jié		put forth great effort; exhaust					
+喂	餵 喂		1	1988	12画	口 + 9	wèi		interjection to call attention					
+傻			5	1989	13画	人亻 + 11	shǎ		foolish, silly, stupid; an imbecile					
+慕			4	1990	15画	心忄 + 11	mù		long for, desire; admire					
+浑	渾		6	1991	9画	水氵氺 + 6	hún	hùn, gǔn	muddy, turbid; blend, merge, mix					
+奸			"#N/A"	1992	6画	女 + 3	jiān		crafty, villainous, false					
+扇	搧 扇		5	1993	10画	戶户 + 6	shàn	shān	fan; door panel					
+柜	櫃		5	1994	9画	木 + 5	guì	jǔ	cabinet, cupboard; shop counter					
+悦	悦 悅		6	1995	10画	心忄 + 7	yuè		pleased, contented, gratified					
+拦	攔		5	1996	8画	手扌 + 5	lán		obstruct, impede, bar, hinder					
+诞	誕		6	1997	8画	讠 + 6	dàn		bear children, give birth; birth					
+饱	飽		3	1998	8画	饣 + 5	bǎo		eat heartily; eat one's fill					
+乾			"#N/A"	1999	11画	乙乚 + 10	gān	qián	dry; first hexagram; warming principle of the sun, penetrating and fertilizing, heavenly generative principle (male)					
+泡			6	2000	8画	水氵氺 + 5	pào	páo, pāo	bubbles, suds; blister; soak					
+贼	賊		6	2001	10画	贝 + 6	zéi	zé	thief, traitor; kill					
+亭			6	2002	9画	亠 + 7	tíng		pavilion; erect					
+夕			5	2003	3画	夕 + 0	xī	xì	evening, night, dusk; slanted					
+爹			"#N/A"	2004	10画	父 + 6	diē		father, daddy					
+酬			6	2005	13画	酉 + 6	chóu		toast; reward, recompense					
+儒			"#N/A"	2006	16画	人亻 + 14	rú		Confucian scholar					
+姻			5	2007	9画	女 + 6	yīn		relatives by marriage					
+卵			"#N/A"	2008	7画	卩 + 5	luǎn		egg; ovum; roe; spawn					
+氛			5	2009	8画	气 + 4	fēn		gas, vapor, air					
+泄	泄 洩		6	2010	8画	水氵氺 + 5	xiè	yì	leak; vent; flow; reveal					
+杆	桿 杆		6	2011	7画	木 + 3	gān	gǎn	pole; shaft of spear					
+挨	挨 捱		6	2012	10画	手扌 + 7	āi	ái	near, close by, next to, towards, against; to wait; to lean on					
+僧			"#N/A"	2013	14画	人亻 + 12	sēng		Buddhist priest, monk; san of Sanskrit sangha					
+蜜			5	2014	14画	虫 + 8	mì		honey; sweet; nectar					
+吟			6	2015	7画	口 + 4	yín		sing, hum; recite; type of poetry					
+猩			"#N/A"	2016	12画	犬犭 + 9	xīng		species of orangutan					
+遂			"#N/A"	2017	13画	辵辶 + 9	suì	suí	comply with, follow along; thereupon					
+狭	狹		6	2018	9画	犬犭 + 6	xiá		narrow, limited; narrow-minded					
+肖			6	2019	7画	肉月 + 3	xiào	xiāo	look like, resemble, be like					
+甜			3	2020	11画	甘 + 6	tián		sweet, sweetness					
+霞			6	2021	17画	雨 + 9	xiá		rosy clouds					
+驳	駁		6	2022	7画	马 + 4	bó		varicolored, variegated; mixed					
+裕			6	2023	13画	衣衤 + 7	yù		abundant, rich, plentiful					
+顽	頑		6	2024	10画	页 + 4	wán		obstinate, stubborn; recalcitrant					
+於			"#N/A"	2025	8画	方 + 4	yú	yū, wū	in, at, on; interjection alas!					
+摘			5	2026	14画	手扌 + 11	zhāi	zhé	pluck, pick; select; specify					
+矮			3	2027	13画	矢 + 8	ǎi		short, dwarf; low					
+秒			5	2028	9画	禾 + 4	miǎo		beard of grain or corn; a second					
+卿			"#N/A"	2029	11画	卩 + 9	qīng		noble, high officer					
+畜			6	2030	10画	田由甲申 + 5	chù	xù	livestock, domestic animals					
+咽	咽 嚥		6	2031	9画	口 + 6	yān	yàn, yè	throat; pharynx					
+披			5	2032	8画	手扌 + 5	pī		wear; split; crack					
+辅	輔		5	2033	11画	车 + 7	fǔ		cheek bone; protective; assist					
+勾			6	2034	4画	勹 + 2	gōu	gòu	hook, join, connect; entice					
+盆			5	2035	9画	皿 + 4	pén		basin, tub, pot, bowl					
+疆			6	2036	19画	田由甲申 + 14	jiāng	qiáng, jiàng	boundary, border, frontier					
+赌	賭		6	2037	12画	贝 + 8	dǔ		bet, gamble, wager; compete					
+塑			4	2038	13画	土 + 10	sù		model in clay, sculpt; plastics					
+畏			6	2039	9画	田由甲申 + 4	wèi	wēi, wěi	fear, dread, awe, reverence					
+吵			4	2040	7画	口 + 4	chǎo		argue, dispute; disturb, annoy					
+囊			"#N/A"	2041	22画	口 + 19 衣衤 + 17	náng		bag, purse, sack; put in bag					
+嗯			6	2042	13画	口 + 10			final particle					
+泊			6	2043	8画	水氵氺 + 5	bó	pó, pō, pò	anchor vessel; lie at anchor					
+肺			5	2044	8画	肉月 + 4	fèi	pèi	lungs					
+骤	驟		5	2045	17画	马 + 14	zòu	zhòu	procedure; gallop; sudden(ly)					
+缠	纏		6	2046	13画	纟 + 10	chán		wrap, wind around; tie, bind					
+冈			"#N/A"	2047	4画	冂 + 2	gāng		ridge or crest of hill					
+羞			4	2048	11画	羊 + 5	xiū		disgrace, shame; ashamed; shy					
+瞪			6	2049	17画	目 + 12	dèng		stare at					
+吊	吊 弔		6	2050	6画	口 + 3	diào		condole, mourn, pity; hang					
+贾			"#N/A"	2051	10画	贝 + 6	jiǎ	gǔ, jià	surname; merchant; buy, trade					
+漏			5	2052	14画	水氵氺 + 11	lòu	lóu	leak, drip; funnel; hour glass					
+斑			6	2053	12画	文 + 8	bān		mottled, striped, freckle					
+涛	濤		6	2054	10画	水氵氺 + 7	tāo	táo	large waves					
+悠			5	2055	11画	心忄 + 7	yōu		long, far, remote, distant; liesurely					
+鹿			"#N/A"	2056	11画	鹿 + 0	lù	lǘ	deer; surname; KangXi radical 198					
+俘			6	2057	9画	人亻 + 7	fú		prisoner of war; take as prisoner					
+锡			"#N/A"	2058	13画	钅 + 8	xí	tì	tin, stannum; bestow, confer					
+卑			6	2059	8画	十 + 6	bēi		humble, low, inferior; despise					
+葬			6	2060	15画	艸艹 + 9	zàng		bury, inter					
+铭	銘		6	2061	11画	钅 + 6	míng		inscribe, engrave					
+滩	灘		5	2062	13画	水氵氺 + 10	tān		bank, a sandbar, shoal; rapids					
+嫁			5	2063	13画	女 + 10	jià		to marry, give a daughter in marriage					
+催			5	2064	13画	人亻 + 11	cuī		press, urge					
+璇			"#N/A"	2065	15画	玉玊王 + 11	xuán		beautiful jade; star					
+翅			5	2066	10画	羽 + 4	chì		wings; fin					
+盒			4	2067	11画	皿 + 6	hé	ān	small box or case; casket					
+蛮	蠻		6	2068	12画	虫 + 6	mán		barbarians; barbarous, savage					
+矣			"#N/A"	2069	7画	矢 + 2	yǐ	xián	particle of completed action					
+潘			"#N/A"	2070	15画	水氵氺 + 12	pān	pán, fān, pàn,bō	surname; water in which rice has been rinsed; a river that flows into the Han					
+歧			6	2071	8画	止 + 4	qí		fork of road; branching off					
+赐			"#N/A"	2072	12画	贝 + 8	sì	cì	give, bestow favors; appoint					
+鲍			"#N/A"	2073	13画	鱼 + 5	bào		abalone; dried fish; surname					
+锅	鍋		5	2074	12画	钅 + 7	guō		cooking-pot, saucepan					
+廊			6	2075	12画	广 + 9	láng		corridor, porch, veranda					
+拆			5	2076	8画	手扌 + 5	chāi	cā, chè	to break up, split apart, rip open; to destroy					
+灌			6	2077	21画	水氵氺 + 18	guàn	huàn	pour; water; irrigate, flood					
+勉			6	2078	9画	力 + 7	miǎn		endeavor, make effort; urge					
+盲			6	2079	8画	目 + 3	máng	wàng	blind; unperceptive, shortsighted					
+宰			6	2080	10画	宀 + 7	zǎi		to slaughter; to rule					
+佐			"#N/A"	2081	7画	人亻 + 5	zuǒ		assist, aid, second; subordinate					
+啥			6	2082	11画	口 + 8	shà		what?					
+胀	脹		6	2083	8画	肉月 + 4	zhàng		swell, inflate, expand					
+扯			6	2084	7画	手扌 + 4	chě		rip up, tear down; raise; haul					
+禧			"#N/A"	2085	17画	示礻 + 12	xǐ	xī	happiness; congratulations					
+辽	遼		6	2086	6画	辵辶 + 2	liáo		distant, far					
+抹			6	2087	8画	手扌 + 5	mǒ	mā, mò	smear, apply, wipe off, erase					
+筒			6	2088	12画	竹 + 6	tǒng	tóng, dòng	thick piece of bamboo; pipe					
+棋			5	2089	12画	木 + 8	qí	jī	chess; any game similar to chess					
+裤	褲		3	2090	13画	衣衤 + 7	kù		trousers, pants					
+唉			5	2091	10画	口 + 7	āi	ài	alas, exclamation of surprise or pain					
+朴	樸		5	2092	6画	木 + 2	pò	pú, pō, piáo, pǔ	simple, unadorned; sincere; surname; a tree					
+咐			5	2093	8画	口 + 5	fù		instruct, order					
+孕			6	2094	5画	子孑 + 2	yùn		be pregnant, pregnancy					
+誓			6	2095	14画	言訁 + 7	shì		swear, pledge; oath					
+喉			6	2096	12画	口 + 9	hóu		throat, gullet, larynx; guttural					
+妄			6	2097	6画	女 + 3	wàng		absurd, foolish, reckless; false					
+拘			6	2098	8画	手扌 + 5	jū	gōu	restrain, seize, detain					
+链	鏈		5	2099	12画	钅 + 7	liàn		chain, wire, cable; chain, shack					
+驰	馳		6	2100	6画	马 + 3	chí		go quickly or swiftly; hurry					
+栏	欄		6	2101	9画	木 + 5	lán	liàn	railing, balustrade; animal pan					
+逝			6	2102	11画	辵辶 + 7	shì		pass away; die					
+窃	竊		6	2103	9画	穴 + 4	qiè		secretly, stealthily; steal; thief					
+艳	艷 豔		5	2104	10画	色 + 4	yàn		beautiful, sexy, voluptuous					
+臭			5	2105	10画	自 + 4	chòu	xiù	smell, stink, emit foul odor					
+纤	纖		6	2106	6画	纟 + 3	xiān	jiān, qiàn	fine, delicate; minute; graceful					
+玑			"#N/A"	2107	6画	玉玊王 + 2	jī		pearl that is not quite round					
+棵			4	2108	12画	木 + 8	kē	kuǎn, kě	numerary adjunct for trees					
+趁			5	2109	12画	走 + 5	chèn	zhēn, chén	take advantage of, avail oneself					
+匠			"#N/A"	2110	6画	匚 + 4	jiàng		craftsman, artisan; workman					
+盈			6	2111	9画	皿 + 4	yíng		fill; full, overflowing; surplus					
+翁			"#N/A"	2112	10画	羽 + 4	wēng	wěng	old man; father, father-in-law					
+愁			5	2113	13画	心忄 + 9	chóu		anxiety; to worry about, be anxious					
+瞬			"#N/A"	2114	17画	目 + 12	shùn		wink, blink; in a wink, a flash					
+婴	嬰		6	2115	11画	女 + 8	yīng		baby, infant; bother					
+孝			5	2116	7画	子孑 + 4	xiào		filial piety, obedience; mourning					
+颈	頸		6	2117	11画	页 + 5	jǐng	gěng	neck, throat					
+倘			6	2118	10画	人亻 + 8	tǎng	cháng	if, supposing, in event of					
+浙			"#N/A"	2119	10画	水氵氺 + 7	zhè		Zhejiang province; river					
+谅	諒		4	2120	10画	讠 + 8	liàng	liáng	excuse, forgive; guess, presume					
+蔽			6	2121	18画	艸艹 + 12	bì	fù	cover, hide, conceal; shelter					
+畅	暢		6	2122	8画	田由甲申 + 3	chàng		smoothly, freely, unrestrained					
+赠	贈		6	2123	16画	贝 + 12	zèng		give present; bestow, confer					
+妮			"#N/A"	2124	8画	女 + 5	nī	ní	maid, servant girl; cute girl					
+莎			"#N/A"	2125	13画	艸艹 + 7	shā	suō, suī	kind of sedge grass, used anciently for raincoats					
+尉			"#N/A"	2126	11画	寸 + 8	wèi	yù	officer, military rank					
+冻	凍		5	2127	7画	冫 + 5	dòng		freeze; cold, congeal; jelly					
+跪			6	2128	13画	足 + 6	guì		kneel					
+闯	闖		5	2129	6画	门 + 3	chuǎng	chèn	rush in, burst in, charge in					
+葡			3	2130	15画	艸艹 + 9	pú	bèi	grapes					
+後			"#N/A"	2131	9画	彳 + 6	hòu		behind, rear, after; descendents					
+厨	廚		3	2132	12画	厂 + 10	chú		kitchen; closet; cupboard					
+鸭	鴨		5	2133	10画	鸟 + 5	yā		duck; Anas species (various)					
+颠	顛		6	2134	16画	页 + 10	diān	tián	top, peak, summit; upset					
+遮			6	2135	15画	辵辶 + 11	zhē		cover, shield, protect					
+谊	誼		4	2136	10画	讠 + 8	yí	yì	friendship; appropriate, suitable					
+圳			"#N/A"	2137	6画	土 + 3	zhèn		furrow in field, small drainage ditch					
+吁	籲		6	2138	6画	口 + 3	xū	yù	interjection 'Alas!'; to sigh					
+仑			"#N/A"	2139	4画	人亻 + 2	lún		logical reasons, logical order					
+辟	辟 闢		6	2140	13画	辛 + 6	pì	pī, bì, mǐ	law, rule; open up, develop					
+瘤			6	2141	15画	疒 + 10	liú		tumor, lump, goiter					
+嫂			6	2142	13画	女 + 10	sǎo		sister-in-law, elder brother's wife					
+陀			"#N/A"	2143	8画	阜阝 + 5	tuó	duò	steep bank, rough terrain					
+框			6	2144	10画	木 + 6	kuàng	kuāng	frame; framework; door frame					
+谭			"#N/A"	2145	14画	讠 + 12	tán		surname					
+亨			"#N/A"	2146	7画	亠 + 5	hēng	xiǎng, pēng	smoothly, progressing, no trouble					
+钦	欽		6	2147	9画	钅 + 4	qīn		respect, admire; respectful					
+庸			6	2148	11画	广 + 8	yōng	yóng	usual, common, ordinary, mediocre					
+歉			4	2149	14画	欠 + 10	qiàn		deficient, lacking, insufficient					
+芝			"#N/A"	2150	10画	艸艹 + 4	zhī		sesame; a purplish or brown mushroom thought to have miraculous powers; 'a divine and relicitous plant' (Karlgren)					
+吼			6	2151	7画	口 + 4	hǒu		roar, shout; bark, howl					
+甫			"#N/A"	2152	7画	用 + 2	fǔ	pù, pǔ	begin; man, father; great; a distance of ten li					
+衫			3	2153	9画	衣衤 + 3	shān		shirt; robe; gown; jacket					
+摊	攤		6	2154	13画	手扌 + 10	tān		spread out, open; apportion					
+宴			5	2155	10画	宀 + 7	yàn		to entertain, feast; a feast, banquet					
+嘱	囑		5	2156	15画	口 + 12	zhǔ		order, tell, instruct, leave word					
+衷			6	2157	10画	衣衤 + 4	zhōng	zhòng	heart, from bottom of one's heart					
+娇	嬌		6	2158	9画	女 + 6	jiāo		seductive and loveable; tender					
+陕			"#N/A"	2159	9画	阜阝 + 6	shǎn		mountain pass; Shanxi province					
+矩			5	2160	10画	矢 + 5	jǔ		carpenter's square, ruler, rule					
+浦			"#N/A"	2161	10画	水氵氺 + 7	pǔ		bank of river, shore; surname					
+讶	訝		6	2162	6画	讠 + 4	yà		express surprise, be surprised					
+耸	聳		6	2163	10画	耳 + 4	sǒng		urge on; rise up; stir, excite					
+裸			"#N/A"	2164	14画	衣衤 + 8	luǒ		bare, nude; undress, strip					
+碧			6	2165	14画	石 + 9	bì		jade; green, blue					
+摧			6	2166	14画	手扌 + 11	cuī	cuò	destroy, break, injure					
+薪			6	2167	19画	艸艹 + 13	xīn		fuel, firewood; salary					
+淋			6	2168	11画	水氵氺 + 8	lín	lìn	drip, soak, drench; perfectly					
+耻	恥		6	2169	10画	耳 + 4	chǐ		shame, humiliation; ashamed					
+胶	膠		5	2170	10画	肉月 + 6	xiáo	jiāo, jiǎo	glue, gum, resin, rubber; sound; shin bone					
+屠			"#N/A"	2171	12画	尸 + 9	tú		butcher, slaughter, massacre					
+鹅			"#N/A"	2172	12画	鸟 + 7	é		goose					
+饥	饑 飢		6	2173	5画	饣 + 2	jī		hunger, starving; hungry; a famine					
+盼			5	2174	9画	目 + 4	pàn	fén	look, gaze; expect, hope for					
+脖			5	2175	11画	肉月 + 7	bó		neck					
+虹			5	2176	9画	虫 + 3	hóng	jiàng, hòng,gòng	rainbow					
+翠			"#N/A"	2177	14画	羽 + 8	cuì		color green; kingfisher					
+崩			6	2178	11画	山 + 8	bēng		rupture, split apart, collapse					
+账	賬		5	2179	8画	贝 + 4	zhàng		accounts; bill, debt; credit					
+萍			"#N/A"	2180	14画	艸艹 + 8	píng		duckweed; wandering, traveling					
+逢			6	2181	11画	辵辶 + 7	féng	páng, péng	come upon, happen meet; flatter					
+赚	賺		4	2182	14画	贝 + 10	zhuàn		make money, earn; gain, profit					
+撑	撐		6	2183	15画	手扌 + 12	chēng		prop up, support; brace					
+翔			6	2184	12画	羽 + 6	xiáng		soar, glide, hover; detailed					
+倡			5	2185	10画	人亻 + 8	chàng	chāng	guide, leader; lead, introduce					
+绵			"#N/A"	2186	11画	纟 + 8	mián		cotton wad; wool; soft, downy					
+猴			4	2187	12画	犬犭 + 9	hóu		monkey, ape; monkey-like					
+枯			6	2188	9画	木 + 5	kū		dried out, withered, decayed					
+巫			"#N/A"	2189	7画	工 + 4	wū	wú	wizard, sorcerer, witch, shaman					
+昭			"#N/A"	2190	9画	日 + 5	zhāo		bright, luminous; illustrious					
+怔			"#N/A"	2191	8画	心忄 + 5	zhēng		a disease resembling neurosis					
+渊			"#N/A"	2192	11画	水氵氺 + 8	yuān		surge up, bubble up, gush forth					
+凑	湊		6	2193	11画	冫 + 9	còu		piece together, assemble					
+溪	谿 溪		6	2194	13画	水氵氺 + 10	xī	qī	mountain stream, creek					
+蠢			6	2195	21画	虫 + 15	chǔn		wriggle; stupid; silly; fat					
+禅			"#N/A"	2196	13画	示礻 + 8	shàn	chán	meditation, contemplation (DKW: 24787')					
+阐	闡		6	2197	11画	门 + 8	chǎn		explain, clarify, elucidate					
+旺			6	2198	8画	日 + 4	wàng		prosper; prosperous; increase					
+寓			5	2199	12画	宀 + 9	yù		residence; lodge; dwell					
+藤			"#N/A"	2200	21画	艸艹 + 15	téng		rattan, cane; creeper plant					
+匪			6	2201	10画	匚 + 8	fěi	fēi	bandits, robbers, gangsters					
+伞	繖 傘		3	2202	6画	人亻 + 4	sǎn		umbrella, parasol, parachute					
+碑			6	2203	13画	石 + 8	bēi		stone tablet; gravestone					
+挪			6	2204	10画	手扌 + 7	nuó	ruó	move, shift on one side					
+琼			"#N/A"	2205	12画	玉玊王 + 8	qióng		jade; rare, precious; elegant; (Cant.) to coagulate					
+脂			6	2206	10画	肉月 + 6	zhī	zhǐ	fat, grease, lard; grease					
+谎	謊		6	2207	11画	讠 + 9	huǎng		lie					
+慨			6	2208	12画	心忄 + 9	kǎi		sigh, regret; generous					
+菩			"#N/A"	2209	14画	艸艹 + 8	pú	bèi, bù, bó	herb, aromatic plant					
+萄			3	2210	14画	艸艹 + 8	táo		grapes					
+狮	獅		4	2211	9画	犬犭 + 6	shī		lion					
+掘			6	2212	11画	手扌 + 8	jué		dig, excavate; excavate cave					
+抄			5	2213	7画	手扌 + 4	chāo		copy, confiscate, seize					
+岭			"#N/A"	2214	8画	山 + 5	líng	lǐng	mountain ridge, mountain peak					
+晕	暈		5	2215	10画	日 + 6	yūn	yùn	halo in sky; fog; dizzy, faint					
+逮			6	2216	12画	辵辶 + 8	dài	dǎi, dì	seize, catch; reach, arrive					
+砍			5	2217	9画	石 + 4	kǎn		hack, chop, cut, fell					
+掏			6	2218	11画	手扌 + 8	tāo		take out; pull out; clean out					
+狄			"#N/A"	2219	7画	犬犭 + 4	dí	tì	tribe from northern china; surnam					
+晰			6	2220	12画	日 + 8	xī		clear, evident; clearly					
+罕			6	2221	8画	网罒罓 + 3	hǎn	hàn	rare, scarce; surname					
+挽	輓 挽		6	2222	10画	手扌 + 7	wǎn		pull; pull back, draw back					
+脾			4	2223	12画	肉月 + 8	pí	pái, bì, pì	spleen, pancreas; disposition					
+舟			6	2224	6画	舟 + 0	zhōu		boat, ship; KangXi radical 137					
+痴			"#N/A"	2225	13画	疒 + 8	chī		foolish, stupid, dumb, silly					
+蔡			"#N/A"	2226	17画	艸艹 + 11	cài	sà, cā	surname; species of tortoise					
+剪			5	2227	11画	刀刂 + 9	jiǎn		scissors; cut, divide, separate					
+脊			"#N/A"	2228	10画	肉月 + 6	jí	jǐ	spine, backbone; ridge					
+弓			"#N/A"	2229	3画	弓 + 0	gōng		bow; curved, arched; KangXi radical number 57					
+懒	懶		4	2230	16画	心忄 + 13	lǎn		lazy, languid, listless					
+叉			5	2231	3画	又 + 1	chā	chá, chǎ, chà,chāi, cha	crotch; fork, prong					
+拐	柺 拐 枴		5	2232	8画	手扌 + 5	guǎi		kidnap, abduct; turn					
+喃			"#N/A"	2233	12画	口 + 9	nán		keep talking, chattering; mumble					
+僚			"#N/A"	2234	14画	人亻 + 12	liáo		companion, colleague; officials; bureaucracy; a pretty face					
+捐			5	2235	10画	手扌 + 7	juān	yuán	contribute; give up, renounce					
+姊			"#N/A"	2236	8画	女 + 5	zǐ		elder sister					
+骚	騷		6	2237	12画	马 + 9	sāo	sǎo	harass, bother, annoy, disturb					
+拓			6	2238	8画	手扌 + 5	tuò	tà, zhí	expand; open up; support or push					
+歪			5	2239	9画	止 + 5	wāi	wǎi	slant; inclined; askewd, awry					
+粘			5	2240	11画	米 + 5	nián	liān, zhān	viscous, mucous; glutinous					
+柄			"#N/A"	2241	9画	木 + 5	bǐng	bìng	handle, lever, knob; authority					
+坑			6	2242	7画	土 + 4	kēng		pit, hole; bury, trap; harry					
+陌			5	2243	9画	阜阝 + 6	mò		foot path between rice fields					
+窄			4	2244	10画	穴 + 5	zhǎi	zé	narrow, tight; narrow-minded					
+湘			"#N/A"	2245	12画	水氵氺 + 9	xiāng		Hunan province					
+兆			6	2246	6画	儿 + 4	zhào		omen; million; mega; also trillion. China = million; Japan and Taiwan = trillion					
+崖			6	2247	11画	山 + 8	yá	yái	cliff, precipice; precipitous					
+骄	驕		4	2248	9画	马 + 6	jiāo	xiāo	spirited horse; haughty					
+刹	剎		6	2249	8画	刀刂 + 6	chà	shā	temple, shrine, monastary					
+鞭			5	2250	18画	革 + 9	biān		whip; whip; string of firecrackers					
+芒			6	2251	9画	艸艹 + 3	máng	wáng, huǎng,huāng	Miscanthus sinensis					
+筋	觔 筋		6	2252	12画	竹 + 6	jīn	qián	muscles; tendons					
+聘			4	2253	13画	耳 + 7	pìn	pìng	engage, employ; betroth					
+钩	鉤 鈎		6	2254	9画	钅 + 4	gōu		hook, barb; sickle; stroke with					
+棍			6	2255	12画	木 + 8	gùn	hùn, āo, gǔn	stick, cudgel; scoundrel					
+嚷			5	2256	20画	口 + 17	rǎng	rāng	shout, brawl, make uproar, cry					
+腺			"#N/A"	2257	13画	肉月 + 9	xiàn		gland					
+弦	弦 絃		6	2258	8画	弓 + 5	xián		string; hypotenuse, crescent					
+焰	燄 焰		6	2259	12画	火灬 + 8	yàn		flame, blaze; glowing, blazing					
+耍			6	2260	9画	而 + 3	shuǎ		frolic, play, amuse, play with					
+俯	頫 俯		6	2261	10画	人亻 + 8	fǔ		bow down, face down, look down					
+厘	釐 厘		5	2262	9画	厂 + 7	lí		thousandth part of tael					
+愣			6	2263	12画	心忄 + 9	lèng	léng	be in a daze					
+厦	廈		6	2264	12画	厂 + 10	shà	xià	big building, mansion					
+恳	懇		5	2265	10画	心忄 + 6	kěn		sincere, earnest, cordial					
+饶	饒		6	2266	9画	饣 + 6	ráo		bountiful, abundant, plentiful					
+钉	釘		6	2267	7画	钅 + 2	dīng	dìng	nail, spike; pursue closely					
+寡			"#N/A"	2268	14画	宀 + 11	guǎ		widowed; alone, friendless					
+憾			5	2269	16画	心忄 + 13	hàn		to regret, remorse; dissatisfied					
+摔			5	2270	14画	手扌 + 11	shuāi		fall ground, stumble, trip					
+叠	疊		6	2271	13画	又 + 11	dié		pile; be piled up; fold up					
+惹			6	2272	13画	心忄 + 9	rě		irritate, vex, offend, incite					
+喻			6	2273	12画	口 + 9	yù	yú	metaphor, analogy; example; like					
+谱	譜		6	2274	14画	讠 + 12	pǔ		list, table; musical score					
+愧			5	2275	13画	心忄 + 10	kuì		ashamed, conscience-stricken					
+煌			6	2276	13画	火灬 + 9	huáng		bright, shining, luminous					
+徽			"#N/A"	2277	17画	彳 + 14	huī		a badge, insignia					
+溶			6	2278	13画	水氵氺 + 10	róng		to melt, dissolve; overflowing with					
+坠			"#N/A"	2279	7画	土 + 4	zhuì		fall down, drop, sink, go to ruin					
+煞			"#N/A"	2280	13画	火灬 + 9	shā	shà	malignant deity; baleful, noxious; strike dead					
+巾			4	2281	3画	巾 + 0	jīn		kerchief; towel; turban; KangXi radical number 50					
+滥	濫		6	2282	13画	水氵氺 + 10	làn		flood, overflow; excessive					
+洒	洒 灑		5	2283	9画	水氵氺 + 6	sǎ	cuǐ, xǐ, xiǎn, sěn,xùn	sprinkle; scatter; pour; to wipe away; to shiver					
+堵			4	2284	12画	土 + 9	dǔ		wall; stop, prevent; stop up					
+瓷			6	2285	11画	瓦 + 6	cí		crockery, porcelain, chinaware					
+咒			"#N/A"	2286	8画	口 + 5	zhòu		curse, damn, incantation					
+姨			3	2287	9画	女 + 6	yí		mother/wife's sister; concubine					
+棒			5	2288	12画	木 + 8	bàng		stick, club, truncheon; hit					
+郡			"#N/A"	2289	10画	邑阝 + 7	jùn		administrative division					
+浴			6	2290	10画	水氵氺 + 7	yù		bathe, wash; bath					
+媚			"#N/A"	2291	12画	女 + 9	mèi		charming, attractive; flatter					
+稣			"#N/A"	2292	13画	禾 + 8	sū		revive, to rise again; collect					
+淮			"#N/A"	2293	11画	水氵氺 + 8	huái		river in Anhui province					
+哎			6	2294	9画	口 + 6	āi		interjection of surprise					
+屁			6	2295	7画	尸 + 4	pì		break wind; fart; buttocks					
+漆			6	2296	14画	水氵氺 + 11	qī		varnish, lacquer, paint					
+淫			"#N/A"	2297	11画	水氵氺 + 8	yín	yàn, yáo	obscene, licentious, lewd					
+巢			"#N/A"	2298	11画	巛川 + 8	cháo		nest, living quarter in tree					
+吩			6	2299	7画	口 + 4	fēn		order, command, instruct					
+撰			"#N/A"	2300	15画	手扌 + 12	zhuàn	suàn, xuǎn	compose, write, compile					
+啸	嘯		6	2301	11画	口 + 8	xiào		roar, howl, scream; whistle					
+滞	滯		6	2302	12画	水氵氺 + 9	zhì		block up, obstruct; stagnant					
+玫			"#N/A"	2303	8画	玉玊王 + 4	méi		rose					
+硕	碩		4	2304	11画	石 + 6	shuò	shí	great, eminent; large, big					
+钓	釣		5	2305	8画	钅 + 3	diào		fish; fishhook; tempt, lure					
+蝶			5	2306	15画	虫 + 9	dié	tiē	butterfly					
+膝			6	2307	15画	肉月 + 11	xī		knee					
+姚			"#N/A"	2308	9画	女 + 6	yáo		handsome, elegant; surname					
+茂			6	2309	11画	艸艹 + 5	mào		thick, lush, dense; talented					
+躯			"#N/A"	2310	11画	身 + 4	qū		body					
+吏			"#N/A"	2311	6画	口 + 3	lì		government official, magistrate					
+猿			"#N/A"	2312	13画	犬犭 + 10	yuán		ape					
+寨			"#N/A"	2313	14画	宀 + 11	zhài		stockade, stronghold, outpost; brothel					
+恕			6	2314	10画	心忄 + 6	shù		forgive, excuse, show mercy					
+渠			6	2315	12画	木 + 8 水氵氺 + 9	qú	jù	ditch, canal, channel, gutter					
+戚	戚 慼		4	2316	11画	戈 + 7	qī		relative; be related to; sad					
+辰			6	2317	7画	辰 + 0	chén		early morning; 5th terrestrial branch					
+舶			6	2318	11画	舟 + 5	bó		large, ocean-going vessel					
+颁	頒		6	2319	10画	页 + 4	bān	fén	confer, bestow; publish, promulgate					
+惶			"#N/A"	2320	12画	心忄 + 9	huáng		fearful, afraid, anxious, nervous					
+狐			"#N/A"	2321	8画	犬犭 + 5	hú		species of fox					
+讽	諷		5	2322	6画	讠 + 4	fēng	fěng, fèng	recite, incant; satirize					
+笨			4	2323	11画	竹 + 5	bèn		foolish, stupid, dull; awkward					
+袍			6	2324	11画	衣衤 + 5	páo	bào	long gown, robe, cloak					
+嘲			6	2325	15画	口 + 12	cháo	zhāo	ridicule, deride, scorn, jeer at					
+啡			2	2326	11画	口 + 8	fēi	pēi	morphine; coffee					
+泼	潑		4	2327	8画	水氵氺 + 5	pō	bō	pour, splash, water, sprinkle					
+衔	啣 銜		6	2328	11画	行 + 5	xián		bit; hold in mouth, bite; gag					
+倦			6	2329	10画	人亻 + 8	juàn		be tired of, weary					
+涵			6	2330	11画	水氵氺 + 8	hán	hàn	soak, wet; tolerate, be lenient					
+雀			"#N/A"	2331	11画	隹 + 3	què	qiāo, qiǎo	sparrow					
+旬			5	2332	6画	日 + 2	xún		ten-day period; period of time					
+僵	僵 殭		6	2333	15画	人亻 + 13	jiāng		stiff and motionless, stock still					
+撕			5	2334	15画	手扌 + 12	sī	xī	rip, tear; buy cloth					
+肢			6	2335	8画	肉月 + 4	zhī	shì	human limbs; animal feet					
+垄	壟		6	2336	8画	土 + 5	lǒng		grave, mound; ridge in field					
+夷			"#N/A"	2337	6画	大 + 3	yí		ancient barbarian tribes					
+逸			"#N/A"	2338	12画	辵辶 + 8	yì		flee, escape, break loose					
+茅			"#N/A"	2339	11画	艸艹 + 5	máo		reeds, rushes, grass; surname					
+侨	僑		6	2340	8画	人亻 + 6	qiáo		sojourn, lodge					
+舆	輿		6	2341	16画	臼 + 10	yú		cart, palanquin, sedan chair					
+窑			"#N/A"	2342	11画	穴 + 6	yáo		kiln; coal mine pit					
+涅			"#N/A"	2343	10画	水氵氺 + 7	niè		blacken; black mud, slime; tatto					
+蒲			"#N/A"	2344	16画	艸艹 + 10	pú	bó	type of rush; vine					
+谦	謙		5	2345	12画	讠 + 10	qiān	qiàn	humble, modest					
+杭			"#N/A"	2346	8画	木 + 4	háng	kāng	cross stream; navigate					
+噢			"#N/A"	2347	16画	口 + 13	ō	yǔ	moan; interjection for pain, sad					
+弊			6	2348	15画	廾 + 12	bì		evil, wrong, bad; criminal					
+勋			"#N/A"	2349	9画	力 + 7	xūn		meritorious deed; merits; rank					
+刮	刮 颳		3	2350	8画	刀刂 + 6	guā		shave, pare off, scrape					
+郊			5	2351	9画	邑阝 + 6	jiāo		suburbs; waste land, open spaces					
+凄	淒 悽		6	2352	10画	冫 + 8	qī		bitter cold, miserable, dreary					
+捧			6	2353	11画	手扌 + 8	pěng		hold up in two hands					
+浸			6	2354	10画	水氵氺 + 7	jìn	qīn	soak, immerse, dip, percolate					
+砖	磚		6	2355	9画	石 + 4	zhuān	tuán, tuó	tile, brick					
+鼎			"#N/A"	2356	13画	鼎 + 0	dǐng	zhēn	large, three-legged bronze caldron					
+篮	籃		2	2357	16画	竹 + 10	lán		basket					
+蒸			6	2358	16画	火灬 + 10	zhēng		steam; evaporate					
+饼	餅		4	2359	9画	饣 + 6	bǐng		rice-cakes, biscuits					
+亩			"#N/A"	2360	7画	亠 + 5	mǔ		Chinese land measure; fields					
+肾			"#N/A"	2361	8画	肉月 + 4	shèn		kidneys; testes, gizzard					
+陡			6	2362	10画	阜阝 + 7	dǒu		steep, sloping; abruptly, sudden					
+爪			"#N/A"	2363	4画	爪爫 + 0	zhuǎ	zhǎo	claw, nail, talon; animal feet					
+兔			5	2364	8画	儿 + 6	tù		rabbit, hare					
+殷			"#N/A"	2365	10画	殳 + 6	yīn	yān, yǐn	many, great; abundant, flourishing					
+贞			"#N/A"	2366	6画	贝 + 2	zhēn		virtuous, chaste, pure; loyal					
+荐	薦 荐		5	2367	12画	艸艹 + 6	jiàn		repeat, reoccur; recommend					
+哑	啞		6	2368	9画	口 + 6	yǎ	yā, è	dumb, mute; become hoarse					
+炭			5	2369	9画	火灬 + 5	tàn		charcoal; coal; carbon					
+坟	墳		6	2370	7画	土 + 4	fén		grave, mound; bulge; bulging					
+眨			6	2371	10画	目 + 5	zhǎ		wink					
+搏			6	2372	13画	手扌 + 10	bó		seize; spring upon; strike					
+咳			4	2373	9画	口 + 6	ké	hāi, hái, kài	cough					
+拢	攏		6	2374	8画	手扌 + 5	lǒng		collect, bring together					
+舅			5	2375	13画	臼 + 7	jiù		mother's brother, uncle					
+昧			6	2376	9画	日 + 5	mèi		obscure, dark; darken					
+擅			6	2377	16画	手扌 + 13	shàn		monopolize; claim; arbitrarily; to dare					
+爽			6	2378	11画	爻 + 7	shuǎng	shuāng	happy, cheerful; refreshing					
+咖			2	2379	8画	口 + 5	kā	gā	coffee; a phonetic					
+搁	擱		6	2380	12画	手扌 + 9	gē	gé	place, put, lay down; delay					
+禄			"#N/A"	2381	12画	示礻 + 7	lù		blessing, happiness, prosperity					
+雌			6	2382	13画	隹 + 5	cí	cī	female; feminine; gentle, soft					
+哨			6	2383	10画	口 + 7	shào		whistle, blow whistle; chirp					
+巩	鞏		6	2384	6画	工 + 3	gǒng		bind; firm, secure, strong					
+绢			"#N/A"	2385	10画	纟 + 7	juàn		kind of thick stiff silk					
+螺			6	2386	17画	虫 + 11	luó		spiral shell; conch; spiral					
+裹			5	2387	14画	衣衤 + 8	guǒ		wrap, bind; encircle, confine					
+昔			6	2388	8画	日 + 4	xī	cuò, xí	formerly; ancient; in beginning					
+轩			"#N/A"	2389	7画	车 + 3	xuān		carriage; high; wide; balcony					
+谬	謬		6	2390	13画	讠 + 11	miù		error, exaggeration; erroneous					
+谍	諜		6	2391	11画	讠 + 9	dié		an intelligence report; to spy; spying					
+龟			"#N/A"	2392	7画	龟 + 0	guī	jūn, qiū	turtle or tortoise; cuckold					
+媳			6	2393	13画	女 + 10	xí		daughter-in-law					
+姜			"#N/A"	2394	9画	女 + 6	jiāng		surname; ginger					
+瞎			5	2395	15画	目 + 10	xiā		blind, reckless; rash					
+冤			6	2396	10画	冖 + 8	yuān		grievance, injustice, wrong					
+鸦			"#N/A"	2397	9画	鸟 + 4	yā		crow; Corvus species (various)					
+蓬			6	2398	17画	艸艹 + 11	péng	pèng	type of raspberry; fairyland					
+巷			6	2399	9画	己已巳 + 6	xiàng	hàng	alley, lane					
+琳			"#N/A"	2400	12画	玉玊王 + 8	lín		beautiful jade, gem					
+栽			6	2401	10画	木 + 6	zāi	zài	to cultivate, plant; to care for plants					
+沾	霑 沾		6	2402	8画	水氵氺 + 5	zhān	tiān, tiē, diàn,chān	moisten, wet, soak; touch					
+诈	詐		6	2403	7画	讠 + 5	zhà		cheat, defraud, swindle; trick					
+斋			"#N/A"	2404	10画	文 + 6	zhāi		vegetarian diet; study					
+瞒	瞞		6	2405	15画	目 + 10	mán	mén, mèn	deceive, lie; eyes half-closed					
+彪			"#N/A"	2406	9画	虍 + 3	biāo		tiger; tiger stripes; tiger-like					
+厄			"#N/A"	2407	4画	厂 + 2	è		adversity, difficulty, distress					
+咨	咨 諮		5	2408	9画	口 + 6	zī		inquire, consult, discuss; plan					
+纺	紡		6	2409	7画	纟 + 4	fǎng	bǎng	spin, reel, weave; reeled pongee					
+罐			5	2410	24画	缶 + 18	guàn		jar, jug, pitcher, pot					
+桶			4	2411	11画	木 + 7	tǒng		pail, bucket, tub; cask, keg					
+壤			6	2412	20画	土 + 17	rǎng		soil, loam, earth; rich					
+糕			3	2413	16画	米 + 10	gāo		cakes, pastry					
+颂	頌		6	2414	10画	页 + 4	sòng	róng	laud, acclaim; hymn; ode					
+膨			6	2415	16画	肉月 + 12	péng	pèng	to swell; swollen, bloated, inflated					
+谐	諧		6	2416	11画	讠 + 9	xié		harmonize, agree; joke, jest					
+垒			"#N/A"	2417	9画	土 + 6	lěi	lèi, léi, lǜ	rampart, military wall					
+咕			"#N/A"	2418	8画	口 + 5	gū		mumble, mutter, murmur; rumble					
+隙			6	2419	13画	阜阝 + 10	xì		crack, split, fissure; grudge					
+辣			4	2420	14画	辛 + 7	là		peppery, pungent, hot; cruel					
+绑	綁		6	2421	9画	纟 + 6	bǎng		bind, tie, fasten					
+宠	寵		5	2422	8画	宀 + 5	chǒng		favorite, concubine; favor					
+嘿			6	2423	15画	口 + 12	hēi	mò	be silent, be quiet					
+兑	兑 兌		6	2424	7画	儿 + 5	duì	yuè, ruì	cash; exchange					
+霉	霉 黴		5	2425	15画	雨 + 7	méi		mildew, mold; moldy, mildewed					
+挫			6	2426	10画	手扌 + 7	cuò		push down; chop down; grind					
+稽			"#N/A"	2427	15画	禾 + 10	jī	qǐ	examine, investigate; delay					
+辐	輻		6	2428	13画	车 + 9	fú		spokes of wheel					
+乞			6	2429	3画	乙乚 + 2	qǐ		beg; request					
+纱			"#N/A"	2430	7画	纟 + 4	shā		gauze, thin silk; yarn, thread					
+裙			3	2431	13画	衣衤 + 7	qún		skirt, apron, petticoat					
+嘻			"#N/A"	2432	15画	口 + 12	xī		mirthful, happy; interjection					
+哇			6	2433	9画	口 + 6	wā	wa	vomit; cry of an infant					
+绣	繡		6	2434	10画	纟 + 7	xiù		embroider; embroidery; ornament					
+杖			6	2435	7画	木 + 3	zhàng		cane, walking stick					
+塘			6	2436	13画	土 + 10	táng		pond; tank; dike, embankment					
+衍			6	2437	9画	行 + 3	yǎn	yán	overflow, spill over, spread out					
+轴			"#N/A"	2438	9画	车 + 5	zhóu	zhú	axle, axletree; pivot; axis					
+攀			6	2439	19画	手扌 + 15	pān		climb; pull; hang on to					
+膊			5	2440	14画	肉月 + 10	bó	pò, liè	shoulders, upper arms					
+譬			6	2441	20画	言訁 + 13	pì		metaphor, simile, example					
+斌			"#N/A"	2442	11画	文 + 7	bīn		refined, having both appearance					
+祈			"#N/A"	2443	9画	示礻 + 4	qí	guǐ	pray; entreat, beseech					
+踢			2	2444	15画	足 + 8	tī	dié	kick					
+肆			6	2445	13画	聿 + 7	sì	tì	indulge; excess; numeral four; particle meaning now, therefore; shop					
+坎			"#N/A"	2446	7画	土 + 4	kǎn		pit, hole; snare, trap; crisis					
+轿			"#N/A"	2447	10画	车 + 6	jiào		sedan-chair, palanquin					
+棚			"#N/A"	2448	12画	木 + 8	péng		tent, awning; booth; shed					
+泣			"#N/A"	2449	8画	水氵氺 + 5	qì	lì, sè	cry, sob, weep					
+屡	屢		6	2450	12画	尸 + 9	lǚ		frequently, often, again and again					
+躁			6	2451	20画	足 + 13	zào		tense, excited, irritable					
+邱			"#N/A"	2452	8画	邑阝 + 5	qiū		surname; hill; mound; grave					
+凰			"#N/A"	2453	11画	几 + 9	huáng		female phoenix					
+溢			"#N/A"	2454	13画	水氵氺 + 10	yì		overflow, brim over; full					
+椎			6	2455	12画	木 + 8	zhuī	chuí	hammer, mallet; vertebra					
+砸			6	2456	10画	石 + 5	zá		smash, crush, break; pound, mash					
+趟			4	2457	15画	走 + 8	tàng	chēng, tāng,zhēng, zhèng	time, occasion; take journey					
+帘	帘 簾		5	2458	8画	巾 + 5	lián		flag-sign of a tavern					
+帆			6	2459	6画	巾 + 3	fān		sail; boat					
+栖			"#N/A"	2460	10画	木 + 6	qī	xī	perch; roost; stay					
+窜	竄		6	2461	12画	穴 + 7	cuàn		run away; revise, edit; expel					
+丸			6	2462	3画	丶 + 2	wán		small round object; pellet, pill					
+斩	斬		6	2463	8画	斤 + 4	zhǎn		cut, chop, sever; behead					
+堤			6	2464	12画	土 + 9	dī	tí	dike					
+塌			6	2465	13画	土 + 10	tā		fall in ruins, collapse					
+贩	販		6	2466	8画	贝 + 4	fàn		peddler, hawker, street merchant					
+厢	廂		5	2467	11画	厂 + 9	xiāng		side-room, wing; theatre box					
+掀			6	2468	11画	手扌 + 8	xiān		lift, raise; stir					
+喀			"#N/A"	2469	12画	口 + 9	kā	kè, ke	vomit; used in transliterations					
+乖			5	2470	8画	丿 + 7	guāi		rebel; crafty, shrewd					
+谜	謎		5	2471	11画	讠 + 9	mí	mèi, mì	riddle, conundrum; puzzle					
+捏			6	2472	10画	手扌 + 7	niē		pick with fingers; knead; mold					
+阎			"#N/A"	2473	11画	门 + 8	yán	yàn	village gate; surname					
+滨	濱		6	2474	13画	水氵氺 + 10	bīn		beach, sea coast; river bank					
+虏	虜		6	2475	8画	虍 + 2	lǔ		to capture, imprison, seize; a prison					
+匙			4	2476	11画	匕 + 9	chí	shi	spoon; surname					
+芦	蘆		6	2477	10画	艸艹 + 4	lú	lǔ	rushes, reeds					
+苹	蘋		1	2478	11画	艸艹 + 5	píng	pín, pēng	artemisia; duckweed; apple					
+卸			6	2479	8画	卩 + 6	xiè		lay down; retire from office					
+沼			6	2480	8画	水氵氺 + 5	zhǎo		lake, fishpond, swamps					
+钥	鑰		4	2481	9画	钅 + 4	yào	yuè	key; lock					
+株			6	2482	10画	木 + 6	zhū		numerary adjunct for trees; root					
+祷			"#N/A"	2483	12画	示礻 + 7	dǎo		pray; entreat, beg, plead; prayer					
+剖			6	2484	10画	刀刂 + 8	pōu		split in two, slice; dissect					
+熙			"#N/A"	2485	14画	火灬 + 10	xī	yí	bright, splendid, glorious					
+哗			"#N/A"	2486	9画	口 + 6	huā	huá	rushing sound; gush forward					
+劈			6	2487	15画	刀刂 + 13	pī	pǐ	cut apart, split, chop					
+怯			6	2488	8画	心忄 + 5	qiè		lacking in courage, afraid					
+棠			"#N/A"	2489	12画	木 + 8	táng		crab apple tree; wild plums					
+胳			5	2490	10画	肉月 + 6	gē	gé, gā	armpit, arms					
+桩			"#N/A"	2491	10画	木 + 6	zhuāng	chōng	stake, post; affair, matter					
+瑰			"#N/A"	2492	14画	玉玊王 + 10	guī		extraordinary, fabulous; rose					
+娱	娛		5	2493	10画	女 + 7	yú		pleasure, enjoyment, amusement					
+娶			5	2494	11画	女 + 8	qǔ		marry, take wife					
+沫			6	2495	8画	水氵氺 + 5	mò		froth, foam, bubbles, suds					
+嗓			5	2496	13画	口 + 10	sǎng		voice; throat					
+蹲			5	2497	19画	足 + 12	dūn	dún, cún, zūn,cǔn, cuán	squat, crouch; idle about					
+焚			"#N/A"	2498	12画	火灬 + 8	fén	fèn	burn					
+淘			6	2499	11画	水氵氺 + 8	táo		wash in sieve; weed out					
+嫩			5	2500	14画	女 + 11	nèn	nùn	soft, tender, delicate; young					
+韵			"#N/A"	2501	13画	音 + 4	yùn		rhyme; vowel					
+衬	襯		3	2502	9画	衣衤 + 3	chèn		underwear; inner garments					
+匈			"#N/A"	2503	6画	勹 + 4	xiōng		breast, chest, thorax; clamor; the Hsiung Nu 'Huns'					
+钧			"#N/A"	2504	9画	钅 + 4	jūn		unit of measure equivalent to thirty catties					
+竖	豎		6	2505	9画	立 + 4	shù		perpendicular, vertical; erect					
+峻			6	2506	10画	山 + 7	jùn		high, steep, towering; stern					
+豹			"#N/A"	2507	10画	豸 + 3	bào		leopard, panther; surname					
+捞	撈		6	2508	10画	手扌 + 7	lāo		scoop out of water; dredge, fish					
+菊			"#N/A"	2509	14画	艸艹 + 8	jú		chrysanthemum					
+鄙			6	2510	14画	邑阝 + 11	bǐ		mean; low					
+魄			6	2511	15画	鬼 + 5	pò	bó, tuò	vigor; body; dark part of moon					
+兜			6	2512	11画	儿 + 9	dōu		pouch					
+哄	鬨 哄		6	2513	9画	口 + 6	hōng	hǒng, hòng	coax; beguile, cheat, deceive					
+颖	穎		6	2514	13画	页 + 7	yǐng		rice tassel; sharp point; clever					
+镑			"#N/A"	2515	15画	钅 + 10	bàng		pound sterling					
+屑			6	2516	10画	尸 + 7	xiè		bits, scraps, crumbs, fragments					
+蚁			"#N/A"	2517	9画	虫 + 3	yǐ		ants					
+壶	壺		5	2518	10画	士 + 7	hú		jar, pot, jug, vase; surname					
+怡			"#N/A"	2519	8画	心忄 + 5	yí		harmony; pleasure, joy; be glad					
+渗	滲		6	2520	11画	水氵氺 + 8	shèn	qīn	soak through, infiltrate					
+秃	禿		6	2521	7画	禾 + 2	tū		bald					
+迦			"#N/A"	2522	9画	辵辶 + 5	jiā	xiè	character for transliteration					
+旱			6	2523	7画	日 + 3	hàn		drought; dry; dry land					
+哟	喲		6	2524	9画	口 + 6	yo		ah, final particle					
+咸	鹹 咸		4	2525	9画	口 + 6	xián		together; all, completely; united					
+焉			"#N/A"	2526	11画	火灬 + 7	yān	yí	thereupon, then; how? why? where?					
+谴	譴		6	2527	15画	讠 + 13	qiǎn		reprimand, scold, abuse					
+宛			"#N/A"	2528	8画	宀 + 5	wǎn	yuān	seem, as if, crooked					
+稻			6	2529	15画	禾 + 10	dào		rice growing in field, rice plant					
+铸	鑄		6	2530	12画	钅 + 7	zhù		melt, cast; coin, mint					
+锻	鍛		3	2531	14画	钅 + 9	duàn		forge metal; temper, refine					
+伽			"#N/A"	2532	7画	人亻 + 5	qié	jiā	transcription of sanskrit 'gha' in buddhist texts ('samgha', etc.); (nursing; attending; entertainer) (Jap.); tample; in Chinese this character is not used alone					
+詹			"#N/A"	2533	13画	言訁 + 6	zhān	shàn, dàn	surname; talk too much, verbose					
+毙			"#N/A"	2534	10画	比 + 6	bì		kill; die violent death					
+恍			6	2535	9画	心忄 + 6	huǎng		seemingly; absent-minded					
+贬	貶		6	2536	8画	贝 + 4	biǎn		decrease, lower; censure, criticize					
+烛	燭		5	2537	10画	火灬 + 6	zhú		candle, taper; shine, illuminate					
+骇			"#N/A"	2538	9画	马 + 6	hài		terrify, frighten, scare; shock					
+芯			"#N/A"	2539	10画	艸艹 + 4	xīn	xìn	pith from rush (juncus effusus)					
+汁			3	2540	5画	水氵氺 + 2	zhī	xié, shī	juice, liquor, fluid, sap, gravy, sauce					
+桓			"#N/A"	2541	10画	木 + 6	huán		variety of tree; surname					
+坊			"#N/A"	2542	7画	土 + 4	fāng	fáng	neighborhood, urban subdivision; (J) priest's residence; (Buddhist) priest; boy					
+驴			"#N/A"	2543	7画	马 + 4	lǘ		donkey, ass					
+朽			6	2544	6画	木 + 2	xiǔ		decayed, rotten; rot, decay					
+靖			"#N/A"	2545	13画	立 + 8 青 + 5	jìng	jīng	pacify; appease; calm, peaceful					
+佣	傭 佣		5	2546	7画	人亻 + 5	yòng	yōng, yóng	commission fee					
+汝			"#N/A"	2547	6画	水氵氺 + 3	rǔ		you					
+碌			6	2548	13画	石 + 8	lù	liù, luò	rough, uneven, rocky; mediocre					
+迄			6	2549	7画	辵辶 + 3	qì		extend, reach; until; till					
+冀			"#N/A"	2550	16画	八 + 14	jì		hope for; wish; Hebei province					
+荆			"#N/A"	2551	12画	艸艹 + 6	jīng		thorns; brambles; my wife; cane					
+崔			"#N/A"	2552	11画	山 + 8	cuī		high, lofty, towering; surname					
+雁			"#N/A"	2553	12画	隹 + 4	yàn		wild goose					
+绅	紳		6	2554	8画	纟 + 5	shēn		girdle; tie, bind; gentry					
+珊			"#N/A"	2555	9画	玉玊王 + 5	shān		coral					
+榜			6	2556	14画	木 + 10	bǎng	bàng, bēng,páng	placard; list of successful exam candidates					
+诵	誦		6	2557	9画	讠 + 7	sòng		recite, chant, repeat					
+傍			5	2558	12画	人亻 + 10	bàng	páng	by side of, beside, near, close					
+彦			"#N/A"	2559	9画	彡 + 6	yàn		elegant					
+醇			"#N/A"	2560	15画	酉 + 8	chún		rich, good as wine; pure, unmixed					
+笛			"#N/A"	2561	11画	竹 + 5	dí		bamboo flute; whistle					
+禽			6	2562	13画	禸 + 8	qín		birds, fowl; surname;; capture					
+勿			6	2563	4画	勹 + 2	wù		must not, do not; without, never					
+娟			"#N/A"	2564	10画	女 + 7	juān		beautiful, graceful					
+瞄			"#N/A"	2565	14画	目 + 9	miáo		take aim at; look at					
+幢			6	2566	15画	巾 + 12	chuáng	zhuàng	carriage curtain; sun screen					
+寇			"#N/A"	2567	11画	宀 + 8	kòu		bandits, thieves; enemy; invade					
+睹			6	2568	14画	目 + 9	dǔ		look at, gaze at; observe					
+贿	賄		6	2569	10画	贝 + 6	huì		bribe; bribes; riches, wealth					
+踩			5	2570	15画	足 + 8	cǎi	kuí	step on					
+霆			"#N/A"	2571	15画	雨 + 7	tíng		a sudden peal of thunder					
+呜			"#N/A"	2572	7画	口 + 4	wū		sound of crying, sobbing					
+拱			"#N/A"	2573	9画	手扌 + 6	gǒng		fold hands on breast; bow, salute					
+妃			"#N/A"	2574	6画	女 + 3	fēi	pèi	wife, spouse; imperial concubine					
+蔑	衊 蔑		6	2575	17画	艸艹 + 11	miè		disdain, disregard; slight					
+谕			"#N/A"	2576	11画	讠 + 9	yù		proclaim, instruct; edict					
+缚	縛		6	2577	13画	纟 + 10	fú		to tie					
+诡			"#N/A"	2578	8画	讠 + 6	guǐ		deceive, cheat, defraud; sly					
+篷			6	2579	17画	竹 + 11	péng		awning, covering; sail; boat					
+淹			6	2580	11画	水氵氺 + 8	yān	yǎn	drown; cover with liquid, steep					
+腕			"#N/A"	2581	12画	肉月 + 8	wàn		wrist					
+煮			5	2582	12画	火灬 + 8	zhǔ		cook					
+倩			"#N/A"	2583	10画	人亻 + 8	qiàn	qìng	beautiful, lovely; son-in-law					
+卒			"#N/A"	2584	8画	十 + 6	zú	cù	soldier; servant; at last, finally					
+勘			6	2585	11画	力 + 9	kān	kàn	investigate; compare; collate					
+馨			"#N/A"	2586	20画	香 + 11	xīn	xīng	fragrant, aromatic; distant fragrance					
+逗			5	2587	11画	辵辶 + 7	dòu	zhù, tóu, qí	tempt, allure, arouse, stir					
+甸			"#N/A"	2588	7画	田由甲申 + 2	diàn	shèng, tián,yìng	suburbs of capital; govern; crops					
+贱			"#N/A"	2589	9画	贝 + 5	jiàn		mean, low; cheap, worthless					
+炒			5	2590	8画	火灬 + 4	chǎo		fry, saute, roast, boil, cook					
+灿	燦		6	2591	7画	火灬 + 3	càn		vivid, illuminating; bright					
+敞			6	2592	12画	攴攵 + 8	chǎng		roomy, spacious, open, broad					
+蜡	蠟		5	2593	14画	虫 + 8	là	zhà, chà, qù, jí	wax; candle; waxy, glazed; maggot; as a non-simplified form sometimes used as an equivalent to U+410D 䄍, meaning imperial harvest					
+囚			"#N/A"	2594	5画	囗 + 2	qiú		prisoner, convict; confine					
+栗			"#N/A"	2595	10画	木 + 6	lì		chestnut tree, chestnuts; surname					
+辜			6	2596	12画	辛 + 5	gū		crime, criminal offense					
+垫	墊		6	2597	9画	土 + 6	diàn		advance money, pay for another					
+妒			6	2598	7画	女 + 4	dù		jealous, envious					
+魁			"#N/A"	2599	14画	鬼 + 4	kuí	kuǐ, kuài	chief; leader; best; monstrous					
+谣	謠		6	2600	12画	讠 + 10	yáo		sing; folksong, ballad; rumor					
+寞			5	2601	14画	宀 + 11	mò		silent, still, lonely, solitary					
+蜀			"#N/A"	2602	13画	虫 + 7	shǔ		name of an ancient state					
+甩			5	2603	5画	用 + 0	shuǎi		throw away, discard					
+涯			"#N/A"	2604	11画	水氵氺 + 8	yá		shore, bank, water's edge					
+枕			5	2605	8画	木 + 4	zhěn	zhèn	pillow					
+丐			6	2606	4画	一 + 3	gài		beggar; beg; give					
+泳			2	2607	8画	水氵氺 + 5	yǒng		dive; swim					
+奎			"#N/A"	2608	9画	大 + 6	kuí		stride of man; one of the twenty-eight lunar mansions					
+泌			6	2609	8画	水氵氺 + 5	mì	bì	to seep out, excrete					
+逾			"#N/A"	2610	13画	辵辶 + 9	yú	dòu	go over, pass over, exceed					
+叮			6	2611	5画	口 + 2	dīng		exhort or enjoin repeatedly					
+黛			"#N/A"	2612	17画	黑 + 5	dài		blacken eyebrows; black					
+燥			4	2613	17画	火灬 + 13	zào	sào	dry, parched, arid; quick-tempered					
+掷	擲		6	2614	11画	手扌 + 8	zhí	zhī, zhì	throw, hurl, cast, fling					
+藉			"#N/A"	2615	20画	艸艹 + 14	jiè	jí	mat, pad; rely on; pretext					
+枢			"#N/A"	2616	8画	木 + 4	shū		door hinge; pivot; center of power					
+憎			"#N/A"	2617	15画	心忄 + 12	zēng		hate, detest, abhor; hatred					
+鲸			"#N/A"	2618	16画	鱼 + 8	jīng	qíng	whale					
+弘			"#N/A"	2619	5画	弓 + 2	hóng		enlarge, expand; liberal, great					
+倚			"#N/A"	2620	10画	人亻 + 8	yǐ		rely on, depend on; lean heavily					
+侮			6	2621	9画	人亻 + 7	wǔ		insult, ridicule, disgrace					
+藩			"#N/A"	2622	21画	艸艹 + 15	fán	fān	fence; boundary; outlying border					
+拂			"#N/A"	2623	8画	手扌 + 5	fú	bì	shake off, brush away; dust					
+鹤			"#N/A"	2624	15画	鸟 + 10	hè		crane; Grus species (various)					
+蚀	蝕		6	2625	9画	虫 + 3	shí		nibble away; erode; eclipse					
+浆			"#N/A"	2626	10画	水氵氺 + 6	jiāng	jiàng	any thick fluid; starch; broth					
+芙			"#N/A"	2627	10画	艸艹 + 4	fú		hibiscus					
+垃			4	2628	8画	土 + 5	lā	la	garbage, refuse, waste					
+烤			5	2629	10画	火灬 + 6	kǎo		bake, roast, toast, cook					
+晒	晒 曬		5	2630	10画	日 + 6	shài		dry in sun, expose to sun					
+霜			6	2631	17画	雨 + 9	shuāng		frost; crystallized; candied					
+剿			"#N/A"	2632	13画	刀刂 + 11	jiǎo	chāo	destroy, exterminate, annihilate					
+蕴	蘊 藴		6	2633	18画	艸艹 + 12	yùn		to collect, gather, store; profound					
+圾			4	2634	7画	土 + 4	jí	jī	garbage, rubbish; shaking; danger					
+绸	綢		5	2635	11画	纟 + 8	chóu	tāo	silk cloth, satin damask					
+屿	嶼		6	2636	6画	山 + 3	yǔ	xù	island					
+氢	氫		6	2637	9画	气 + 5	qīng		ammonia; hydrogen nitride					
+驼			"#N/A"	2638	8画	马 + 5	tuó		a camel; humpbacked; to carry on the back					
+妆	粧 妝		6	2639	6画	女 + 3	zhuāng		to adorn oneself, dress up, use make-up					
+捆	綑 捆		6	2640	10画	手扌 + 7	kǔn		tie up; bind, truss up; bundle					
+铅	鉛		3	2641	10画	钅 + 5	qiān	yán	lead					
+逛			4	2642	11画	辵辶 + 7	guàng	kuáng	ramble, stroll, roam, wander					
+淑			"#N/A"	2643	11画	水氵氺 + 8	shú	shū, chù	good, pure, virtuous, charming					
+榴			"#N/A"	2644	14画	木 + 10	liú		pomegranate					
+丙			5	2645	5画	一 + 4	bǐng		third; 3rd heavenly stem					
+痒	癢		5	2646	11画	疒 + 6	yǎng	yáng	itch					
+钞	鈔		6	2647	9画	钅 + 4	chāo	miǎo	paper money, bank notes; copy					
+蹄			"#N/A"	2648	16画	足 + 9	tí	dì	hoof; leg of pork; little witch					
+犬			6	2649	4画	犬犭 + 0	quǎn		dog; radical number 94					
+躬			6	2650	10画	身 + 3	gōng		body; personally, in person					
+昼	晝		6	2651	9画	日 + 5	zhòu		daytime, daylight					
+藻			"#N/A"	2652	22画	艸艹 + 16	zǎo		splendid, magnificent; algae					
+蛛			"#N/A"	2653	12画	虫 + 6	zhū		spider					
+褐			"#N/A"	2654	15画	衣衤 + 9	hé	hè	coarse woolen cloth; dull, dark					
+颊			"#N/A"	2655	12画	页 + 6	jiá		cheeks, jaw					
+奠			6	2656	12画	大 + 9	diàn		pay respect; settle					
+募			"#N/A"	2657	13画	力 + 11	mù		levy, raise; summon; recruit					
+耽	耽 躭		5	2658	10画	耳 + 4	dān		indulge in; be negligent					
+蹈			6	2659	17画	足 + 10	dǎo	dào	stamp feet; dance					
+陋			6	2660	9画	阜阝 + 6	lòu		narrow; crude, coarse; ugly					
+侣	侶		6	2661	8画	人亻 + 6	lǚ		companion; associate with					
+魅			5	2662	15画	鬼 + 5	mèi		kind of forest demon, elf					
+岚			"#N/A"	2663	7画	山 + 4	lán		mountain mist, mountain haze					
+侄			"#N/A"	2664	8画	人亻 + 6	zhí		nephew					
+虐			6	2665	9画	虍 + 3	nüè		cruel, harsh, oppressive					
+堕	墮		6	2666	11画	土 + 8	duò	huī	fall, sink, let fall; degenerate					
+陛			"#N/A"	2667	10画	阜阝 + 7	bì		steps leading throne; throne					
+莹			"#N/A"	2668	13画	艸艹 + 7	yíng		luster of gems; bright, lustrous					
+荫			"#N/A"	2669	12画	艸艹 + 6	yìn	yīn	shade, shelter; protect					
+狡			5	2670	9画	犬犭 + 6	jiǎo	xiào	cunning, deceitful, treacherous					
+阀			"#N/A"	2671	9画	门 + 6	fá		powerful and influential group					
+绞			"#N/A"	2672	9画	纟 + 6	jiǎo		twist, wring; intertwine; winch					
+膏			4	2673	14画	肉月 + 10	gāo	gào	grease, fat; paste, ointment					
+垮			"#N/A"	2674	9画	土 + 6	kuǎ		be defeated, fail, collapse					
+茎	莖		6	2675	11画	艸艹 + 5	jīng		stem, stalk					
+缅			"#N/A"	2676	12画	纟 + 9	miǎn		distant, remote; think of					
+喇			6	2677	12画	口 + 9	lǎ		horn, bugle; lama; final particle					
+绒	絨		6	2678	9画	纟 + 6	róng		silk, cotton, or woolen fabric					
+搅	攪		6	2679	12画	手扌 + 9	jiǎo		disturb, agitate, stir up					
+凳			"#N/A"	2680	14画	几 + 12	dèng		bench; stool					
+梭			"#N/A"	2681	11画	木 + 7	suō	xùn	weaver's shuttle; go to and fro					
+丫			"#N/A"	2682	3画	丨 + 2	yā		forked; bifurcation					
+姬			"#N/A"	2683	10画	女 + 7	jī		beauty; imperial concubine					
+诏			"#N/A"	2684	7画	讠 + 5	zhào		decree, proclaim; imperial decree					
+钮			"#N/A"	2685	9画	钅 + 4	niǔ		button, knob; surname					
+棺			"#N/A"	2686	12画	木 + 8	guān	guàn	coffin					
+耿			"#N/A"	2687	10画	耳 + 4	gěng		bright, shining; have guts					
+缔	締		6	2688	12画	纟 + 9	dì		tie, join, connect; connection					
+懈			"#N/A"	2689	16画	心忄 + 13	xiè		idle, relaxed, remiss					
+嫉			6	2690	13画	女 + 10	jí		jealousy; be jealous of					
+灶			6	2691	7画	火灬 + 3	zào		kitchen stove, cooking stove					
+匀	勻		5	2692	4画	勹 + 2	yún		equal					
+嗣			"#N/A"	2693	13画	口 + 10	sì		to connect, inherit; descendants, heirs					
+鸽	鴿		5	2694	11画	鸟 + 6	gē		pigeon, dove; Columba species (various)					
+澡			3	2695	16画	水氵氺 + 13	zǎo	cāo	wash, bathe					
+凿			"#N/A"	2696	12画	凵 + 10	záo	zuò	chisel; bore, pierce					
+纬	緯		6	2697	7画	纟 + 4	wěi		woof; parallels of latitude					
+沸			6	2698	8画	水氵氺 + 5	fèi	fú	boil, bubble up, gush					
+畴	疇		6	2699	12画	田由甲申 + 7	chóu		farmland, arable land; category					
+刃			"#N/A"	2700	3画	刀刂 + 1	rèn		edged tool, cutlery, knife edge					
+遏			6	2701	13画	辵辶 + 9	è		stop, suppress, curb, check; a bar					
+烁	爍		6	2702	9画	火灬 + 5	shuò	luò	shine, glitter, sparkle					
+嗅			6	2703	13画	口 + 10	xiù		smell, scent, sniff; olfactive					
+叭			6	2704	5画	口 + 2	bā	ba	trumpet					
+熬			6	2705	15画	火灬 + 11	áo	āo	cook down, to boil; endure					
+瞥			"#N/A"	2706	17画	目 + 12	piē	bì	take fleeting glance at					
+骸			"#N/A"	2707	16画	骨 + 6	hái	gāi	skeleton, body; leg bone					
+奢			6	2708	12画	大 + 9	shē		extravagant, wasteful; exaggerate					
+拙			6	2709	8画	手扌 + 5	zhuó	zhuō	stupid, clumsy, crude; convention					
+栋	棟		6	2710	9画	木 + 5	dòng		main beams supporting house					
+毯			5	2711	12画	毛 + 8	tǎn		rug, carpet, blanket					
+桐			"#N/A"	2712	10画	木 + 6	tóng		name applied various trees					
+砂			"#N/A"	2713	9画	石 + 4	shā		sand; pebbles, gravel; gritty					
+莽			"#N/A"	2714	12画	艸艹 + 7	mǎng	máng	thicket, underbrush; poisonous					
+泻	瀉		6	2715	8画	水氵氺 + 5	xiè		drain off, leak; flow, pour down					
+坪			"#N/A"	2716	8画	土 + 5	píng		level ground; Japanese measure					
+梳			5	2717	11画	木 + 7	shū		comb; brush					
+杉			"#N/A"	2718	7画	木 + 3	shān	shā	various species of pine and fir					
+晤			6	2719	11画	日 + 7	wù		have interview with; meet					
+稚			6	2720	13画	禾 + 8	zhì		young, immature; childhood					
+蔬			5	2721	17画	艸艹 + 11	shū	xū, shǔ	vegetables, greens					
+蝇			"#N/A"	2722	14画	虫 + 8	yíng		flies					
+捣	搗 擣		6	2723	10画	手扌 + 7	dǎo		hull; thresh; beat, attack					
+顷			"#N/A"	2724	8画	页 + 2	qǐng	kuǐ, qīng	a moment; a measure of area equal to 100 mu or 6.7 hectares; to lean					
+麽			"#N/A"	2725	14画	麻 + 3	mo	mǒ, ma, me	interrogative final particle; insignificant, small, tiny					
+尴	尷		6	2726	13画	尢 + 10	gān		embarrassed; ill at ease					
+镖			"#N/A"	2727	16画	钅 + 11	biāo		dart, spear, harpoon; escort					
+诧	詫		6	2728	8画	讠 + 6	chà		be surprised, be shocked					
+尬			6	2729	7画	尢 + 4	gà		limp, staggering gait; embarrass					
+硫			"#N/A"	2730	12画	石 + 7	liú	chù	sulfur					
+嚼			6	2731	21画	口 + 18	jiáo	jué, jiào	prattle, be glib					
+羡	羡 羨		4	2732	12画	羊 + 6	xiàn	yí, yán	envy, admire; praise; covet					
+沦			"#N/A"	2733	7画	水氵氺 + 4	lún		be lost; sink, be submerged					
+沪			"#N/A"	2734	7画	水氵氺 + 4	hù		Shanghai; river near Shanghai					
+旷	曠		6	2735	7画	日 + 3	kuàng		extensive, wide, broad; empty					
+彬			"#N/A"	2736	11画	彡 + 8	bīn		cultivated, well-bred					
+芽			6	2737	10画	艸艹 + 4	yá		bud, sprout, shoot					
+狸			"#N/A"	2738	10画	犬犭 + 7	lí	mái	fox					
+冥			"#N/A"	2739	10画	冖 + 8	míng		dark, gloomy, night; deep					
+碳			6	2740	14画	石 + 9	tàn		carbon					
+咧			"#N/A"	2741	9画	口 + 6	liě	lie	stretch mouth, grimace, grin					
+惕			6	2742	11画	心忄 + 8	tì		be cautious, careful, alert					
+暑			4	2743	12画	日 + 8	shǔ		hot					
+咯			"#N/A"	2744	9画	口 + 6	gē	kǎ, lo	final particle					
+萝			"#N/A"	2745	14画	艸艹 + 8	luó		type of creeping plant; turnip					
+汹	洶		6	2746	7画	水氵氺 + 4	xiōng		turbulent; noisy, restless					
+腥			6	2747	13画	肉月 + 9	xīng		raw meat; rank, strong-smelling					
+窥			"#N/A"	2748	13画	穴 + 8	kuī	kuǐ	peep, watch, spy on, pry					
+俺			"#N/A"	2749	10画	人亻 + 8	ǎn		personal pronoun, I					
+潭			"#N/A"	2750	15画	水氵氺 + 12	tán	xún, yǐn, dàn	deep pool, lake; deep, profound					
+崎			"#N/A"	2751	11画	山 + 8	qí		rough, uneven, jagged, rugged					
+麟			"#N/A"	2752	23画	鹿 + 12	lín		female of Chinese unicorn					
+捡	撿		5	2753	10画	手扌 + 7	jiǎn	liàn	to pick up					
+拯			"#N/A"	2754	9画	手扌 + 6	zhěng		help, save, aid; lift, raise					
+厥			"#N/A"	2755	12画	厂 + 10	jué		personal pronoun he, she, it					
+澄			6	2756	15画	水氵氺 + 12	chéng	dèng	purify water by allowing sediment to settle; clear, pure					
+萎			"#N/A"	2757	14画	艸艹 + 8	wēi	wěi	wither, wilt					
+哉			"#N/A"	2758	9画	口 + 6	zāi		final exclamatory particle					
+涡			"#N/A"	2759	10画	水氵氺 + 7	wō	guō	swirl, whirlpool, eddy					
+滔			6	2760	13画	水氵氺 + 10	tāo		overflow; rushing water, a torrent					
+暇			"#N/A"	2761	13画	日 + 9	xiá	xià	leisure, relaxation, spare time					
+溯			"#N/A"	2762	13画	水氵氺 + 10	sù	shuò	go upstream, go against current; formerly					
+鳞			"#N/A"	2763	20画	鱼 + 12	lín		fish scales					
+酿	釀		6	2764	14画	酉 + 7	niàng	niáng	brew, ferment					
+茵			"#N/A"	2765	12画	艸艹 + 6	yīn		a cushion, mattress; wormwood; Skimmia japon					
+愕			"#N/A"	2766	12画	心忄 + 9	è		startled, alarmed, astonished					
+瞅			"#N/A"	2767	14画	目 + 9	chǒu		see, look, gaze at					
+暮			"#N/A"	2768	15画	日 + 11	mù		evening, dusk, sunset; ending					
+衙			"#N/A"	2769	13画	行 + 7	yá	yú, yǔ, yù	public office; official residence					
+诫	誡		6	2770	9画	讠 + 7	jiè		warn, admonish; warning					
+斧			"#N/A"	2771	8画	斤 + 4	fǔ		axe, hatchet; chop, hew					
+兮			"#N/A"	2772	4画	八 + 2	xī		exclamatory particle					
+焕			"#N/A"	2773	11画	火灬 + 7	huàn		shining					
+棕			6	2774	12画	木 + 8	zōng		hemp palm; palm tree					
+佑			"#N/A"	2775	7画	人亻 + 5	yòu		help, protect, bless					
+嘶			"#N/A"	2776	15画	口 + 12	sī	xī	neighing of a horse; gravel voiced, husky throated; (Cant.) to hiccough					
+妓			"#N/A"	2777	7画	女 + 4	jì		prostitute					
+喧			"#N/A"	2778	12画	口 + 9	xuān	xuǎn	lively, noisy; clamor, talk loudly					
+蓉			"#N/A"	2779	16画	艸艹 + 10	róng		hibiscus; Chengdu, Sichuan					
+删	刪		5	2780	7画	刀刂 + 5	shān		to cut; delete					
+樱			"#N/A"	2781	15画	木 + 11	yīng		cherry, cherry blossom					
+伺			6	2782	7画	人亻 + 5	sì	cì	serve, wait upon, attend; examine					
+嗡			"#N/A"	2783	13画	口 + 10	wēng		sound of flying bees, airplanes					
+娥			"#N/A"	2784	10画	女 + 7	é		be beautiful; good; surname					
+梢			6	2785	11画	木 + 7	shāo	shào, xiāo	pointed tip of something long like a branch; rudder					
+坝	壩		6	2786	7画	土 + 4	bà		embankment; dam					
+蚕			"#N/A"	2787	10画	虫 + 4	cán	tiǎn	silkworms					
+敷			6	2788	15画	攴攵 + 11	fū		spread, diffuse; apply, paint					
+澜			"#N/A"	2789	15画	水氵氺 + 12	lán		overflowing; waves, ripples					
+杏			"#N/A"	2790	7画	木 + 3	xìng		apricot; almond					
+绥			"#N/A"	2791	10画	纟 + 7	suī	suí, tuǒ	soothe, appease, pacify					
+冶			"#N/A"	2792	7画	冫 + 5	yě		smelt, fuse metals; cast, found					
+庇			6	2793	7画	广 + 4	bì		cover, shield, shelter, protect					
+挠	撓		6	2794	9画	手扌 + 6	náo		scratch; disturb, bother; submit					
+搂	摟		6	2795	12画	手扌 + 9	lǒu	lōu, lóu	hug, embrace; drag, pull					
+倏			"#N/A"	2796	10画	人亻 + 8	shū		hastily, suddenly, abruptly					
+聂			"#N/A"	2797	10画	耳 + 4	niè	zhè	whisper; surname					
+婉			"#N/A"	2798	11画	女 + 8	wǎn		amiable, congenial; restrained					
+噪	譟 噪		6	2799	16画	口 + 13	zào		be noisy; chirp loudly					
+稼			"#N/A"	2800	15画	禾 + 10	jià		sow grain; sheaves of grain					
+鳍			"#N/A"	2801	18画	鱼 + 10	qí		fin					
+菱			"#N/A"	2802	14画	艸艹 + 8	líng		water-chestnut, water caltrop					
+盏			"#N/A"	2803	10画	皿 + 5	zhǎn		small cup or container					
+匿			"#N/A"	2804	11画	匸 + 9	nì		hide; go into hiding					
+吱			"#N/A"	2805	7画	口 + 4	zhī	zī	chirping, squeaking, hissing					
+寝			"#N/A"	2806	13画	宀 + 10	qǐn		sleep, rest; bed chamber					
+揽			"#N/A"	2807	12画	手扌 + 9	lǎn		grasp, take hold of; monopolize					
+髓			"#N/A"	2808	23画	骨 + 13	suǐ		bone marrow; essences, substances					
+秉			"#N/A"	2809	8画	禾 + 3	bǐng		grasp, hold; bundle; authority					
+哺			6	2810	10画	口 + 7	bǔ		chew food; feed					
+矢			"#N/A"	2811	5画	矢 + 0	shǐ		arrow, dart; vow, swear					
+啪			"#N/A"	2812	11画	口 + 8	pā		syllable					
+帜	幟		6	2813	8画	巾 + 5	zhì		flag, pennant; sign; fasten					
+邵			"#N/A"	2814	8画	邑阝 + 5	shào		surname; various place names					
+嗽			4	2815	14画	口 + 11	sòu		cough, gargle, clear throat					
+挟			"#N/A"	2816	9画	手扌 + 6	xié	jiā, xiá	clasp under arm; hold to bosom					
+缸			"#N/A"	2817	9画	缶 + 3	gāng	hóng	earthen jug, crock, cistern					
+揉			6	2818	12画	手扌 + 9	róu		rub, massage; crush by hand					
+腻	膩		6	2819	13画	肉月 + 9	nì		greasy, oily, dirty; smooth					
+驯			"#N/A"	2820	6画	马 + 3	xún	xùn	tame, docile, obedient					
+缆			"#N/A"	2821	12画	纟 + 9	làn		hawser, heavy-duty rope, cable					
+晌			"#N/A"	2822	10画	日 + 6	shǎng		noon, midday; moment; unit land measurement equal to seven mou (U+755D 畝), or the area that can be sown in one day					
+瘫	癱		6	2823	15画	疒 + 10	tān		paralysis, palsy, numbness					
+贮			"#N/A"	2824	8画	贝 + 4	zhǔ	zhù	store, stockpile, hoard					
+觅	覓		6	2825	8画	见 + 4	mì		seek; search					
+朦			"#N/A"	2826	18画	月 + 14	méng		condition or appearance of moon					
+僻			6	2827	15画	人亻 + 13	pì		out-of-the-way, remote; unorthodox					
+隋			"#N/A"	2828	12画	阜阝 + 9	suí	duò, tuǒ, tuō	Sui dynasty; surname					
+蔓			6	2829	17画	艸艹 + 11	màn	wàn, mán	creeping plants, tendrils, vines					
+咋			6	2830	8画	口 + 5	zhà	zé	question-forming particle, why? how? what?; to bite; loud					
+嵌			6	2831	12画	山 + 9	qiàn	qiān	inlay, set in; fall into; rugged					
+虔			"#N/A"	2832	10画	虍 + 4	qián		act with reverence; reverent					
+畔			6	2833	10画	田由甲申 + 5	pàn		boundary path dividing fields					
+琐			"#N/A"	2834	11画	玉玊王 + 7	suǒ		trifling, petty; troublesome					
+碟			"#N/A"	2835	14画	石 + 9	dié	shé	small dish, plate					
+涩			"#N/A"	2836	10画	水氵氺 + 7	sè		astringent; harsh; uneven, rough					
+胧			"#N/A"	2837	9画	肉月 + 5	lóng		condition or appearance of moon					
+嘟			"#N/A"	2838	15画	口 + 12	dū		sound of horn tooting					
+蹦			6	2839	18画	足 + 11	bèng		hop, leap, jump; bright					
+冢			"#N/A"	2840	10画	冖 + 8	zhǒng		burial mound, mausoleum; grand					
+浏	瀏		5	2841	9画	水氵氺 + 6	liú		clear; bright; whistling					
+裔			5	2842	13画	衣衤 + 7	yì		progeny, descendants, posterity					
+襟			"#N/A"	2843	19画	衣衤 + 13	jīn		lapel, collar					
+叨			6	2844	5画	口 + 2	tāo	dāo	talkative; quarrelous					
+诀			"#N/A"	2845	6画	讠 + 4	jué		take leave of, bid farewell					
+旭			"#N/A"	2846	6画	日 + 2	xù		rising sun; brilliance; radiant					
+虾			"#N/A"	2847	9画	虫 + 3	xiā	há	shrimp, prawn					
+簿			"#N/A"	2848	19画	竹 + 13	bù	bó	register, account book, notebook					
+啤			3	2849	11画	口 + 8	pí		beer					
+擒			"#N/A"	2850	16画	手扌 + 13	qín		catch, capture, seize, arrest					
+枣			"#N/A"	2851	8画	木 + 4	zǎo		date tree; dates, jujubes; surname					
+嘎			"#N/A"	2852	14画	口 + 11	gā	gǎ	sound of laughter; bad, malevolent					
+苑			"#N/A"	2853	11画	艸艹 + 5	yuàn	yuǎn, yù, yǔn,yūn, yuān	pasture, park, garden; mansion					
+牟			"#N/A"	2854	6画	牛牜 + 2	móu	mù, mào	make; seek, get; barley; low					
+呕	嘔		6	2855	7画	口 + 4	ōu	ǒu, òu	vomit; annoy, enrage					
+骆			"#N/A"	2856	9画	马 + 6	luò		a white horse with black mane; a camel					
+凸			6	2857	5画	凵 + 3	tū		protrude, bulge out, convex					
+熄			6	2858	14画	火灬 + 10	xí	xī	put out, extinguish, quash					
+兀			"#N/A"	2859	3画	儿 + 1	wù		to cut off the feet					
+喔			"#N/A"	2860	12画	口 + 9	ō	wō	descriptive of crying or of crowing					
+裳			6	2861	14画	衣衤 + 8	cháng	sháng	clothes; skirt; beautiful					
+凹			6	2862	5画	凵 + 3	āo	wā	concave, hollow, depressed; a pass, valley					
+赎			"#N/A"	2863	12画	贝 + 8	shú		buy, redeem; ransome; atone for					
+屯			"#N/A"	2864	4画	屮 + 1	tún	zhūn	village, hamlet; camp; station					
+膛			6	2865	15画	肉月 + 11	táng	tāng	chest; hollow space, cavity					
+浇	澆		5	2866	9画	水氵氺 + 6	jiāo	ào	spray, water, sprinkle					
+灼			"#N/A"	2867	7画	火灬 + 3	zhuó		burn; broil; cauterize; bright					
+裘			"#N/A"	2868	13画	衣衤 + 7	qiú		fur garments; surname					
+砰			"#N/A"	2869	10画	石 + 5	pēng	pīng, pèng	sound of crashing stones, bang!					
+棘			"#N/A"	2870	12画	木 + 8	jí		jujube tree; thorns, brambles					
+橡			5	2871	16画	木 + 12	xiàng		chestnut oak; rubber tree; rubber					
+碱			"#N/A"	2872	14画	石 + 9	jiǎn	xián	alkaline, alkali, lye, salt					
+聋	聾		6	2873	11画	耳 + 5	lóng		deaf					
+姥			5	2874	9画	女 + 6	mǔ	lǎo	maternal grandmother; midwife					
+瑜			"#N/A"	2875	13画	玉玊王 + 9	yú		flawless gem or jewel					
+毋			"#N/A"	2876	4画	毋母 + 0	wú	móu	do not; not; surname; rad. 80					
+娅			"#N/A"	2877	9画	女 + 6	yà		mutual term of address used by sons-in-law; a brother-in-law					
+沮			6	2878	8画	水氵氺 + 5	jū	jù, jiān, zǔ, jǔ	stop, prevent; defeated, dejected					
+萌			6	2879	14画	艸艹 + 8	méng	míng	bud, sprout					
+俏			"#N/A"	2880	9画	人亻 + 7	qiào		like, similar; resemble; pretty					
+黯			"#N/A"	2881	21画	黑 + 9	àn	ān	dark, black; sullen, dreary					
+撇			"#N/A"	2882	15画	手扌 + 11	piē	piě	discard, abandon, throw away					
+粟			"#N/A"	2883	12画	米 + 6	sù		unhusked millet; grain					
+粪			"#N/A"	2884	12画	米 + 6	fèn	sān	manure, dung, shit, excrement, night soil					
+尹			"#N/A"	2885	4画	丿 + 3	yǐn		govern; oversee; director					
+苟	茍		6	2886	11画	艸艹 + 5	gǒu	gōu	careless, frivolous; illicit; grammatical particle: if, but, if only; surname; grass name; distinguish DKW 30853 (ji4)					
+癫			"#N/A"	2887	21画	疒 + 16	diān		crazy, mad; madness, mania, insan					
+蚂			"#N/A"	2888	9画	虫 + 3	mǎ	mā, mà	ant; leech					
+禹			"#N/A"	2889	9画	禸 + 4	yǔ		legendary hsia dynasty founder					
+廖			"#N/A"	2890	14画	广 + 11	liào		surname; name of an ancient state					
+俭	儉		6	2891	9画	人亻 + 7	jiǎn		temperate, frugal, economical					
+帖			6	2892	8画	巾 + 5	tiē	tiě, tiè	invitation card; notice					
+煎			5	2893	13画	火灬 + 9	jiān	jiǎn, jiàn	fry in fat or oil; boil in water					
+缕			"#N/A"	2894	12画	纟 + 9	lǚ		thread; detailed, precise					
+窦			"#N/A"	2895	13画	穴 + 8	dòu		surname; hole, burrow; corrupt					
+簇			"#N/A"	2896	17画	竹 + 11	cù	còu, chuò	swarm, crowd together, cluster					
+棱			"#N/A"	2897	12画	木 + 8	léng	lēng, líng, lèng	squared timber; angle, edge					
+叩			"#N/A"	2898	5画	口 + 2	kòu		knock, ask; kowtow, bow					
+呐			"#N/A"	2899	7画	口 + 4	nè	nà	raise voice, yell out loud, shout; stammer					
+瑶			"#N/A"	2900	14画	玉玊王 + 10	yáo		precious jade					
+墅			6	2901	14画	土 + 11	shù		villa, country house					
+莺			"#N/A"	2902	13画	艸艹 + 7	yīng		oriole, green finch; Sylvia species (various)					
+烫	燙		5	2903	10画	火灬 + 6	tàng		scald, heat; wash; iron clothes					
+蛙			"#N/A"	2904	12画	虫 + 6	wā	jué	frog					
+歹			6	2905	4画	歹 + 0	dǎi	è, dāi	bad, vicious, depraved, wicked					
+伶			6	2906	7画	人亻 + 5	líng		lonely, solitary; actor					
+葱			"#N/A"	2907	15画	艸艹 + 9	cōng	chuāng	scallions, leeks, green onions					
+哮			"#N/A"	2908	10画	口 + 7	xiāo		cough; pant; roar					
+眩			"#N/A"	2909	10画	目 + 5	xuàn	huàn, juàn	to confuse; dizzy, dazed, disoriented					
+坤			"#N/A"	2910	8画	土 + 5	kūn		earth; feminine, female					
+廓			6	2911	14画	广 + 11	kuò		broad, wide, open, empty; to expand					
+讳	諱		6	2912	6画	讠 + 4	huì		conceal; shun; regard as taboo					
+啼			"#N/A"	2913	12画	口 + 9	tí		weep, whimper; howl, twitter					
+乍			"#N/A"	2914	5画	丿 + 4	zhà	zuò	first time, for the first time					
+瓣			6	2915	19画	瓜 + 14	bàn		petal; segment; valves					
+矫			"#N/A"	2916	11画	矢 + 6	jiǎo	jiáo, jiāo	correct, rectify, straighten out					
+跋			"#N/A"	2917	12画	足 + 5	bá	bèi	go by foot; epilogue, colophon					
+枉			6	2918	8画	木 + 4	wǎng		useless, in vain; bent, crooked					
+梗			"#N/A"	2919	11画	木 + 7	gěng		stem of flower, branch of plant					
+厕	厠 廁		5	2920	8画	厂 + 6	cè		mingle with; toilet, lavatory					
+琢			6	2921	12画	玉玊王 + 8	zhuó	zuó	polish jade; cut jade					
+讥	譏		6	2922	4画	讠 + 2	jī		ridicule, jeer, mock; inspect					
+釉			"#N/A"	2923	12画	釆 + 5	yòu		glaze					
+窟			"#N/A"	2924	13画	穴 + 8	kū		hole, cave; cellar; underground					
+敛			"#N/A"	2925	11画	攴攵 + 7	liàn	liǎn	draw back, fold back; collect					
+轼			"#N/A"	2926	10画	车 + 6	shì		horizontal wooden bar in front					
+庐			"#N/A"	2927	7画	广 + 4	lú		hut, cottage; name of a mountain					
+胚			"#N/A"	2928	9画	肉月 + 5	pēi		embryo; unfinished things					
+呻			6	2929	8画	口 + 5	shēn		groan, moan; recite with intonation					
+绰			"#N/A"	2930	11画	纟 + 8	chuò	chāo	graceful, delicate; spacious					
+扼			"#N/A"	2931	7画	手扌 + 4	è		grasp, clutch; choke, strangle					
+懿			"#N/A"	2932	22画	心忄 + 18	yì		virtuous, admirable, esteemed					
+炯			"#N/A"	2933	9画	火灬 + 5	jiǒng		bright, brilliant, clear; hot					
+竿			"#N/A"	2934	9画	竹 + 3	gān	gàn, gǎn	bamboo pole; penis					
+慷			6	2935	14画	心忄 + 11	kāng	kǎng	ardent; generous, magnanimous					
+虞			"#N/A"	2936	13画	虍 + 7	yú		concerned about, anxious, worried					
+锤	錘 鎚		6	2937	13画	钅 + 8	chuí		balance weight on scale; hammer					
+栓			"#N/A"	2938	10画	木 + 6	shuān		wooden peg, post or stick					
+桨	槳		6	2939	10画	木 + 6	jiǎng		oar, paddle					
+蚊			"#N/A"	2940	10画	虫 + 4	wén		mosquito; gnat					
+磅			6	2941	15画	石 + 10	bàng	pàng, páng,pāng	pound; weigh					
+孽			"#N/A"	2942	20画	子孑 + 17	niè		evil; son of concubine; ghost					
+惭	慚		5	2943	11画	心忄 + 8	cán		ashamed, humiliated; shameful					
+戳			"#N/A"	2944	18画	戈 + 14	chuō		prick, stab; stamp, seal, chop					
+禀			"#N/A"	2945	13画	示礻 + 8	bǐng	bǐn, lǐn	report to, petition					
+鄂			"#N/A"	2946	12画	邑阝 + 9	è		Hubei province; startled					
+馈	餽 饋		6	2947	12画	饣 + 9	kuì		offer food superior; send gift					
+垣			"#N/A"	2948	9画	土 + 6	yuán		low wall					
+溅	濺		6	2949	12画	水氵氺 + 9	jiàn	jiān	sprinkle, spray; spill, splash					
+咚			"#N/A"	2950	8画	口 + 5	dōng		onomatopoetic, a thumping sound					
+钙			"#N/A"	2951	9画	钅 + 4	gài		calcium					
+礁			"#N/A"	2952	17画	石 + 12	jiāo		reef; jetty; submerged rocks					
+彰			6	2953	14画	彡 + 11	zhāng		clear, manifest, obvious					
+豁			"#N/A"	2954	17画	谷 + 10	huō	huò, huá	open up, clear; exempt					
+眯	瞇		6	2955	11画	目 + 6	mǐ	mī, mì, mí	be blinded					
+磷			"#N/A"	2956	17画	石 + 12	lín	lìn, lǐn, líng	phosphorus; water rushing between					
+雯			"#N/A"	2957	12画	雨 + 4	wén		cloud patterns, coloring of cloud					
+墟			6	2958	15画	土 + 12	xū		high mound; hilly countryside; wasteland					
+迂			"#N/A"	2959	7画	辵辶 + 3	yū	yù	doctrinaire, abstruse, unrealistic					
+瞻			6	2960	18画	目 + 13	zhān		look; look out for; respect					
+颅			"#N/A"	2961	11画	页 + 5	lú		skull					
+琉			"#N/A"	2962	10画	玉玊王 + 6	liú		sparkling stone; glazed, opaque					
+悼			6	2963	11画	心忄 + 8	dào		grieve, mourn, lament; grieved					
+蝴			5	2964	15画	虫 + 9	hú		butterfly					
+拣	揀		6	2965	8画	手扌 + 5	jiǎn		choose; select; pick up; gather					
+渺			6	2966	12画	水氵氺 + 9	miǎo		endlessly long, boundless, vast					
+眷			"#N/A"	2967	11画	目 + 6	juàn		take interest in, care for					
+悯			"#N/A"	2968	10画	心忄 + 7	mǐn		pity, sympathize with, grieve for					
+汰			6	2969	7画	水氵氺 + 4	tài		excessive; scour, wash out					
+慑			"#N/A"	2970	13画	心忄 + 10	shè	zhé	afraid, scared, fearful					
+婶			"#N/A"	2971	11画	女 + 8	shěn		wife of father's younger brother					
+斐			"#N/A"	2972	12画	文 + 8	fěi	fēi	graceful, elegant, beautiful					
+嘘			"#N/A"	2973	14画	口 + 11	xū		exhale; blow out; deep sigh; hiss; praise					
+镶	鑲		6	2974	22画	钅 + 17	xiāng	ráng	insert, inlay, set, mount; fill					
+炕			"#N/A"	2975	8画	火灬 + 4	kàng	hāng	the brick-bed in northern China					
+宦			"#N/A"	2976	9画	宀 + 6	huàn		officialdom, government official					
+趴			6	2977	9画	足 + 2	pā		lying prone, leaning over					
+绷			"#N/A"	2978	11画	纟 + 8	bēng	běng, bèng	bind, draw firmly, strap					
+窘			"#N/A"	2979	12画	穴 + 7	jiǒng		embarrassed; hard-pressed					
+襄			"#N/A"	2980	17画	衣衤 + 11	xiāng		aid, help, assist; undress					
+珀			"#N/A"	2981	9画	玉玊王 + 5	pò		amber					
+嚣			"#N/A"	2982	18画	口 + 15	xiāo	áo	be noisy; treat with contempt					
+拚			"#N/A"	2983	8画	手扌 + 5	pàn	fān, fèn, pīn	risk, disregard; go all out for					
+酌			6	2984	10画	酉 + 3	zhuó		serve wine; feast; deliberate					
+浊	濁		6	2985	9画	水氵氺 + 6	zhuó		muddy, turbid, dirty, filthy					
+毓			"#N/A"	2986	13画	毋母 + 9	yù		give birth to; bring up, educate					
+撼			"#N/A"	2987	16画	手扌 + 13	hàn		move, shake; (Cant.) to fight					
+嗜			"#N/A"	2988	13画	口 + 10	shì		be fond of, have weakness for					
+扛	摃 扛		6	2989	6画	手扌 + 3	káng	gāng	carry on shoulders; lift					
+峭			6	2990	10画	山 + 7	qiào		steep, precipitous, rugged					
+磕			6	2991	15画	石 + 10	kē	kě	hit; collide, knock into; sound					
+翘	翹		6	2992	12画	羽 + 6	qiáo	qiào	turn up, lift, elevate, raise					
+槽			"#N/A"	2993	15画	木 + 11	cáo	zāo	trough; manger; vat, tank; groove; a distillery					
+淌			"#N/A"	2994	11画	水氵氺 + 8	tǎng	chàng, chǎng	trickle; flow down; drip					
+栅			"#N/A"	2995	9画	木 + 5	zhà	cè, shà, shān	fence; palisade; grid					
+颓			"#N/A"	2996	13画	页 + 7	tuí		ruined, decayed; disintegrate					
+熏	熏 燻		6	2997	14画	火灬 + 10	xūn	xùn	smoke, fog, vapor; smoke, cure					
+瑛			"#N/A"	2998	13画	玉玊王 + 9	yīng		luster of gem; crystal					
+颐			"#N/A"	2999	13画	页 + 7	yí		cheeks; jaw; chin; rear; to nourish					
+忖			"#N/A"	3000	6画	心忄 + 3	cǔn		guess, suppose, conjecture					

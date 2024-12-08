@@ -1,8 +1,11 @@
 {
-    "name": "GPT Hint Field Modifier",
-    "package": "gpt_hint_modifier",
-    "ankiweb_id": "your_ankiweb_id",
-    "author": "Your Name",
-    "version": "1.0.0",
-    "homepage": "https://github.com/yourusername/your-repo"
+    "package": "ankistuff",
+    "name": "Chinese Character Components",
+    "mod": 0,
+    "min_point_version": 0,
+    "max_point_version": 0,
+    "branch_index": 0,
+    "disabled": false,
+    "conflicts": [],
+    "requires": ["selenium"]
 }
