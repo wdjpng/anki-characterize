@@ -9,6 +9,7 @@ import tarfile
 import urllib.request
 from tempfile import NamedTemporaryFile
 from email.utils import parsedate_to_datetime
+from aqt.qt import QThread, pyqtSignal
 
 def process_chinese_characters(browser, use_local=False):
     selected_notes = browser.selectedNotes()
@@ -107,6 +108,12 @@ def setup_menu(browser):
 class ComponentDownloader(QThread):
     finished = pyqtSignal()
     
+    def __init__(self):
+        super().__init__()
+        # Keep a reference to prevent garbage collection
+        self.setObjectName("ComponentDownloader")
+        mw.component_downloader = self
+
     def run(self):
         url = "https://lukasmuenzel.com/mandarin/components.tar.xz"
         media_dir = mw.col.media.dir()
@@ -118,38 +125,51 @@ class ComponentDownloader(QThread):
                 with open(metadata_file, 'r') as f:
                     local_timestamp = float(f.read().strip())
                 
+                # Get server file's last modified time
                 response = requests.head(url)
                 server_timestamp = response.headers.get('last-modified')
                 if server_timestamp:
                     server_time = parsedate_to_datetime(server_timestamp).timestamp()
-                    if local_timestamp >= server_time:
+                    if local_timestamp >= server_time: 
+                        print("Component images are up-to-date")
                         return
 
-            # Download and process
+            # Download to temporary file
             with NamedTemporaryFile(suffix='.tar.xz', delete=False) as temp_file:
+                print("Downloading component images...")
                 urllib.request.urlretrieve(url, temp_file.name)
                 
+                # Extract from temporary file
+                print("Extracting component images...")
                 charactrize_dir = os.path.join(media_dir, 'charactrize')
                 os.makedirs(charactrize_dir, exist_ok=True)
                 
                 with tarfile.open(temp_file.name, 'r:xz') as tar:
                     tar.extractall(path=charactrize_dir)
                 
+                # Save current timestamp
                 response = requests.head(url)
                 if 'last-modified' in response.headers:
                     timestamp = parsedate_to_datetime(response.headers['last-modified']).timestamp()
                     with open(metadata_file, 'w') as f:
                         f.write(str(timestamp))
                     
+            # Clean up temp file
             os.unlink(temp_file.name)
+            print("Component images successfully installed!")
             
         except Exception as e:
-            # Silently handle errors in background thread
-            pass
+            print(f"Error downloading/extracting components: {e}")
         
         self.finished.emit()
+        # Clean up the reference after completion
+        mw.component_downloader = None
 
 def on_profile_loaded():
+    # If there's already a download in progress, don't start another
+    if hasattr(mw, 'component_downloader') and mw.component_downloader is not None:
+        return
+        
     downloader = ComponentDownloader()
     downloader.start()
 
