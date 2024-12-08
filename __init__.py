@@ -19,15 +19,18 @@ def process_chinese_characters(browser, use_local=False):
         note = mw.col.get_note(note_id)
         if 'Chinese character' in note:
             chinese_chars = note['Chinese character']
-            
+            # Replace &nbsp; with actual whitespace
+            chinese_chars = chinese_chars.replace('&nbsp;', ' ')
             # Process each character
             html_parts = []
             image_containers = []
             
             html_parts.append('<div style="height: 10px;"></div>')
             for char in chinese_chars:
-                if char in "。，、?.,!！？" or char.isspace():
+                if char in "。，、?.,!！？":
                     html_parts.append(char)
+                elif char.isspace():
+                    html_parts.append(' ')  # Direct space character instead of escaped version
                 else:
                     unicode_value = ord(char)
                     char_id = f"char_{unicode_value}"
@@ -42,16 +45,15 @@ def process_chinese_characters(browser, use_local=False):
                     container = [
                         f'<div id="{char_id}" class="image-container" style="display: flex; justify-content: center; align-items: center; width: 100%; flex-direction: column; margin: 0x 0;">'
                         f'<img src="https://www.strokeorder.com/assets/bishun/guide/{unicode_value}.png"'
-                        f' alt="{char}" style="width: min(50vmin, 500px); display: none; margin: 0 auto;">'
+                        f' alt="{char}" style="width: min(30vmin, 200px); display: none; margin: 0 auto;">'
                     ]
                     
                     # Add component image if it exists
                     if has_component:
                         container.append(
                             f'<img src="{component_filename}"'
-                            f' style="width: min(120vmin, 500px); display: none; margin: 0 auto;">'
+                            f' style="width: min(90vw, 700px); display: none; margin: 0 auto;">'
                         )
-                    else: container.append('EEROORR')
                     container.append('</div>')
                     image_containers.append(''.join(container))
             
